@@ -19,3 +19,5 @@ Mobility before Government Restrictions in the Wake of COVID-19 (joint with <a h
 # Contact
 
 francescopaolo.conteduca AT bancaditalia DOT it
+
+<a href="https://www.revolvermaps.com/?target=enlarge&amp;i=0zc0mexk33u"><img src="//ra.revolvermaps.com/h/m/a/0/ff0000/128/0/0zc0mexk33u.png" width="1" height="1" alt="Map" style="border:0;"></a>
