@@ -6,8 +6,6 @@ My current research interests are international trade and industrial organizatio
 
 Click here to download my <a href="https://drive.google.com/file/d/1yV_mKnNQXStVgrQJPjPGlhg_NKAb7wz4/view?usp=sharing">CV</a>.
 
-<i>This is my personal website and the views expressed here do not necessarily reflect those of the Bank of Italy</i>.
-
 # Working papers
 
 <a href = "https://drive.google.com/file/d/12a7-yrnwIpMa19hrOaZMtwdSoxmmFGnP/view">The Structure of Multinational Firms under Demand Risk</a> (joint with <a href = "https://ekaterinakazakova.com/"> Ekaterina Kazakova</a>).
