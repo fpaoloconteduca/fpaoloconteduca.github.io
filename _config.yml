@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: Francesco Paolo Conteduca
-description: Personal Webpage
+description: Personal Webpage. The views expressed here do not necessarily reflect those of the Bank of Italy.
+
 markdown: kramdown
 kramdown:
    auto_ids: true
