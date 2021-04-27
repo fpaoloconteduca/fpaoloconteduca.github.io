@@ -1,4 +1,7 @@
-# Welcome to my website
+<h1 style="color:red;text-align:left">this is heading 1 with color green</h1>
+<h2 style="color:red;text-align:left">this is heading 2 with color blue</h2>
+
+# Welcome to my webpage
 
 I am an economist at the Bank of Italy (World trade and emerging market economies division).
 
