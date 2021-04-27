@@ -6,7 +6,9 @@ My current research interests are international trade and industrial organizatio
 
 Click here to download my <a href="https://drive.google.com/file/d/1yV_mKnNQXStVgrQJPjPGlhg_NKAb7wz4/view?usp=sharing">CV</a>.
 
-# Working papers
+# Research
+
+## Working papers
 
 <a href = "https://drive.google.com/file/d/12a7-yrnwIpMa19hrOaZMtwdSoxmmFGnP/view">The Structure of Multinational Firms under Demand Risk</a> (joint with <a href = "https://ekaterinakazakova.com/"> Ekaterina Kazakova</a>).
 
@@ -16,7 +18,7 @@ Click here to download my <a href="https://drive.google.com/file/d/1yV_mKnNQXStV
 
 Mobility before Government Restrictions in the Wake of COVID-19 (joint with <a href = "https://sites.google.com/site/inesbuono/home">Ines Buono</a>).
 
-# Policy Papers
+## Policy Papers
 
 <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2021/mobility_restrictions_italy_second_wave.pdf">Measuring COVID-19 Restrictions in Italy During the Second Wave</a>.
 
@@ -24,7 +26,7 @@ Mobility before Government Restrictions in the Wake of COVID-19 (joint with <a h
 
 <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Nota_Lockdown_circolazione.pdf">Fighting covid-19: measuring the restrictiveness of government policies</a> (joint with Michele Mancini, Luca Rossi and Flavia Tonelli)
 
-# Work in process
+## Work in process
 
 Competitive Experimentation with Heterogeneous Learning Modes (joint with <a href = "https://niccololomys.com/">Niccolò Lomys</a>). 
 
