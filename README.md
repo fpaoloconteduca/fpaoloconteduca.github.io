@@ -1,5 +1,3 @@
-{:toc}
-
 # Welcome to my website
 
 I am an economist at the Bank of Italy (World trade and emerging market economies division).
