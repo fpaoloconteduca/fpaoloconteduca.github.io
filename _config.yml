@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Francesco Paolo Conteduca
-description: <img src="https://github.com/fpaoloconteduca/fpaoloconteduca.github.io/blob/main/circle-cropped.png" style="width:100px;height:100px;"><br>Personal Webpage. The views expressed here do not necessarily reflect those of the Bank of Italy.
+description: <img src="https://github.com/fpaoloconteduca/fpaoloconteduca.github.io/raw/main/circle-cropped.png" style="width:100px;height:100px;"><br>Personal Webpage. The views expressed here do not necessarily reflect those of the Bank of Italy.
 github: is\_project\_page:false
 markdown: kramdown
 kramdown:
