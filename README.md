@@ -16,6 +16,22 @@ Click here to download my <a href="https://drive.google.com/file/d/1yV_mKnNQXStV
 
 Mobility before Government Restrictions in the Wake of COVID-19 (joint with <a href = "https://sites.google.com/site/inesbuono/home">Ines Buono</a>).
 
+# Policy Papers
+
+<a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2021/mobility_restrictions_italy_second_wave.pdf">Measuring COVID-19 Restrictions in Italy During the Second Wave</a>.
+
+<a href = "https://www.sipotra.it/wp-content/uploads/2020/11/MOBILITY-BEFORE-GOVERNMENT-RESTRICTIONS-IN-THE-WAKE-OF-COVID-19.pdf">Mobility Before Government Restrictions in the Wake of COVID-19</a> (joint with <a href = "https://sites.google.com/site/inesbuono/home">Ines Buono</a>).
+
+<a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Nota_Lockdown_circolazione.pdf">Fighting covid-19: measuring the restrictiveness of government policies</a> (joint with Michele Mancini, Luca Rossi and Flavia Tonelli)
+
+# Work in process
+
+Competitive Experimentation with Heterogeneous Learning Modes (joint with <a href = "https://niccololomys.com/">Niccolò Lomys</a>. 
+
+Directed Consumer Search with Informative Advertising.
+
+
+
 # Contact
 
 francescopaolo DOT conteduca AT bancaditalia DOT it
