@@ -1,4 +1,4 @@
-<h1 style="color:rgb(223, 0, 0);text-align:left">Welcome to my webpage</h1>
+# Welcome to my webpage
 
 I am an economist at the Bank of Italy (World trade and emerging market economies division).
 
@@ -6,9 +6,9 @@ My current research interests are international trade and industrial organizatio
 
 Click here to download my <a href="https://drive.google.com/file/d/1yV_mKnNQXStVgrQJPjPGlhg_NKAb7wz4/view?usp=sharing">CV</a>.
 
-<h1 style="color:rgb(223, 0, 0);text-align:left">Research</h1>
+# Research
 
-<h2 style="color:rgb(223, 0, 0);text-align:left">Working papers</h2>
+## Working papers
 
 <a href = "https://drive.google.com/file/d/12a7-yrnwIpMa19hrOaZMtwdSoxmmFGnP/view">The Structure of Multinational Firms under Demand Risk</a> (joint with <a href = "https://ekaterinakazakova.com/"> Ekaterina Kazakova</a>).
 
@@ -18,7 +18,7 @@ Click here to download my <a href="https://drive.google.com/file/d/1yV_mKnNQXStV
 
 Mobility Before Government Restrictions in the Wake of COVID-19 (joint with <a href = "https://sites.google.com/site/inesbuono/home">Ines Buono</a>).
 
-<h2 style="color:rgb(223, 0, 0);text-align:left">Policy papers</h2>
+## Policy papers
 
 <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2021/mobility_restrictions_italy_second_wave.pdf">Measuring COVID-19 Restrictions in Italy During the Second Wave</a>.
 
@@ -26,13 +26,13 @@ Mobility Before Government Restrictions in the Wake of COVID-19 (joint with <a h
 
 <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Nota_Lockdown_circolazione.pdf">Fighting COVID-19: measuring the restrictiveness of government policies</a> (joint with Michele Mancini, Luca Rossi and Flavia Tonelli)
 
-<h2 style="color:rgb(223, 0, 0);text-align:left">Work in process</h2>
+## Work in process
 
 Competitive Experimentation with Heterogeneous Learning Modes (joint with <a href = "https://niccololomys.com/">Niccolò Lomys</a>). 
 
 Directed Consumer Search with Informative Advertising.
 
-<h1 style="color:rgb(223, 0, 0);text-align:left">Email</h1>
+# Email
 
 francescopaolo DOT conteduca AT bancaditalia DOT it
 
