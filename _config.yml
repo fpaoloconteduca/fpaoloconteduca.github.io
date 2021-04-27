@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Francesco Paolo Conteduca
-description: Personal Webpage. The views expressed here do not necessarily reflect those of the Bank of Italy. <br>Email:<br>francescopaolo[dot]conteduca[at]bancaditalia[dot]it.
+description: Personal Webpage. The views expressed here do not necessarily reflect those of the Bank of Italy. <br><br><br>Email:<br>francescopaolo[dot]conteduca[at]bancaditalia[dot]it.
 github: is\_project\_page:false
 markdown: kramdown
 kramdown:
