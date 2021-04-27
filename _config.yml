@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
+remote_theme: fpaoloconteduca/forty-jekyll-theme/
+
 title: Francesco Paolo Conteduca
 description: Personal Webpage. The views expressed here do not necessarily reflect those of the Bank of Italy.
 
