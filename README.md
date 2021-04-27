@@ -16,7 +16,7 @@ Click here to download my <a href="https://drive.google.com/file/d/1yV_mKnNQXStV
 
 <a href = "https://ekaterinakazakova.files.wordpress.com/2021/04/fdi-policy-and-firm-performance-evidence-from-india.pdf">FDI Policy and Firm Performance: Evidence from India</a> (joint with <a href = "https://ekaterinakazakova.com/"> Ekaterina Kazakova</a>).
 
-Mobility before Government Restrictions in the Wake of COVID-19 (joint with <a href = "https://sites.google.com/site/inesbuono/home">Ines Buono</a>).
+Mobility Before Government Restrictions in the Wake of COVID-19 (joint with <a href = "https://sites.google.com/site/inesbuono/home">Ines Buono</a>).
 
 ## Policy Papers
 
