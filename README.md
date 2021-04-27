@@ -26,7 +26,7 @@ Mobility before Government Restrictions in the Wake of COVID-19 (joint with <a h
 
 # Work in process
 
-Competitive Experimentation with Heterogeneous Learning Modes (joint with <a href = "https://niccololomys.com/">Niccolò Lomys</a>. 
+Competitive Experimentation with Heterogeneous Learning Modes (joint with <a href = "https://niccololomys.com/">Niccolò Lomys</a>). 
 
 Directed Consumer Search with Informative Advertising.
 
