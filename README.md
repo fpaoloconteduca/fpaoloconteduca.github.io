@@ -1,7 +1,4 @@
-<h1 style="color:red;text-align:left">this is heading 1 with color green</h1>
-<h2 style="color:red;text-align:left">this is heading 2 with color blue</h2>
-
-# Welcome to my webpage
+<h1 style="color:rgb(223, 0, 0);text-align:left">Welcome to my webpage</h1>
 
 I am an economist at the Bank of Italy (World trade and emerging market economies division).
 
