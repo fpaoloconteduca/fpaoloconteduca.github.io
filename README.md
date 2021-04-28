@@ -14,7 +14,11 @@ Click here to download my <a href="https://drive.google.com/file/d/1yV_mKnNQXStV
 
 <a href = "https://drive.google.com/file/d/1rWhlbiC8pCSQvjzhEfCo6I7vKjZqfTow/view">Serving Abroad: Export, M&A, and Greenfield Investment</a><br>(joint with <a href = "https://ekaterinakazakova.com/"> Ekaterina Kazakova</a>).
 
-<a href = "https://ekaterinakazakova.files.wordpress.com/2021/04/fdi-policy-and-firm-performance-evidence-from-india.pdf">FDI Policy and Firm Performance: Evidence from India</a><br>(joint with <a href = "https://ekaterinakazakova.com/"> Ekaterina Kazakova</a>).
+<!--<a href = "https://ekaterinakazakova.files.wordpress.com/2021/04/fdi-policy-and-firm-performance-evidence-from-india.pdf">FDI Policy and Firm Performance: Evidence from India</a><br>(joint with <a href = "https://ekaterinakazakova.com/"> Ekaterina Kazakova</a>).-->
+
+FDI Policy and Firm Performance: Evidence from India (joint with <a href = "https://ekaterinakazakova.com/"> Ekaterina Kazakova</a>).
+
+Reasoning on Company Takeovers:\\ From Tactic to Strategy (joint with Luigi Bellomarini, Lorenzo Bencivelli, Claudia Biancotti, Livia Blasi, Andrea Gentili, Rosario Laurendi, Davide Magnanimi, Michele Savini Zangrandi, and Flavia Tonelli).
 
 Mobility Before Government Restrictions in the Wake of COVID-19<br>(joint with <a href = "https://sites.google.com/site/inesbuono/home">Ines Buono</a>).
 
@@ -22,7 +26,7 @@ Mobility Before Government Restrictions in the Wake of COVID-19<br>(joint with <
 
 <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2021/mobility_restrictions_italy_second_wave.pdf">Measuring COVID-19 Restrictions in Italy During the Second Wave</a>.
 
-<a href = "https://www.sipotra.it/wp-content/uploads/2020/11/MOBILITY-BEFORE-GOVERNMENT-RESTRICTIONS-IN-THE-WAKE-OF-COVID-19.pdf">Mobility Before Government Restrictions in the Wake of COVID-19</a><br>(joint with <a href = "https://sites.google.com/site/inesbuono/home">Ines Buono</a>).
+<!-- <a href = "https://www.sipotra.it/wp-content/uploads/2020/11/MOBILITY-BEFORE-GOVERNMENT-RESTRICTIONS-IN-THE-WAKE-OF-COVID-19.pdf">Mobility Before Government Restrictions in the Wake of COVID-19</a><br>(joint with <a href = "https://sites.google.com/site/inesbuono/home">Ines Buono</a>).-->
 
 <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Nota_Lockdown_circolazione.pdf">Fighting COVID-19: measuring the restrictiveness of government policies</a><br>(joint with Michele Mancini, Luca Rossi and Flavia Tonelli)
 
