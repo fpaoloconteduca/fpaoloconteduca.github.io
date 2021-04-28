@@ -18,7 +18,7 @@ Click here to download my <a href="https://drive.google.com/file/d/1yV_mKnNQXStV
 
 FDI Policy and Firm Performance: Evidence from India (joint with <a href = "https://ekaterinakazakova.com/"> Ekaterina Kazakova</a>).
 
-Reasoning on Company Takeovers:\\ From Tactic to Strategy (joint with Luigi Bellomarini, Lorenzo Bencivelli, Claudia Biancotti, Livia Blasi, Andrea Gentili, Rosario Laurendi, Davide Magnanimi, Michele Savini Zangrandi, and Flavia Tonelli).
+Reasoning on Company Takeovers: From Tactic to Strategy<br>(joint with Luigi Bellomarini, Lorenzo Bencivelli, Claudia Biancotti, Livia Blasi, Andrea Gentili, Rosario Laurendi, Davide Magnanimi, Michele Savini Zangrandi, and Flavia Tonelli).
 
 Mobility Before Government Restrictions in the Wake of COVID-19<br>(joint with <a href = "https://sites.google.com/site/inesbuono/home">Ines Buono</a>).
 
