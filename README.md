@@ -16,11 +16,12 @@ Click here to download my <a href="https://drive.google.com/file/d/1yV_mKnNQXStV
 
 <!--<a href = "https://ekaterinakazakova.files.wordpress.com/2021/04/fdi-policy-and-firm-performance-evidence-from-india.pdf">FDI Policy and Firm Performance: Evidence from India</a><br>(joint with <a href = "https://ekaterinakazakova.com/"> Ekaterina Kazakova</a>).-->
 
-FDI Policy and Firm Performance: Evidence from India (joint with <a href = "https://ekaterinakazakova.com/"> Ekaterina Kazakova</a>).
+FDI Policy and Firm Performance: Evidence from India<br>(joint with <a href = "https://ekaterinakazakova.com/"> Ekaterina Kazakova</a>).
 
 Reasoning on Company Takeovers: From Tactic to Strategy<br>(joint with Luigi Bellomarini, Lorenzo Bencivelli, Claudia Biancotti, Livia Blasi, Andrea Gentili, Rosario Laurendi, Davide Magnanimi, Michele Savini Zangrandi, and Flavia Tonelli).
 
-<a href = "https://drive.google.com/file/d/12zzqqgky6vsbScPJ3_eoO-nwTsZQYR8d/view?usp=sharing">Mobility Before Government Restrictions in the Wake of COVID-19</a><br>(joint with <a href = "https://sites.google.com/site/inesbuono/home">Ines Buono</a>).
+<a href = "https://drive.google.com/file/d/12zzqqgky6vsbScPJ3_eoO-nwTsZQYR8d/view?usp=sharing">Mobility Before Government Restrictions in the Wake of COVID-19</a>,<br>
+previously published in the Banca d'Italia Covid-19 Note <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Nota_Covid_Mobility_Before_Gvt_Restrictions_09112020.pdf">click here</a><br>(joint with <a href = "https://sites.google.com/site/inesbuono/home">Ines Buono</a>).
 
 ## Policy papers
 
