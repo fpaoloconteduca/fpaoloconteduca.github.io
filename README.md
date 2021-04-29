@@ -25,7 +25,7 @@ previous version available as Banca d'Italia Covid-19 <a href = "https://www.ban
 
 ## Policy papers
 
-<a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2021/mobility_restrictions_italy_second_wave.pdf">Measuring COVID-19 Restrictions in Italy During the Second Wave</a>.
+<a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2021/mobility_restrictions_italy_second_wave.pdf">Measuring COVID-19 Restrictions in Italy During the Second Wave</a>
 
 <!-- <a href = "https://www.sipotra.it/wp-content/uploads/2020/11/MOBILITY-BEFORE-GOVERNMENT-RESTRICTIONS-IN-THE-WAKE-OF-COVID-19.pdf">Mobility Before Government Restrictions in the Wake of COVID-19</a><br>(joint with <a href = "https://sites.google.com/site/inesbuono/home">Ines Buono</a>).-->
 
