@@ -29,9 +29,9 @@ previous version available as Banca d'Italia Covid-19 <a href = "https://www.ban
 
 <!-- <a href = "https://www.sipotra.it/wp-content/uploads/2020/11/MOBILITY-BEFORE-GOVERNMENT-RESTRICTIONS-IN-THE-WAKE-OF-COVID-19.pdf">Mobility Before Government Restrictions in the Wake of COVID-19</a><br>(joint with <a href = "https://sites.google.com/site/inesbuono/home">Ines Buono</a>).-->
 
-<a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Nota_Lockdown_circolazione.pdf">Fighting COVID-19: measuring the restrictiveness of government policies</a><br>(joint with <a href = "http://www.tradeconomics.com/mancini">Michele Mancini</a>, Luca Rossi and Flavia Tonelli)
+<a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Nota_Lockdown_circolazione.pdf">Fighting COVID-19: measuring the restrictiveness of government policies</a><br>(joint with <a href = "http://www.tradeconomics.com/mancini">Michele Mancini</a>, Luca Rossi, and Flavia Tonelli)
 
-<a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Aggiornamento_evoluzione_pandemia_Covid_19-2020.07.20.pdf">Aggiornamento sull'evoluzione della pandemia COVID-19 (in italian, <i>Update on the evolution of the COVID-19 pandemic</i>)</a> (joint with Alessandro Borin, Giuseppe Ilardi,  <a href = "http://www.tradeconomics.com/mancini">Michele Mancini</a> and Luca Rossi)
+<a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Aggiornamento_evoluzione_pandemia_Covid_19-2020.07.20.pdf">Aggiornamento sull'evoluzione della pandemia COVID-19 (in italian, <i>Update on the evolution of the COVID-19 pandemic</i>)</a> (joint with Alessandro Borin, Giuseppe Ilardi,  <a href = "http://www.tradeconomics.com/mancini">Michele Mancini</a>, and Luca Rossi)
  
    
 ## Work in process
