@@ -14,8 +14,6 @@ Click here to download my <a href="https://github.com/fpaoloconteduca/fpaolocont
 
 <a href = "https://drive.google.com/file/d/1rWhlbiC8pCSQvjzhEfCo6I7vKjZqfTow/view">Serving Abroad: Export, M&A, and Greenfield Investment</a><br>(joint with <a href = "https://ekaterinakazakova.com/"> Ekaterina Kazakova</a>).
 
-<!--<a href = "https://ekaterinakazakova.files.wordpress.com/2021/04/fdi-policy-and-firm-performance-evidence-from-india.pdf">FDI Policy and Firm Performance: Evidence from India</a><br>(joint with <a href = "https://ekaterinakazakova.com/"> Ekaterina Kazakova</a>).-->
-
 FDI Policy and Firm Performance: Evidence from India<br>(joint with <a href = "https://ekaterinakazakova.com/"> Ekaterina Kazakova</a>).
 
 Reasoning on Company Takeovers: From Tactic to Strategy<br>(joint with Luigi Bellomarini, Lorenzo Bencivelli, Claudia Biancotti, Livia Blasi, Andrea Gentili, Rosario Laurendi, Davide Magnanimi, Michele Savini Zangrandi, and Flavia Tonelli).
