@@ -20,7 +20,7 @@ FDI Policy and Firm Performance: Evidence from India<br>(joint with <a href = "h
 
 Reasoning on Company Takeovers: From Tactic to Strategy<br>(joint with Luigi Bellomarini, Lorenzo Bencivelli, Claudia Biancotti, Livia Blasi, Andrea Gentili, Rosario Laurendi, Davide Magnanimi, Michele Savini Zangrandi, and Flavia Tonelli).
 
-<a href = "https://drive.google.com/file/d/12zzqqgky6vsbScPJ3_eoO-nwTsZQYR8d/view?usp=sharing">Mobility Before Government Restrictions in the Wake of COVID-19</a><br>
+<a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3873765">Mobility Before Government Restrictions in the Wake of COVID-19</a><br>
 previous version available as Banca d'Italia Covid-19 <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Nota_Covid_Mobility_Before_Gvt_Restrictions_09112020.pdf">Note</a><br>(joint with <a href = "https://sites.google.com/site/inesbuono/home">Ines Buono</a>).
 
 ## Policy papers
