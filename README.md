@@ -21,10 +21,13 @@ Reasoning on Company Takeovers: From Tactic to Strategy<br>(joint with Luigi Bel
 <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3873765">Mobility Before Government Restrictions in the Wake of COVID-19</a><br>
 previous version available as Banca d'Italia Covid-19 <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Nota_Covid_Mobility_Before_Gvt_Restrictions_09112020.pdf">Note</a><br>(joint with <a href = "https://sites.google.com/site/inesbuono/home">Ines Buono</a>).
 
+A new dataset for local and national COVID-19-related restrictions in Italy<br>
+previous version available as Banca d'Italia Covid-19 <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2021/mobility_restrictions_italy_second_wave.pdf">Note</a><br>
+(joint with Alessandro Borin)
 
 ## Policy papers
 
-<a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2021/mobility_restrictions_italy_second_wave.pdf">Measuring COVID-19 Restrictions in Italy During the Second Wave</a>
+<!-- <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2021/mobility_restrictions_italy_second_wave.pdf">Measuring COVID-19 Restrictions in Italy During the Second Wave</a>
 
 <!-- <a href = "https://www.sipotra.it/wp-content/uploads/2020/11/MOBILITY-BEFORE-GOVERNMENT-RESTRICTIONS-IN-THE-WAKE-OF-COVID-19.pdf">Mobility Before Government Restrictions in the Wake of COVID-19</a><br>(joint with <a href = "https://sites.google.com/site/inesbuono/home">Ines Buono</a>).-->
 
