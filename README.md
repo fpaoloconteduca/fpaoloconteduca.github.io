@@ -25,6 +25,8 @@ A new dataset for local and national COVID-19-related restrictions in Italy<br>
 previous version available as Banca d'Italia Covid-19 <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2021/mobility_restrictions_italy_second_wave.pdf">Note</a><br>
 (joint with Alessandro Borin)
 
+<a href = "https://www.bancaditalia.it/pubblicazioni/qef/2021-0664/index.html?com.dotmarketing.htmlpage.language=1">Forecasting Italian GDP growth with epidemiological data</a><br>(joint with Valentina Aprigliano, Alessandro Borin, Simone Emiliozzi, Marco Flaccadoro, Sabina Marchetti, and <a href = "https://sites.google.com/site/stefaniavilla3">Stefania Villa</a>)
+
 ## Policy papers
 
 <!-- <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2021/mobility_restrictions_italy_second_wave.pdf">Measuring COVID-19 Restrictions in Italy During the Second Wave</a>
