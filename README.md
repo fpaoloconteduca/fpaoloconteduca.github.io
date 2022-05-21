@@ -10,7 +10,7 @@ Click here to download my <a href="https://github.com/fpaoloconteduca/fpaolocont
 
 ## Publications
 
-<a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4023312">A new dataset for local and national COVID-19-related restrictions in Italy</a><br> forthcoming on the <bf>The Italian Economic Journal</br>, previous version available as Banca d'Italia Covid-19 <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2021/mobility_restrictions_italy_second_wave.pdf">Note</a><br>
+<a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4023312">A new dataset for local and national COVID-19-related restrictions in Italy</a><br> forthcoming on the <bf>The Italian Economic Journal</bf>, previous version available as Banca d'Italia Covid-19 <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2021/mobility_restrictions_italy_second_wave.pdf">Note</a><br>
 (joint with Alessandro Borin)
 
 ## Working papers
