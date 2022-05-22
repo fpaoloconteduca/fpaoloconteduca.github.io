@@ -11,7 +11,7 @@ Click here to download my <a href="https://github.com/fpaoloconteduca/fpaolocont
 ## Publications
 
 <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4023312">A new dataset for local and national COVID-19-related restrictions in Italy</a> forthcoming in the <b><i>The Italian Economic Journal</i></b> (joint with Alessandro Borin) <br>
-(<a href = "https://www.dropbox.com/sh/s6j0eb12ipsomc4/AAAfAeoAJch9Nf8pBUlrfBNma?dl=0">Data</a>)
+<a href = "https://www.dropbox.com/sh/s6j0eb12ipsomc4/AAAfAeoAJch9Nf8pBUlrfBNma?dl=0">Data</a>
 
 ## Working papers
 
