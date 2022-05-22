@@ -10,7 +10,8 @@ Click here to download my <a href="https://github.com/fpaoloconteduca/fpaolocont
 
 ## Publications
 
-<a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4023312">A new dataset for local and national COVID-19-related restrictions in Italy</a> forthcoming in the <b><i>The Italian Economic Journal</i></b>, previous version available as Banca d'Italia Covid-19 <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2021/mobility_restrictions_italy_second_wave.pdf">Note</a> (joint with Alessandro Borin)
+<a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4023312">A new dataset for local and national COVID-19-related restrictions in Italy</a> forthcoming in the <b><i>The Italian Economic Journal</i></b> (joint with Alessandro Borin) <br>
+(<a href = "https://www.dropbox.com/sh/s6j0eb12ipsomc4/AAAfAeoAJch9Nf8pBUlrfBNma?dl=0">Data</a>)
 
 ## Working papers
 
@@ -35,7 +36,7 @@ previous version available as Banca d'Italia Covid-19 <a href = "https://www.ban
 
 ## Policy papers
 
-<!-- <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2021/mobility_restrictions_italy_second_wave.pdf">Measuring COVID-19 Restrictions in Italy During the Second Wave</a>
+<a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2021/mobility_restrictions_italy_second_wave.pdf">Measuring COVID-19 Restrictions in Italy During the Second Wave</a>
 
 <!-- <a href = "https://www.sipotra.it/wp-content/uploads/2020/11/MOBILITY-BEFORE-GOVERNMENT-RESTRICTIONS-IN-THE-WAKE-OF-COVID-19.pdf">Mobility Before Government Restrictions in the Wake of COVID-19</a><br>(joint with <a href = "https://sites.google.com/site/inesbuono/home">Ines Buono</a>).-->
 
