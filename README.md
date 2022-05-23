@@ -29,7 +29,7 @@ previous version available as Banca d'Italia Covid-19 <a href = "https://www.ban
 
 <a href = "https://www.bancaditalia.it/pubblicazioni/qef/2021-0664/index.html?com.dotmarketing.htmlpage.language=1">Forecasting Italian GDP growth with epidemiological data</a><br>(joint with Valentina Aprigliano, Alessandro Borin, Simone Emiliozzi, <a href = "https://sites.google.com/view/marcoflaccadoro/home">Marco Flaccadoro</a>, Sabina Marchetti, and <a href = "https://sites.google.com/site/stefaniavilla3">Stefania Villa</a>)
 
-Quantitative Assessment of the Economic Impact of the Trade Disruptions Following the Russian Invasion of Ukraine<br>(joint with Alessandro Borin, Enrica Di Stefano, <a href = "http://www.tradeconomics.com/mancini">Michele Mancini</a>, <a href = "https://sites.google.com/site/vanessagunnella/">Vanessa Gunnella</a>, and <a href = "https://sites.google.com/site/ludovicpanon/home">Ludovic Panon</a>)
+
 
 ## Policy papers
 
@@ -41,6 +41,7 @@ Quantitative Assessment of the Economic Impact of the Trade Disruptions Followin
 
 <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Aggiornamento_evoluzione_pandemia_Covid_19-2020.07.20.pdf">Aggiornamento sull'evoluzione della pandemia COVID-19 (in Italian, <i>Update on the evolution of the COVID-19 pandemic</i>)</a><br>(joint with Alessandro Borin, Giuseppe Ilardi,  <a href = "http://www.tradeconomics.com/mancini">Michele Mancini</a>, and Luca Rossi)
  
+Quantitative Assessment of the Economic Impact of the Trade Disruptions Following the Russian Invasion of Ukraine<br>(joint with Alessandro Borin, Enrica Di Stefano, <a href = "http://www.tradeconomics.com/mancini">Michele Mancini</a>, <a href = "https://sites.google.com/site/vanessagunnella/">Vanessa Gunnella</a>, and <a href = "https://sites.google.com/site/ludovicpanon/home">Ludovic Panon</a>)
    
 ## Work in process
 
