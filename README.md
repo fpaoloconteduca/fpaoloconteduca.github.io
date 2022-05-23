@@ -10,7 +10,7 @@ Click here to download my <a href="https://github.com/fpaoloconteduca/fpaolocont
 
 ## Publications
 
-<a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4023312">A new dataset for local and national COVID-19-related restrictions in Italy</a> accepted for publication in the <b><i>The Italian Economic Journal</i></b> (joint with <a href = "https://www.researchgate.net/profile/Alessandro-Borin">Alessandro Borin</a>) <br>
+<a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4023312">A new dataset for local and national COVID-19-related restrictions in Italy</a> accepted for publication in the <b><i>The Italian Economic Journal</i></b> (joint with Alessandro Borin) <br>
 <a href = "https://www.dropbox.com/sh/s6j0eb12ipsomc4/AAAfAeoAJch9Nf8pBUlrfBNma?dl=0">Data</a>
 
 ## Working papers
@@ -27,10 +27,6 @@ Reasoning on Company Takeovers: From Tactic to Strategy<br>(joint with Luigi Bel
 
 <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3873765">Mobility and Consumption Choices during the COVID-19 Pandemic</a><br>
 previous version available as Banca d'Italia Covid-19 <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Nota_Covid_Mobility_Before_Gvt_Restrictions_09112020.pdf">Note</a><br>(joint with <a href = "https://sites.google.com/site/inesbuono/home">Ines Buono</a>).
-
-<a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4023312">A new dataset for local and national COVID-19-related restrictions in Italy</a><br>
-previous version available as Banca d'Italia Covid-19 <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2021/mobility_restrictions_italy_second_wave.pdf">Note</a><br>
-(joint with Alessandro Borin)
 
 <a href = "https://www.bancaditalia.it/pubblicazioni/qef/2021-0664/index.html?com.dotmarketing.htmlpage.language=1">Forecasting Italian GDP growth with epidemiological data</a><br>(joint with Valentina Aprigliano, Alessandro Borin, Simone Emiliozzi, Marco Flaccadoro, Sabina Marchetti, and <a href = "https://sites.google.com/site/stefaniavilla3">Stefania Villa</a>)
 
