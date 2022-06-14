@@ -24,7 +24,8 @@ Click here to download my <a href="https://github.com/fpaoloconteduca/fpaolocont
 
 FDI Policy and Firm Performance: Evidence from India<br>(joint with <a href = "https://ekaterinakazakova.com/"> Ekaterina Kazakova</a>).
 
-Reasoning on Company Takeovers: From Tactic to Strategy<br>(joint with Luigi Bellomarini, Lorenzo Bencivelli, Claudia Biancotti, Livia Blasi, Andrea Gentili, Rosario Laurendi, Davide Magnanimi, Michele Savini Zangrandi, and Flavia Tonelli).
+Reasoning on Company Takeovers: From Tactic to Strategy<br>(joint with Luigi Bellomarini, Lorenzo Bencivelli, Claudia Biancotti, Livia Blasi, Andrea Gentili, Rosario Laurendi, Davide Magnanimi, Michele Savini Zangrandi, Flavia Tonelli, Stefano Ceri, Davide Benedetto, Markus Nissl, and Emanuel Sallinger).
+
 
 <a href = "https://www.bancaditalia.it/pubblicazioni/qef/2022-0681/QEF_681_22.pdf">An epidemic model for SARS-COV-2 with self-adaptive containment measures</a><br>(joint with Sabina Marchetti, Alessandro Borin, Giuseppe Ilardi, Giorgio Guzzetta, Piero Poletti, Antonino Bella, Paola Stefanelli, Flavia Riccardo, Stefano Merler, Andrea Brandolini, Silvio Brusaferro).<br>
 <a href = "https://github.com/SabinaMarchetti/Marchettietal_2022">Replication package</a>
