@@ -10,7 +10,7 @@ Click here to download my <a href="https://github.com/fpaoloconteduca/fpaolocont
 
 ## Publications
 
-<a href = "https://link.springer.com/article/10.1007/s40797-022-00197-0">A new dataset for local and national COVID-19-related restrictions in Italy</a> (joint with Alessandro Borin). <b><i>The Italian Economic Journal, vol. 8, pp. 435 – 470 (2022)</i></b><br>
+<a href = "https://link.springer.com/article/10.1007/s40797-022-00197-0">A new dataset for local and national COVID-19-related restrictions in Italy</a> (joint with Alessandro Borin). <br><b><i>The Italian Economic Journal, vol. 8, pp. 435 – 470 (2022)</i></b><br>
 <a href = "https://www.dropbox.com/sh/s6j0eb12ipsomc4/AAAfAeoAJch9Nf8pBUlrfBNma?dl=0">Data</a>
 
 ## Working papers
