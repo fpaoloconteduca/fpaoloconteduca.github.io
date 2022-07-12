@@ -28,7 +28,9 @@ Reasoning on Company Takeovers: From Tactic to Strategy<br>(joint with Luigi Bel
 
 
 <a href = "https://www.bancaditalia.it/pubblicazioni/qef/2022-0681/QEF_681_22.pdf">An epidemic model for SARS-COV-2 with self-adaptive containment measures</a><br>(joint with Sabina Marchetti, Alessandro Borin, Giuseppe Ilardi, Giorgio Guzzetta, Piero Poletti, Antonino Bella, Paola Stefanelli, Flavia Riccardo, Stefano Merler, Andrea Brandolini, Silvio Brusaferro).<br>
-<a href = "https://zenodo.org/record/6668605#.YrAbOoXP3IV">Replication package</a>
+<a href = "https://zenodo.org/record/6668605#.YrAbOoXP3IV">Replication package</a><br>
+Accepted for publication in <br><b><i>PLoS One</i></b><br>
+
 
 <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3873765">Mobility and Consumption Choices during the COVID-19 Pandemic</a><br>
 previous version available as Banca d'Italia Covid-19 <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Nota_Covid_Mobility_Before_Gvt_Restrictions_09112020.pdf">Note</a><br>(joint with <a href = "https://sites.google.com/site/inesbuono/home">Ines Buono</a>).
