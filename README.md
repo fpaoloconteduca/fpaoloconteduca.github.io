@@ -53,6 +53,9 @@ previous version available as Banca d'Italia Covid-19 <a href = "https://www.ban
    
 ## Work in process
 
+Natural Disasters and Global Sourcing: New Evidence from Firm-to-Firm Transactions<br>
+(joint with Alessandro Borin, Andrea Linarello, and <a href = "https://sites.google.com/site/ludovicpanon/home">Ludovic Panon</a>)
+
 Competitive Experimentation with Heterogeneous Learning Modes<br>(joint with <a href = "https://niccololomys.com/">Niccolò Lomys</a>). 
 
 Directed Consumer Search with Informative Advertising.
