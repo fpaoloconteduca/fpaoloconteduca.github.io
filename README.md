@@ -14,7 +14,7 @@ Click here to download my <a href="https://github.com/fpaoloconteduca/fpaolocont
 <a href = "https://www.dropbox.com/sh/s6j0eb12ipsomc4/AAAfAeoAJch9Nf8pBUlrfBNma?dl=0">Data</a>
 
 <a href = "https://doi.org/10.1371/journal.pone.0272009">An epidemic model for SARS-COV-2 with self-adaptive containment measures</a><br>(joint with Sabina Marchetti, Alessandro Borin, Giuseppe Ilardi, Giorgio Guzzetta, Piero Poletti, Antonino Bella, Paola Stefanelli, Flavia Riccardo, Stefano Merler, Andrea Brandolini, Silvio Brusaferro).<br>
-<b><i>PLoS One, vol. 17(7), e0272009 (2022)</i></b><br>
+<b><i>PLOS One, vol. 17(7), e0272009 (2022)</i></b><br>
 <a href = "https://zenodo.org/record/6668605#.YrAbOoXP3IV">Replication package</a><br>
 
 ## Working papers
