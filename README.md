@@ -13,6 +13,10 @@ Click here to download my <a href="https://github.com/fpaoloconteduca/fpaolocont
 <a href = "https://doi.org/10.1007/s40797-022-00197-0">A new dataset for local and national COVID-19-related restrictions in Italy</a> (joint with Alessandro Borin). <br><b><i>The Italian Economic Journal, vol. 8(2), pp. 435 – 470 (2022)</i></b><br>
 <a href = "https://www.dropbox.com/sh/s6j0eb12ipsomc4/AAAfAeoAJch9Nf8pBUlrfBNma?dl=0">Data</a>
 
+<a href = "https://doi.org/10.1371/journal.pone.0272009">An epidemic model for SARS-COV-2 with self-adaptive containment measures</a><br>(joint with Sabina Marchetti, Alessandro Borin, Giuseppe Ilardi, Giorgio Guzzetta, Piero Poletti, Antonino Bella, Paola Stefanelli, Flavia Riccardo, Stefano Merler, Andrea Brandolini, Silvio Brusaferro).<br>
+<b><i>PLoS One, vol. 17(7), e0272009 (2022)</i></b><br>
+<a href = "https://zenodo.org/record/6668605#.YrAbOoXP3IV">Replication package</a><br>
+
 ## Working papers
 
 
@@ -25,11 +29,6 @@ Click here to download my <a href="https://github.com/fpaoloconteduca/fpaolocont
 FDI Policy and Firm Performance: Evidence from India<br>(joint with <a href = "https://ekaterinakazakova.com/"> Ekaterina Kazakova</a>).
 
 Reasoning on Company Takeovers: From Tactic to Strategy<br>(joint with Luigi Bellomarini, Lorenzo Bencivelli, Claudia Biancotti, Livia Blasi, Andrea Gentili, Rosario Laurendi, Davide Magnanimi, Michele Savini Zangrandi, Flavia Tonelli, Stefano Ceri, Davide Benedetto, Markus Nissl, and Emanuel Sallinger).
-
-
-<a href = "https://www.bancaditalia.it/pubblicazioni/qef/2022-0681/QEF_681_22.pdf">An epidemic model for SARS-COV-2 with self-adaptive containment measures</a><br>(joint with Sabina Marchetti, Alessandro Borin, Giuseppe Ilardi, Giorgio Guzzetta, Piero Poletti, Antonino Bella, Paola Stefanelli, Flavia Riccardo, Stefano Merler, Andrea Brandolini, Silvio Brusaferro).<br>
-<a href = "https://zenodo.org/record/6668605#.YrAbOoXP3IV">Replication package</a><br>
-Accepted for publication in <b><i>PLoS One</i></b>
 
 
 <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3873765">Mobility and Consumption Choices during the COVID-19 Pandemic</a><br>
