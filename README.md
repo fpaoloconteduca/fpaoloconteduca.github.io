@@ -4,7 +4,7 @@ I am an economist at the Bank of Italy (World trade and emerging market economie
 
 My current research interests are international trade and industrial organization with a focus on the determinants of multinational production. I also work on the relation between Covid-19 and the economic activity.
 
-Click here to view my <a href="fpaoloconteduca.github.io/raw/main/CV.pdf" target ="_blank">CV</a>.
+Click here to view my <a href="fpaoloconteduca.github.io/CV.pdf" target ="_blank">CV</a>.
 
 # Research
 
