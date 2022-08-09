@@ -20,15 +20,13 @@ Click here to view my <a href="https://github.com/fpaoloconteduca/fpaoloconteduc
 ## Working papers
 
 
-
+Reasoning on Company Takeovers: From Tactic to Strategy<br>(joint with Luigi Bellomarini, Lorenzo Bencivelli, Claudia Biancotti, Livia Blasi, Andrea Gentili, Rosario Laurendi, Davide Magnanimi, Michele Savini Zangrandi, Flavia Tonelli, Stefano Ceri, Davide Benedetto, Markus Nissl, and Emanuel Sallinger).<br>Accepted for publication in <b><i>Data & Knowledge Engineering</i></b><br>
 
 <a href = "https://drive.google.com/file/d/12a7-yrnwIpMa19hrOaZMtwdSoxmmFGnP/view">The Structure of Multinational Firms under Demand Risk</a><br>(joint with <a href = "https://ekaterinakazakova.com/"> Ekaterina Kazakova</a>).
 
 <a href = "https://drive.google.com/file/d/1rWhlbiC8pCSQvjzhEfCo6I7vKjZqfTow/view">Serving Abroad: Export, M&A, and Greenfield Investment</a><br>(joint with <a href = "https://ekaterinakazakova.com/"> Ekaterina Kazakova</a>).
 
 FDI Policy and Firm Performance: Evidence from India<br>(joint with <a href = "https://ekaterinakazakova.com/"> Ekaterina Kazakova</a>).
-
-Reasoning on Company Takeovers: From Tactic to Strategy<br>(joint with Luigi Bellomarini, Lorenzo Bencivelli, Claudia Biancotti, Livia Blasi, Andrea Gentili, Rosario Laurendi, Davide Magnanimi, Michele Savini Zangrandi, Flavia Tonelli, Stefano Ceri, Davide Benedetto, Markus Nissl, and Emanuel Sallinger).
 
 
 <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3873765">Mobility and Consumption Choices during the COVID-19 Pandemic</a><br>
