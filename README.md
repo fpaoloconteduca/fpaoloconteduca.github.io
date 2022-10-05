@@ -19,9 +19,12 @@ Click here to view my <a href="https://github.com/fpaoloconteduca/fpaoloconteduc
 <a href = "https://doi.org/10.1007/s40797-022-00197-0">1. A new dataset for local and national COVID-19-related restrictions in Italy</a> (joint with Alessandro Borin). <br><b><i>The Italian Economic Journal, vol. 8(2), pp. 435 – 470 (2022)</i></b><br>
 <a href = "https://www.dropbox.com/sh/s6j0eb12ipsomc4/AAAfAeoAJch9Nf8pBUlrfBNma?dl=0">Data</a>
 
+
+
 ## Working papers
 
-
+<a href = "https://www.bancaditalia.it/pubblicazioni/qef/2022-0700/QEF_700_22.pdf">Quantitative Assessment of the Economic Impact of the Trade Disruptions Following the Russian Invasion of Ukraine</a><br>(joint with Alessandro Borin, Enrica Di Stefano, <a href = "https://sites.google.com/site/vanessagunnella/">Vanessa Gunnella</a>, <a href = "http://www.tradeconomics.com/mancini">Michele Mancini</a>, and <a href = "https://sites.google.com/site/ludovicpanon/home">Ludovic Panon</a>)<br>
+<i>under revision</i>   
 
 <a href = "https://drive.google.com/file/d/12a7-yrnwIpMa19hrOaZMtwdSoxmmFGnP/view">The Structure of Multinational Firms under Demand Risk</a><br>(joint with <a href = "https://ekaterinakazakova.com/"> Ekaterina Kazakova</a>).
 
@@ -47,8 +50,7 @@ previous version available as Banca d'Italia Covid-19 <a href = "https://www.ban
 
 <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Aggiornamento_evoluzione_pandemia_Covid_19-2020.07.20.pdf">Aggiornamento sull'evoluzione della pandemia COVID-19 (in Italian, <i>Update on the evolution of the COVID-19 pandemic</i>)</a><br>(joint with Alessandro Borin, Giuseppe Ilardi,  <a href = "http://www.tradeconomics.com/mancini">Michele Mancini</a>, and Luca Rossi)
  
-<a href = "https://www.bancaditalia.it/pubblicazioni/qef/2022-0700/QEF_700_22.pdf">Quantitative Assessment of the Economic Impact of the Trade Disruptions Following the Russian Invasion of Ukraine</a><br>(joint with Alessandro Borin, Enrica Di Stefano, <a href = "https://sites.google.com/site/vanessagunnella/">Vanessa Gunnella</a>, <a href = "http://www.tradeconomics.com/mancini">Michele Mancini</a>, and <a href = "https://sites.google.com/site/ludovicpanon/home">Ludovic Panon</a>)
-   
+
 ## Work in process
 
 Natural Disasters and Global Sourcing: New Evidence from Firm-to-Firm Transactions<br>
