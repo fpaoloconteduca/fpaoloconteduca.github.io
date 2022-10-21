@@ -23,6 +23,8 @@ Click here to view my <a href="https://github.com/fpaoloconteduca/fpaoloconteduc
 
 ## Working papers
 
+<a href = "https://www.econstor.eu/handle/10419/265325">The impact of the war on Russian imports: a synthetic control method approach</a><br>(joint with Alessandro Borin and <a href = "http://www.tradeconomics.com/mancini">Michele Mancini</a>)
+
 <a href = "https://www.bancaditalia.it/pubblicazioni/qef/2022-0700/QEF_700_22.pdf">Quantitative Assessment of the Economic Impact of the Trade Disruptions Following the Russian Invasion of Ukraine</a><br>(joint with Alessandro Borin, Enrica Di Stefano, <a href = "https://sites.google.com/site/vanessagunnella/">Vanessa Gunnella</a>, <a href = "http://www.tradeconomics.com/mancini">Michele Mancini</a>, and <a href = "https://sites.google.com/site/ludovicpanon/home">Ludovic Panon</a>)<br>
 <i>under revision</i>   
 
