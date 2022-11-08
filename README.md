@@ -70,5 +70,5 @@ francescopaolo DOT conteduca AT bancaditalia DOT it
 
 
 
-<a rel="me" href="https://econtwitter.net/@fpconteduca"><font size="1">Mastodon</font></a>
+<a rel="me" href="https://econtwitter.net/@fpconteduca">Mastodon</a>
 
