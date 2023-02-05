@@ -43,7 +43,7 @@ previous version available as Banca d'Italia Covid-19 <a href = "https://www.ban
 
 </details>
 
-## Policy papers
+<details><summary>Policy papers</summary>
 
 <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2021/mobility_restrictions_italy_second_wave.pdf">Measuring COVID-19 Restrictions in Italy During the Second Wave</a>
 
@@ -53,16 +53,19 @@ previous version available as Banca d'Italia Covid-19 <a href = "https://www.ban
 
 <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Aggiornamento_evoluzione_pandemia_Covid_19-2020.07.20.pdf">Aggiornamento sull'evoluzione della pandemia COVID-19 (in Italian, <i>Update on the evolution of the COVID-19 pandemic</i>)</a><br>(joint with <a href = "http://www.tradeconomics.com/borin">Alessandro Borin</a>, Giuseppe Ilardi,  <a href = "http://www.tradeconomics.com/mancini">Michele Mancini</a>, and Luca Rossi)
  
-
-## Work in process
+</details>
+ 
+<details><summary>Work in process</summary>
 
 Natural Disasters and Global Sourcing: New Evidence from Firm-to-Firm Transactions<br>
-(joint with <a href = "http://www.tradeconomics.com/borin">Alessandro Borin</a>, Andrea Linarello, and <a href = "https://sites.google.com/site/ludovicpanon/home">Ludovic Panon</a>)
+(joint with <a href = "http://www.tradeconomics.com/borin">Alessandro Borin</a>, <a href = "https://sites.google.com/site/andrealinarello/home">Andrea Linarello, and <a href = "https://sites.google.com/site/ludovicpanon/home">Ludovic Panon</a>)
 
 Competitive Experimentation with Heterogeneous Learning Modes<br>(joint with <a href = "https://niccololomys.com/">Niccolò Lomys</a>). 
 
 Directed Consumer Search with Informative Advertising.
 
+ </details>
+ 
 # Email
 
 francescopaolo DOT conteduca AT bancaditalia DOT it
