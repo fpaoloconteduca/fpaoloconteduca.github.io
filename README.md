@@ -71,8 +71,7 @@ Directed Consumer Search with Informative Advertising.
  
 # Contacts
 
- <details><summary>email</summary>
-  : francescopaolo DOT conteduca AT bancaditalia DOT it
+email: francescopaolo DOT conteduca AT bancaditalia DOT it
 
  </details>
   
