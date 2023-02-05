@@ -22,7 +22,7 @@ Click here to view my <a href="https://github.com/fpaoloconteduca/fpaoloconteduc
 <a href = "https://www.dropbox.com/sh/s6j0eb12ipsomc4/AAAfAeoAJch9Nf8pBUlrfBNma?dl=0">Data</a>
 <br>
  
- </p>
+
 
 ## Working papers
 
@@ -56,9 +56,7 @@ previous version available as Banca d'Italia Covid-19 <a href = "https://www.ban
 
 <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Aggiornamento_evoluzione_pandemia_Covid_19-2020.07.20.pdf">Aggiornamento sull'evoluzione della pandemia COVID-19 (in Italian, <i>Update on the evolution of the COVID-19 pandemic</i>)</a><br>(joint with <a href = "http://www.tradeconomics.com/borin">Alessandro Borin</a>, Giuseppe Ilardi,  <a href = "http://www.tradeconomics.com/mancini">Michele Mancini</a>, and Luca Rossi)
  
-</details>
- 
-<details><summary>Work in process</summary>
+## Work in process
 
 Natural Disasters and Global Sourcing: New Evidence from Firm-to-Firm Transactions<br>
 (joint with <a href = "http://www.tradeconomics.com/borin">Alessandro Borin</a>, <a href = "https://sites.google.com/site/andrealinarello/home">Andrea Linarello, and <a href = "https://sites.google.com/site/ludovicpanon/home">Ludovic Panon</a>)
@@ -67,13 +65,10 @@ Competitive Experimentation with Heterogeneous Learning Modes<br>(joint with <a 
 
 Directed Consumer Search with Informative Advertising.
 
- </details>
- 
 # Contacts
 
 email: francescopaolo DOT conteduca AT bancaditalia DOT it
 
- </details>
   
 <a href="https://www.revolvermaps.com/?target=enlarge&amp;i=0zc0mexk33u"><img src="//ra.revolvermaps.com/h/m/a/0/ff0000/128/0/0zc0mexk33u.png" width="1" height="1" alt="Map" style="border:0;"></a>
 
