@@ -11,14 +11,17 @@ Click here to view my <a href="https://github.com/fpaoloconteduca/fpaoloconteduc
 <details><summary>Publications</summary><p>
 
 <a href= "https://www.sciencedirect.com/science/article/abs/pii/S0169023X22000672">3. Reasoning on Company Takeovers: From Tactic to Strategy</a><br>(joint with Luigi Bellomarini, Lorenzo Bencivelli, Claudia Biancotti, Livia Blasi, Andrea Gentili, Rosario Laurendi, Davide Magnanimi, Michele Savini Zangrandi, Flavia Tonelli, Stefano Ceri, Davide Benedetto, Markus Nissl, and Emanuel Sallinger).<br><b><i>Data & Knowledge Engineering, 141, 102073 (2022)</i></b><br>
-
+<br>
+ 
 <a href = "https://doi.org/10.1371/journal.pone.0272009">2. An epidemic model for SARS-COV-2 with self-adaptive containment measures</a><br>(joint with Sabina Marchetti, <a href = "http://www.tradeconomics.com/borin">Alessandro Borin</a>, Giuseppe Ilardi, Giorgio Guzzetta, Piero Poletti, Antonino Bella, Paola Stefanelli, Flavia Riccardo, Stefano Merler, Andrea Brandolini, Silvio Brusaferro).<br>
 <b><i>PLOS One, vol. 17(7), e0272009 (2022)</i></b><br>
 <a href = "https://zenodo.org/record/6668605#.YrAbOoXP3IV">Replication package</a><br>
+ <br>
 
 <a href = "https://doi.org/10.1007/s40797-022-00197-0">1. A new dataset for local and national COVID-19-related restrictions in Italy</a> (joint with <a href = "http://www.tradeconomics.com/borin">Alessandro Borin</a>). <br><b><i>The Italian Economic Journal, vol. 8(2), pp. 435 – 470 (2022)</i></b><br>
 <a href = "https://www.dropbox.com/sh/s6j0eb12ipsomc4/AAAfAeoAJch9Nf8pBUlrfBNma?dl=0">Data</a>
-
+<br>
+ 
  </p>
 </details>
 
