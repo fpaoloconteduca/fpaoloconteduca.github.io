@@ -66,10 +66,12 @@ Directed Consumer Search with Informative Advertising.
 
  </details>
  
-# Email
+ <details><summary>Contacts</summary>
 
-francescopaolo DOT conteduca AT bancaditalia DOT it
+email: francescopaolo DOT conteduca AT bancaditalia DOT it
 
+ </details>
+  
 <a href="https://www.revolvermaps.com/?target=enlarge&amp;i=0zc0mexk33u"><img src="//ra.revolvermaps.com/h/m/a/0/ff0000/128/0/0zc0mexk33u.png" width="1" height="1" alt="Map" style="border:0;"></a>
 
 
