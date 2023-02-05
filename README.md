@@ -21,7 +21,7 @@ Click here to view my <a href="https://github.com/fpaoloconteduca/fpaoloconteduc
 
 </details>
 
-## Working papers
+<details><summary>Working papers</summary>
 
 <a href = "https://www.econstor.eu/handle/10419/266330">The real-time impact of the war on Russian imports: a synthetic control method approach</a><br>(joint with <a href = "http://www.tradeconomics.com/borin">Alessandro Borin</a> and <a href = "http://www.tradeconomics.com/mancini">Michele Mancini</a>)<br>
 <a href = "https://cepr.org/voxeu/columns/impact-war-russian-imports-counterfactual-analysis">VoxEU column</a>
@@ -41,7 +41,7 @@ previous version available as Banca d'Italia Covid-19 <a href = "https://www.ban
 
 <a href = "https://www.bancaditalia.it/pubblicazioni/qef/2021-0664/index.html?com.dotmarketing.htmlpage.language=1">Forecasting Italian GDP growth with epidemiological data</a><br>(joint with Valentina Aprigliano, <a href = "http://www.tradeconomics.com/borin">Alessandro Borin</a>, Simone Emiliozzi, <a href = "https://sites.google.com/view/marcoflaccadoro/home">Marco Flaccadoro</a>, Sabina Marchetti, and <a href = "https://sites.google.com/site/stefaniavilla3">Stefania Villa</a>)
 
-
+</details>
 
 ## Policy papers
 
