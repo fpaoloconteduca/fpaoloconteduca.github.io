@@ -70,7 +70,7 @@ Directed Consumer Search with Informative Advertising.
 
  </details>
  
-##Contacts
+# Contacts
 
  <details><summary>email</summary>
   : francescopaolo DOT conteduca AT bancaditalia DOT it
