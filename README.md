@@ -8,7 +8,7 @@ Click here to view my <a href="https://github.com/fpaoloconteduca/fpaoloconteduc
 
 # Research
 
-<p style="font-size:5vw;"><details><summary>Publications</summary></p>
+<p style="font-size:10vw;"><details><summary>Publications</summary></p>
 
 <br>
 <a href= "https://www.sciencedirect.com/science/article/abs/pii/S0169023X22000672">3. Reasoning on Company Takeovers: From Tactic to Strategy</a><br>(joint with Luigi Bellomarini, Lorenzo Bencivelli, Claudia Biancotti, Livia Blasi, Andrea Gentili, Rosario Laurendi, Davide Magnanimi, Michele Savini Zangrandi, Flavia Tonelli, Stefano Ceri, Davide Benedetto, Markus Nissl, and Emanuel Sallinger).<br><b><i>Data & Knowledge Engineering, 141, 102073 (2022)</i></b><br>
