@@ -8,7 +8,7 @@ Click here to view my <a href="https://github.com/fpaoloconteduca/fpaoloconteduc
 
 # Research
 
-<details><summary><h2 style="font-size:2vw;">Publications</h2></summary>
+## Publications
 
 <br>
 <a href= "https://www.sciencedirect.com/science/article/abs/pii/S0169023X22000672">3. Reasoning on Company Takeovers: From Tactic to Strategy</a><br>(joint with Luigi Bellomarini, Lorenzo Bencivelli, Claudia Biancotti, Livia Blasi, Andrea Gentili, Rosario Laurendi, Davide Magnanimi, Michele Savini Zangrandi, Flavia Tonelli, Stefano Ceri, Davide Benedetto, Markus Nissl, and Emanuel Sallinger).<br><b><i>Data & Knowledge Engineering, 141, 102073 (2022)</i></b><br>
@@ -23,9 +23,8 @@ Click here to view my <a href="https://github.com/fpaoloconteduca/fpaoloconteduc
 <a href = "https://www.dropbox.com/sh/s6j0eb12ipsomc4/AAAfAeoAJch9Nf8pBUlrfBNma?dl=0">Data</a>
 <br>
  
-</details>
 
-<details><summary><h2 style="font-size:10vw;">Working papers</h2></summary>
+## Working papers
 
  <br>
  
@@ -50,7 +49,7 @@ previous version available as Banca d'Italia Covid-19 <a href = "https://www.ban
  </details>
 
 
-<details><summary><h2 style="font-size:10vw;">Policy papers</h2></summary>
+<details><summary>Policy papers</summary>
 
 <br>
 
@@ -64,9 +63,9 @@ previous version available as Banca d'Italia Covid-19 <a href = "https://www.ban
  
  </details> 
  
- 
-## Work in process
+ <details><summary>Work in process</summary>
 
+ <br>
 Natural Disasters and Global Sourcing: New Evidence from Firm-to-Firm Transactions<br>
 (joint with <a href = "http://www.tradeconomics.com/borin">Alessandro Borin</a>, <a href = "https://sites.google.com/site/andrealinarello/home">Andrea Linarello, and <a href = "https://sites.google.com/site/ludovicpanon/home">Ludovic Panon</a>)
 
@@ -74,6 +73,7 @@ Competitive Experimentation with Heterogeneous Learning Modes<br>(joint with <a 
 
 Directed Consumer Search with Informative Advertising.
 
+ </details>
 # Contacts
 
 email: francescopaolo DOT conteduca AT bancaditalia DOT it
