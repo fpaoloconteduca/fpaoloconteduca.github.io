@@ -39,7 +39,8 @@ FDI Policy and Firm Performance: Evidence from India<br>(joint with <a href = "h
 previous version available as Banca d'Italia Covid-19 <a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Nota_Covid_Mobility_Before_Gvt_Restrictions_09112020.pdf">Note</a><br>(joint with <a href = "https://sites.google.com/site/inesbuono/home">Ines Buono</a>).
 
 <a href = "https://www.bancaditalia.it/pubblicazioni/qef/2021-0664/index.html?com.dotmarketing.htmlpage.language=1">Forecasting Italian GDP growth with epidemiological data</a><br>(joint with Valentina Aprigliano, <a href = "http://www.tradeconomics.com/borin">Alessandro Borin</a>, Simone Emiliozzi, <a href = "https://sites.google.com/view/marcoflaccadoro/home">Marco Flaccadoro</a>, Sabina Marchetti, and <a href = "https://sites.google.com/site/stefaniavilla3">Stefania Villa</a>)
-
+<br>
+<br>
 
 <details><summary>Policy papers</summary>
 
