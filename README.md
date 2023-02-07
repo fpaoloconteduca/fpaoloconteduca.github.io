@@ -55,7 +55,7 @@ previous version available as Banca d'Italia Covid-19 <a href = "https://www.ban
  
  <details><summary>Work in process</summary>
 
-
+<p>
 Natural Disasters and Global Sourcing: New Evidence from Firm-to-Firm Transactions<br>
 (joint with <a href = "http://www.tradeconomics.com/borin">Alessandro Borin</a>, <a href = "https://sites.google.com/site/andrealinarello/home">Andrea Linarello, and <a href = "https://sites.google.com/site/ludovicpanon/home">Ludovic Panon</a>)
 <br>
@@ -64,7 +64,8 @@ Competitive Experimentation with Heterogeneous Learning Modes<br>(joint with <a 
 Directed Consumer Search with Informative Advertising.
 <br>
  </details>
-
+ </p>
+ 
 ## Contacts
 email: francescopaolo DOT conteduca AT bancaditalia DOT it
 
