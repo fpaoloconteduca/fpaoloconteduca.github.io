@@ -53,26 +53,20 @@ previous version available as Banca d'Italia Covid-19 <a href = "https://www.ban
  <br>
  </details> 
  
- <details><summary>Work in process</summary>
 
-<p>
-Natural Disasters and Global Sourcing: New Evidence from Firm-to-Firm Transactions<br>
-(joint with <a href = "http://www.tradeconomics.com/borin">Alessandro Borin</a>, <a href = "https://sites.google.com/site/andrealinarello/home">Andrea Linarello, and <a href = "https://sites.google.com/site/ludovicpanon/home">Ludovic Panon</a>)
-<br>
-Competitive Experimentation with Heterogeneous Learning Modes<br>(joint with <a href = "https://niccololomys.com/">Niccolò Lomys</a>). 
-<br>
-Directed Consumer Search with Informative Advertising.
-<br>
- </details>
- </p>
  
 ## Contacts
 email: francescopaolo DOT conteduca AT bancaditalia DOT it
 
+ 
+ 
+ 
+ 
   
 <a href="https://www.revolvermaps.com/?target=enlarge&amp;i=0zc0mexk33u"><img src="//ra.revolvermaps.com/h/m/a/0/ff0000/128/0/0zc0mexk33u.png" width="1" height="1" alt="Map" style="border:0;"></a>
 
 
-
+ 
+ 
 <a rel="me" href="https://econtwitter.net/@fpconteduca">Mastodon</a>
 
