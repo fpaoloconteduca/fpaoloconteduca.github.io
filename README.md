@@ -64,7 +64,7 @@ Competitive Experimentation with Heterogeneous Learning Modes<br>(joint with <a 
 Directed Consumer Search with Informative Advertising.
  <br>
  </details> 
-
+<br>
 
 
  
