@@ -70,7 +70,7 @@ Directed Consumer Search with Informative Advertising.
 
  
 ## Contacts
-email: francescopaolo DOT conteduca AT bancaditalia DOT it
+email: francescopaolo.conteduca@bancaditalia.it
 
  
  
