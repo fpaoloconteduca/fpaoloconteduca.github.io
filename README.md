@@ -70,9 +70,9 @@ Directed Consumer Search with Informative Advertising.
 
  
 ## Contacts
-email: francescopaolo.conteduca@bancaditalia.it
+email: <a href=mailto:“francescopaolo.conteduca@bancaditalia.it”>francescopaolo.conteduca@bancaditalia.it</a>
 
- 
+
  
  
  
