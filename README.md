@@ -73,7 +73,7 @@ Directed Consumer Search with Informative Advertising.
 <a href="mailto:francescopaolo.conteduca@bancaditalia.it">francescopaolo.conteduca@bancaditalia.it</a>
 
 
- 
+ <a rel="me" href="https://econtwitter.net/@fpconteduca">Mastodon</a>
  
  
   
@@ -82,5 +82,5 @@ Directed Consumer Search with Informative Advertising.
 
  
  
-<a rel="me" href="https://econtwitter.net/@fpconteduca">Mastodon</a>
+
 
