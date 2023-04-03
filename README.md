@@ -70,7 +70,7 @@ Directed Consumer Search with Informative Advertising.
 
  
 ## Contacts
-email: <a href=mailto:"francescopaolo.conteduca@bancaditalia.it">francescopaolo.conteduca@bancaditalia.it</a>
+<a href=mailto:"francescopaolo.conteduca@bancaditalia.it">Email me</a>
 
 
  
