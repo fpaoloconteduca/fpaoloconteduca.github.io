@@ -18,13 +18,13 @@ Click [here](https://github.com/fpaoloconteduca/fpaoloconteduca.github.io/blob/m
 
 - [The real-time impact of the war on Russian imports: a synthetic control method approach](https://www.econstor.eu/handle/10419/266330) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin) and [Michele Mancini](http://www.tradeconomics.com/mancini))
 
-- [Trade Decoupling from Russia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4223361) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), Enrica Di Stefano, [Vanessa Gunnella](https://sites.google.com/site/vanessagunnella/), [Michele Mancini](http://www.tradeconomics.com/mancini), and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home)). *International Economics* (forthcoming) (Previously circulated as "Quantitative Assessment of the Economic Impact of the Trade Disruptions Following the Russian Invasion of Ukraine")
+- [Trade Decoupling from Russia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4223361) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), Enrica Di Stefano, [Vanessa Gunnella](https://sites.google.com/site/vanessagunnella/), [Michele Mancini](http://www.tradeconomics.com/mancini), and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home)). *International Economics* (forthcoming) 
+(Previously circulated as "Quantitative Assessment of the Economic Impact of the Trade Disruptions Following the Russian Invasion of Ukraine")
 
 - [The Structure of Multinational Firms under Demand Risk](https://drive.google.com/file/d/12a7-yrnwIpMa19hrOaZMtwdSoxmmFGnP/view) (joint with [Ekaterina Kazakova](https://ekaterinakazakova.com))
 
 - [Serving Abroad: Export, M&A, and Greenfield Investment](https://drive.google.com/file/d/1rWhlbiC8pCSQvjzhEfCo6I7vKjZqfTow/view) (joint with [Ekaterina Kazakova](https://ekaterinakazakova.com))
 
-- [FDI Policy and Firm Performance: Evidence from India] (joint with [Ekaterina Kazakova](https://www.ekaterinakazakova.com))
 
 
 ## Policy papers
@@ -43,6 +43,8 @@ Click [here](https://github.com/fpaoloconteduca/fpaoloconteduca.github.io/blob/m
 
 - Natural Disasters and Global Sourcing: New Evidence from Firm-to-Firm Transactions (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), [Andrea Linarello](https://sites.google.com/site/andrealinarello/home), and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home))
  
+- FDI Policy and Firm Performance: Evidence from India (joint with [Ekaterina Kazakova](https://www.ekaterinakazakova.com))
+
 ## Contacts
 
 <a href="mailto:francescopaolo.conteduca@bancaditalia.it">francescopaolo.conteduca@bancaditalia.it</a>
