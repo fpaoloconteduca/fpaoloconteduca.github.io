@@ -27,7 +27,7 @@ Click here to view my <a href="https://github.com/fpaoloconteduca/fpaoloconteduc
 <a href = "https://cepr.org/voxeu/columns/impact-war-russian-imports-counterfactual-analysis">VoxEU column</a>
 
 <a href = "https://drive.google.com/file/d/1MB7K6rSIGaUibxtWH5ISn8ehilqvF_CP/view">Trade Decoupling from Russia</a><br>(joint with <a href = "http://www.tradeconomics.com/borin">Alessandro Borin</a>, Enrica Di Stefano, <a href = "https://sites.google.com/site/vanessagunnella/">Vanessa Gunnella</a>, <a href = "http://www.tradeconomics.com/mancini">Michele Mancini</a>, and <a href = "https://sites.google.com/site/ludovicpanon/home">Ludovic Panon</a>)<br>
-<i>under revision</i> (previously circulated as <i>Quantitative Assessment of the Economic Impact of the Trade Disruptions Following the Russian Invasion of Ukraine</i>)  
+<i>under revision</i> (previously circulated as <i>Quantitative Assessment of the Economic Impact of the Trade Disruptions Following the Russian Invasion of Ukraine</i>).<br><b><i>International Economics</i></b> (forthcoming)
 
 
 <a href = "https://drive.google.com/file/d/12a7-yrnwIpMa19hrOaZMtwdSoxmmFGnP/view">The Structure of Multinational Firms under Demand Risk</a><br>(joint with <a href = "https://ekaterinakazakova.com/"> Ekaterina Kazakova</a>).
