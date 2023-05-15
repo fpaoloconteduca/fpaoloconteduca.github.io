@@ -20,50 +20,35 @@ Click [here](https://github.com/fpaoloconteduca/fpaoloconteduca.github.io/blob/m
 
 - [Trade Decoupling from Russia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4223361) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), Enrica Di Stefano, [Vanessa Gunnella](https://sites.google.com/site/vanessagunnella/), [Michele Mancini](http://www.tradeconomics.com/mancini), and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home)). *International Economics* (forthcoming) [Previously circulated as "Quantitative Assessment of the Economic Impact of the Trade Disruptions Following the Russian Invasion of Ukraine"]
 
-- [The Structure of Multinational Firms under Demand Risk](https://drive.google.com/file/d/12a7-yrnwIpMa19hrOaZMtwdSoxmmFGnP/view) (joint with [Ekaterina Kazakova](https://ekaterinakazakova.com)
+- [The Structure of Multinational Firms under Demand Risk](https://drive.google.com/file/d/12a7-yrnwIpMa19hrOaZMtwdSoxmmFGnP/view) (joint with [Ekaterina Kazakova](https://ekaterinakazakova.com))
 
-- [Serving Abroad: Export, M&A, and Greenfield Investment](https://drive.google.com/file/d/1rWhlbiC8pCSQvjzhEfCo6I7vKjZqfTow/view) (joint with [Ekaterina Kazakova](https://ekaterinakazakova.com)
+- [Serving Abroad: Export, M&A, and Greenfield Investment](https://drive.google.com/file/d/1rWhlbiC8pCSQvjzhEfCo6I7vKjZqfTow/view) (joint with [Ekaterina Kazakova](https://ekaterinakazakova.com))
 
-- [FDI Policy and Firm Performance: Evidence from India] (joint with [Ekaterina Kazakova](https://www.ekaterinakazakova.com).
+- [FDI Policy and Firm Performance: Evidence from India] (joint with [Ekaterina Kazakova](https://www.ekaterinakazakova.com)).
 
-- [Mobility and Consumption Choices during the COVID-19 Pandemic](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3873765) (joint with [Ines Buono](https://sites.google.com/site/inesbuono/home) [Previous version available as Banca d'Italia Covid-19 Note(https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Nota_Covid_Mobility_Before_Gvt_Restrictions_09112020.pdf)]
 
-<a href = "https://www.bancaditalia.it/pubblicazioni/qef/2021-0664/index.html?com.dotmarketing.htmlpage.language=1">Forecasting Italian GDP growth with epidemiological data</a><br>(joint with Valentina Aprigliano, <a href = "http://www.tradeconomics.com/borin">Alessandro Borin</a>, Simone Emiliozzi, <a href = "https://sites.google.com/view/marcoflaccadoro/home">Marco Flaccadoro</a>, Sabina Marchetti, and <a href = "https://sites.google.com/site/stefaniavilla3">Stefania Villa</a>)
-<br>
-<br>
-
-<details><summary>Policy papers</summary>
-<br>
-
-<a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2021/mobility_restrictions_italy_second_wave.pdf">Measuring COVID-19 Restrictions in Italy During the Second Wave</a>
-<br>
-<a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Nota_Lockdown_circolazione.pdf">Fighting COVID-19: measuring the restrictiveness of government policies</a><br>(joint with <a href = "http://www.tradeconomics.com/mancini">Michele Mancini</a>, Luca Rossi, and Flavia Tonelli)
-<br>
-<a href = "https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Aggiornamento_evoluzione_pandemia_Covid_19-2020.07.20.pdf">Aggiornamento sull'evoluzione della pandemia COVID-19 (in Italian, <i>Update on the evolution of the COVID-19 pandemic</i>)</a><br>(joint with <a href = "http://www.tradeconomics.com/borin">Alessandro Borin</a>, Giuseppe Ilardi,  <a href = "http://www.tradeconomics.com/mancini">Michele Mancini</a>, and Luca Rossi)
- <br>
- </details> 
+## Policy papers
  
-<details><summary>Work in process</summary>
-<br>
+- [Forecasting Italian GDP growth with epidemiological data](https://www.bancaditalia.it/pubblicazioni/qef/2021-0664/index.html?com.dotmarketing.htmlpage.language=1) (joint with Valentina Aprigliano, [Alessandro Borin](http://www.tradeconomics.com/borin), Simone Emiliozzi, [Marco Flaccadoro](https://sites.google.com/view/marcoflaccadoro/home), Sabina Marchetti, and [Stefania Villa](https://sites.google.com/site/stefaniavilla3))
+ 
+ - [Mobility and Consumption Choices during the COVID-19 Pandemic](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3873765) (joint with [Ines Buono](https://sites.google.com/site/inesbuono/home) [Previous version available as Banca d'Italia Covid-19 Note](https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Nota_Covid_Mobility_Before_Gvt_Restrictions_09112020.pdf)
+ 
+- [Measuring COVID-19 Restrictions in Italy During the Second Wave](https://www.bancaditalia.it/pubblicazioni/note-covid-19/2021/mobility_restrictions_italy_second_wave.pdf) 
 
-Natural Disasters and Global Sourcing: New Evidence from Firm-to-Firm Transactions<br>
-(joint with <a href = "http://www.tradeconomics.com/borin">Alessandro Borin</a>, <a href = "https://sites.google.com/site/andrealinarello/home">Andrea Linarello</a>, and <a href = "https://sites.google.com/site/ludovicpanon/home">Ludovic Panon</a>)
-<br>
-Competitive Experimentation with Heterogeneous Learning Modes<br>(joint with <a href = "https://niccololomys.com/">Niccolò Lomys</a>). 
-<br>
-Directed Consumer Search with Informative Advertising.
- <br>
- </details> 
-<br>
+- [Fighting COVID-19: measuring the restrictiveness of government policies](https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Nota_Lockdown_circolazione.pdf) (joint with [Michele Mancini](http://www.tradeconomics.com/mancini), Luca Rossi, and Flavia Tonelli)
 
+- [Aggiornamento sull'evoluzione della pandemia COVID-19](https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Aggiornamento_evoluzione_pandemia_Covid_19-2020.07.20.pdf) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), Giuseppe Ilardi, [Michele Mancini](http://www.tradeconomics.com/mancini), and Luca Rossi)
 
+### Work in process
+
+- Natural Disasters and Global Sourcing: New Evidence from Firm-to-Firm Transactions (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), [Andrea Linarello](https://sites.google.com/site/andrealinarello/home), and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home))
  
 ## Contacts
+
 <a href="mailto:francescopaolo.conteduca@bancaditalia.it">francescopaolo.conteduca@bancaditalia.it</a>
 
 
  <a rel="me" href="https://econtwitter.net/@fpconteduca">Mastodon</a>
- 
  
   
 <a href="https://www.revolvermaps.com/?target=enlarge&amp;i=0zc0mexk33u"><img src="//ra.revolvermaps.com/h/m/a/0/ff0000/128/0/0zc0mexk33u.png" width="1" height="1" alt="Map" style="border:0;"></a>
