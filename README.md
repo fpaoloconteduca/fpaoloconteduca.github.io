@@ -18,7 +18,7 @@ Click [here](https://github.com/fpaoloconteduca/fpaoloconteduca.github.io/blob/m
 
 - [The real-time impact of the war on Russian imports: a synthetic control method approach](https://www.econstor.eu/handle/10419/266330) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin) and [Michele Mancini](http://www.tradeconomics.com/mancini))
 
-- [Trade Decoupling from Russia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4223361) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), Enrica Di Stefano, [Vanessa Gunnella](https://sites.google.com/site/vanessagunnella/), [Michele Mancini](http://www.tradeconomics.com/mancini), and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home)). *International Economics* (accepted)<br> 
+- [Trade Decoupling from Russia](https://doi.org/10.1016/j.inteco.2023.05.001) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), Enrica Di Stefano, [Vanessa Gunnella](https://sites.google.com/site/vanessagunnella/), [Michele Mancini](http://www.tradeconomics.com/mancini), and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home)). *International Economics* (accepted)<br> 
 (Previously circulated as "Quantitative Assessment of the Economic Impact of the Trade Disruptions Following the Russian Invasion of Ukraine")
 
 - [The Structure of Multinational Firms under Demand Risk](https://drive.google.com/file/d/12a7-yrnwIpMa19hrOaZMtwdSoxmmFGnP/view) (joint with [Ekaterina Kazakova](https://ekaterinakazakova.com))
