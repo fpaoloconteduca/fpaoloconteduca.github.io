@@ -39,6 +39,8 @@ Click [here](https://github.com/fpaoloconteduca/fpaoloconteduca.github.io/blob/m
 
 - [Aggiornamento sull'evoluzione della pandemia COVID-19](https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Aggiornamento_evoluzione_pandemia_Covid_19-2020.07.20.pdf) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), Giuseppe Ilardi, [Michele Mancini](http://www.tradeconomics.com/mancini), and Luca Rossi)
 
+- [The impact of EU sanctions on Russian imports](https://cepr.org/voxeu/columns/impact-eu-sanctions-russian-imports) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), Gabriele Cappadona, Benjamin Hilgenstock, [Oleg Itskhoki](https://itskhoki.com/), [Michele Mancini](http://www.tradeconomics.com/mancini), [Maxim Mironov](http://mironov.xyz/), Elina Ribakova)
+
 ### Work in process
 
 - Natural Disasters and Global Sourcing: New Evidence from Firm-to-Firm Transactions (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), [Andrea Linarello](https://sites.google.com/site/andrealinarello/home), and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home))
