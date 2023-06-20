@@ -39,7 +39,7 @@ Click [here](https://github.com/fpaoloconteduca/fpaoloconteduca.github.io/blob/m
 
 - [Aggiornamento sull'evoluzione della pandemia COVID-19](https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Aggiornamento_evoluzione_pandemia_Covid_19-2020.07.20.pdf) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), Giuseppe Ilardi, [Michele Mancini](http://www.tradeconomics.com/mancini), and Luca Rossi)
 
-- [The impact of the war on Russian imports: A counterfactual analysis](https://cepr.org/voxeu/columns/impact-war-russian-imports-counterfactual-analysis) (join with [Alessandro Borin](http://www.tradeconomics.com/borin) and [Michele Mancini](http://www.tradeconomics.com/mancini)). *VoxEU* column, November 9, 2022.
+- [The impact of the war on Russian imports: A counterfactual analysis](https://cepr.org/voxeu/columns/impact-war-russian-imports-counterfactual-analysis) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin) and [Michele Mancini](http://www.tradeconomics.com/mancini)). *VoxEU* column, November 9, 2022.
 
 - [The impact of EU sanctions on Russian imports](https://cepr.org/voxeu/columns/impact-eu-sanctions-russian-imports) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), Gabriele Cappadona, Benjamin Hilgenstock, [Oleg Itskhoki](https://itskhoki.com/), [Michele Mancini](http://www.tradeconomics.com/mancini), [Maxim Mironov](http://mironov.xyz/), Elina Ribakova). *VoxEU* column, May 29, 2023.
 
