@@ -49,6 +49,8 @@ Click [here](https://github.com/fpaoloconteduca/fpaoloconteduca.github.io/blob/m
  
 - FDI Policy and Firm Performance: Evidence from India (joint with [Ekaterina Kazakova](https://www.ekaterinakazakova.com))
 
+- It’s A Match! Linking Foreign Counterparts In Italian Customs Data To Their Balance Sheets (joint with [Marta Crispino](https://sites.google.com/site/crispinostat/))
+
 ## Contacts
 
 <a href="mailto:francescopaolo.conteduca@bancaditalia.it">francescopaolo.conteduca@bancaditalia.it</a>
