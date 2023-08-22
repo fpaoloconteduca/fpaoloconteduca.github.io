@@ -51,6 +51,9 @@ Click [here](https://github.com/fpaoloconteduca/fpaoloconteduca.github.io/blob/m
 
 - It’s A Match! Linking Foreign Counterparts In Italian Customs Data To Their Balance Sheets (joint with [Marta Crispino](https://sites.google.com/site/crispinostat/))
 
+- Natural disasters and markups (joint with [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home))
+
+  
 ## Contacts
 
 <a href="mailto:francescopaolo.conteduca@bancaditalia.it">francescopaolo.conteduca@bancaditalia.it</a>
