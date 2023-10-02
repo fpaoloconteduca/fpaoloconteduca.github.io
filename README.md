@@ -19,7 +19,7 @@ Click [here](https://github.com/fpaoloconteduca/fpaoloconteduca.github.io/blob/m
 
 ## Working papers
 
-- [The real-time impact of the war on Russian imports: a synthetic control method approach](https://www.econstor.eu/handle/10419/266330) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin) and [Michele Mancini](http://www.tradeconomics.com/mancini))
+- [The real-time impact of the war on Russian imports: a synthetic control method approach](https://www.econstor.eu/handle/10419/266330) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin) and [Michele Mancini](http://www.tradeconomics.com/mancini)). Revise & Resubmit *The World Trade Review*.
 
 - [The Structure of Multinational Firms under Demand Risk](https://drive.google.com/file/d/12a7-yrnwIpMa19hrOaZMtwdSoxmmFGnP/view) (joint with [Ekaterina Kazakova](https://ekaterinakazakova.com))
 
