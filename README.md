@@ -8,6 +8,8 @@ Click [here](https://github.com/fpaoloconteduca/fpaoloconteduca.github.io/blob/m
 
 ## Publications
 
+- [The real-time impact of the war on Russian imports: a synthetic control method approach](https://www.econstor.eu/handle/10419/266330) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin) and [Michele Mancini](http://www.tradeconomics.com/mancini)). *The World Trade Review* (forthcoming).
+
 - [Trade Decoupling from Russia](https://doi.org/10.1016/j.inteco.2023.05.001) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), Enrica Di Stefano, [Vanessa Gunnella](https://sites.google.com/site/vanessagunnella/), [Michele Mancini](http://www.tradeconomics.com/mancini), and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home)). *International Economics, 175, pp. 25 - 44 (2023)* <br> 
 (Previously circulated as "Quantitative Assessment of the Economic Impact of the Trade Disruptions Following the Russian Invasion of Ukraine")
 
@@ -18,8 +20,6 @@ Click [here](https://github.com/fpaoloconteduca/fpaoloconteduca.github.io/blob/m
 - [A new dataset for local and national COVID-19-related restrictions in Italy](https://doi.org/10.1007/s40797-022-00197-0) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin)). *The Italian Economic Journal, vol. 8(2), pp. 435 – 470 (2022)* [[Data](https://www.dropbox.com/sh/s6j0eb12ipsomc4/AAAfAeoAJch9Nf8pBUlrfBNma?dl=0)]
 
 ## Working papers
-
-- [The real-time impact of the war on Russian imports: a synthetic control method approach](https://www.econstor.eu/handle/10419/266330) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin) and [Michele Mancini](http://www.tradeconomics.com/mancini)). Revise & Resubmit *The World Trade Review*.
 
 - [The Structure of Multinational Firms under Demand Risk](https://drive.google.com/file/d/12a7-yrnwIpMa19hrOaZMtwdSoxmmFGnP/view) (joint with [Ekaterina Kazakova](https://ekaterinakazakova.com))
 
