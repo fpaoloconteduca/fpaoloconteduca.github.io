@@ -23,7 +23,7 @@ Click [here](https://github.com/fpaoloconteduca/fpaoloconteduca.github.io/blob/m
 
 - [The Structure of Multinational Firms under Demand Risk](https://drive.google.com/file/d/12a7-yrnwIpMa19hrOaZMtwdSoxmmFGnP/view) (joint with [Ekaterina Kazakova](https://ekaterinakazakova.com))
 
-- [Serving Abroad: Export, M&A, and Greenfield Investment](https://mpra.ub.uni-muenchen.de/118700/) (joint with [Ekaterina Kazakova](https://ekaterinakazakova.com))
+- [Serving Abroad: Export, M&A, and Greenfield Investment](https://mpra.ub.uni-muenchen.de/118700/1/MPRA_paper_118700.pdf) (joint with [Ekaterina Kazakova](https://ekaterinakazakova.com))
 
 
 
