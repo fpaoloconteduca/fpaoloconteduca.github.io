@@ -21,9 +21,11 @@ Click [here](https://github.com/fpaoloconteduca/fpaoloconteduca.github.io/blob/m
 
 ## Working papers
 
+- It's a Match! Linking Foreign Counterparts in Italian Customs Data to Their Balance Sheets (joint with [Marta Crispino](https://sites.google.com/site/crispinostat/))
+
 - [The Structure of Multinational Firms under Demand Risk](https://drive.google.com/file/d/12a7-yrnwIpMa19hrOaZMtwdSoxmmFGnP/view) (joint with [Ekaterina Kazakova](https://ekaterinakazakova.com))
 
-- [Serving Abroad: Export, M&A, and Greenfield Investment](https://mpra.ub.uni-muenchen.de/118700/1/MPRA_paper_118700.pdf) (joint with [Ekaterina Kazakova](https://ekaterinakazakova.com))
+- [Serving Abroad: Export, M&A, and Greenfield Investment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4606966) (joint with [Ekaterina Kazakova](https://ekaterinakazakova.com))
 
 
 
