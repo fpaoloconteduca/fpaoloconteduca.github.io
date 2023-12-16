@@ -1,28 +1,54 @@
-# Welcome to my webpage
+      text-decoration: none;
+      display: block;
+      padding: 8px;
+      margin-bottom: 5px;
+      border-radius: 5px;
+      transition: background-color 0.3s;
+    }
+
+    nav a:hover {
+      background-color: #267aa3;
+    }
+
+    main {
+      flex: 1;
+      padding: 20px;
+    }
+
+    footer {
+      background-color: #3fa8db;
+      padding: 10px;
+      text-align: center;
+      color: white;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
 
 <div style="display: flex;">
 
-  <nav style="flex: 0 0 400px; background-color: #3fa8db; padding: 10px;">
-    <ul style="list-style-type: none; padding: 0;">
-      <li><a href="#publications" style="color: white; font-weight: bold;">Publications</a></li>
-      <li><a href="#workingpapers" style="color: white; font-weight: bold;">Working Papers</a></li>
-      <li><a href="#policy-papers" style="color: white; font-weight: bold;">Policy Papers</a></li>
-      <li><a href="#workinprocess" style="color: white; font-weight: bold;">Work in Process</a></li>
-      <li><a href="#contacts" style="color: white; font-weight: bold;">Contacts</a></li> 
+  <nav>
+    <ul>
+      <li><a href="#publications">Publications</a></li>
+      <li><a href="#workingpapers">Working Papers</a></li>
+      <li><a href="#policy-papers">Policy Papers</a></li>
+      <li><a href="#workinprocess">Work in Process</a></li>
+      <li><a href="#contacts">Contacts</a></li> 
     </ul>
   </nav>
 
-  <div style="flex: 1; padding: 10px;">
+  <main>
+    <h1>Welcome to My Webpage</h1>
 
-  </div>
+    <p>I am a senior economist at the Bank of Italy (World Trade and Emerging Market Economies Unit).</p>
 
-</div>
+    <p>My current research interests are international trade and industrial organization, focusing on the determinants of multinational production. I also worked on the relationship between Covid-19 and economic activity.</p>
 
-I am a senior economist at the Bank of Italy (World Trade and Emerging Market Economies Unit).
+    <p>Click <a href="#publications">here</a> to view my Publications.</p>
 
-My current research interests are international trade and industrial organization, focusing on the determinants of multinational production. I also worked on the relationship between Covid-19 and economic activity. Click here to view my [Publications](#publications)
+    <p>Click <a href="https://github.com/fpaoloconteduca/fpaoloconteduca.github.io/blob/main/CV.pdf">here</a> to view my CV.</p>
 
-Click [here](https://github.com/fpaoloconteduca/fpaoloconteduca.github.io/blob/main/CV.pdf) to view my CV.
 
 ## Publications
 
