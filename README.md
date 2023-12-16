@@ -1,14 +1,12 @@
 # Welcome to my webpage
 
-I am an economist at the Bank of Italy (World trade and emerging market economies division).
+I am a senior economist at the Bank of Italy (World Trade and Emerging Market Economies Unit).
 
-My current research interests are international trade and industrial organization with a focus on the determinants of multinational production. I also work on the relation between Covid-19 and the economic activity.
+My current research interests are international trade and industrial organization, focusing on the determinants of multinational production. I also worked on the relationship between Covid-19 and economic activity. Click here to view my [Publications](#publications)
 
 Click [here](https://github.com/fpaoloconteduca/fpaoloconteduca.github.io/blob/main/CV.pdf) to view my CV.
 
 ## Publications
-
-- [Publications](publications.html)
 
 - [The real-time impact of the war on Russian imports: a synthetic control method approach](https://www.econstor.eu/handle/10419/266330) (joint with [Michele Mancini](http://www.tradeconomics.com/mancini) and [Alessandro Borin](http://www.tradeconomics.com/borin)). *The World Trade Review* (forthcoming).
 
