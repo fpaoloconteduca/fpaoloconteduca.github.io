@@ -11,8 +11,6 @@
       <li><a href="#contacts" style="color: white; font-weight: bold;">Contacts</a></li> 
     </ul>
   </nav>
-  <div style="flex: 1; padding: 10px;">
-  </div>
 </div>
 
 
