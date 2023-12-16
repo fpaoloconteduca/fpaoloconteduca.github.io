@@ -8,6 +8,8 @@ Click [here](https://github.com/fpaoloconteduca/fpaoloconteduca.github.io/blob/m
 
 ## Publications
 
+- [Publications](publications.html)
+
 - [The real-time impact of the war on Russian imports: a synthetic control method approach](https://www.econstor.eu/handle/10419/266330) (joint with [Michele Mancini](http://www.tradeconomics.com/mancini) and [Alessandro Borin](http://www.tradeconomics.com/borin)). *The World Trade Review* (forthcoming).
 
 - [Trade Decoupling from Russia](https://doi.org/10.1016/j.inteco.2023.05.001) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), Enrica Di Stefano, [Vanessa Gunnella](https://sites.google.com/site/vanessagunnella/), [Michele Mancini](http://www.tradeconomics.com/mancini), and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home)). *International Economics, 175, pp. 25 - 44 (2023)* <br> 
