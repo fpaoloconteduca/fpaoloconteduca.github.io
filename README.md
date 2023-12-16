@@ -5,9 +5,9 @@
   <nav style="flex: 0 0 300px; background-color: #3fa8db; padding: 10px;">
     <ul style="list-style-type: none; padding: 0;">
       <li><a href="#publications" style="color: white; font-weight: bold;">Publications</a></li>
-      <li><a href="#workingpapers" style="color: white; font-weight: bold;">Working papers</a></li>
+      <li><a href="#working-papers" style="color: white; font-weight: bold;">Working papers</a></li>
       <li><a href="#policy-papers" style="color: white; font-weight: bold;">Policy papers</a></li>
-      <li><a href="#workinprocess" style="color: white; font-weight: bold;">Work in process</a></li>
+      <li><a href="#work-in-process" style="color: white; font-weight: bold;">Work in process</a></li>
       <li><a href="#contacts" style="color: white; font-weight: bold;">Contacts</a></li> 
     </ul>
   </nav>
