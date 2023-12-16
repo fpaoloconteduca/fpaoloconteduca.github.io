@@ -5,9 +5,9 @@
   <nav style="flex: 0 0 300px; background-color: #3fa8db; padding: 10px;">
     <ul style="list-style-type: none; padding: 0;">
       <li><a href="#publications" style="color: white; font-weight: bold;">Publications</a></li>
-      <li><a href="#workingpapers" style="color: white; font-weight: bold;">Working Papers</a></li>
-      <li><a href="#policy-papers" style="color: white; font-weight: bold;">Policy Papers</a></li>
-      <li><a href="#workinprocess" style="color: white; font-weight: bold;">Work in Process</a></li>
+      <li><a href="#workingpapers" style="color: white; font-weight: bold;">Working papers</a></li>
+      <li><a href="#policy-papers" style="color: white; font-weight: bold;">Policy papers</a></li>
+      <li><a href="#workinprocess" style="color: white; font-weight: bold;">Work in process</a></li>
       <li><a href="#contacts" style="color: white; font-weight: bold;">Contacts</a></li> 
     </ul>
   </nav>
@@ -60,7 +60,7 @@ Click [here](https://github.com/fpaoloconteduca/fpaoloconteduca.github.io/blob/m
 
 - [The impact of EU sanctions on Russian imports](https://cepr.org/voxeu/columns/impact-eu-sanctions-russian-imports) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), Gabriele Cappadona, Benjamin Hilgenstock, [Oleg Itskhoki](https://itskhoki.com/), [Michele Mancini](http://www.tradeconomics.com/mancini), [Maxim Mironov](http://mironov.xyz/), Elina Ribakova). *VoxEU* column, May 29, 2023.
 
-### Work in process
+## Work in process
 
 - Natural Disasters and Global Sourcing: New Evidence from Firm-to-Firm Transactions (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), [Andrea Linarello](https://sites.google.com/site/andrealinarello/home), and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home))
  
