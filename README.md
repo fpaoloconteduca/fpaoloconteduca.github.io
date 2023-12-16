@@ -14,9 +14,6 @@
 </div>
 
 <br />
-<br />
-<br />
-
 
 I am a senior economist at the Bank of Italy (World Trade and Emerging Market Economies Unit).
 
