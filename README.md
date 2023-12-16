@@ -4,11 +4,11 @@
 
   <nav style="flex: 0 0 400px; background-color: #be5625; padding: 10px;">
     <ul style="list-style-type: none; padding: 0;">
-      <li><a href="#publications">Publications</a></li>
-      <li><a href="#workingpapers">Working papers</a></li>
-      <li><a href="#workingpapers">Policy papers</a></li>
-      <li><a href="#workinprocess">Work in process</a></li>
-      <li><a href="#contacts">Contacts</a></li>      
+      <li><a href="#publications" style="color: white; font-weight: bold;">Publications</a></li>
+      <li><a href="#workingpapers" style="color: white; font-weight: bold;">Working Papers</a></li>
+      <li><a href="#policy-papers" style="color: white; font-weight: bold;">Policy Papers</a></li>
+      <li><a href="#workinprocess" style="color: white; font-weight: bold;">Work in Process</a></li>
+      <li><a href="#contacts" style="color: white; font-weight: bold;">Contacts</a></li> 
     </ul>
   </nav>
 
