@@ -2,22 +2,17 @@
 
 <div style="display: flex;">
 
-  <nav style="flex: 0 0 200px; background-color: #f4f4f4; padding: 10px;">
+  <nav style="flex: 0 0 400px; background-color: #be5625; padding: 10px;">
     <ul style="list-style-type: none; padding: 0;">
       <li><a href="#publications">Publications</a></li>
+      <li><a href="#workingpapers">Working papers</a></li>
+      <li><a href="#workingpapers">Policy papers</a></li>
+      <li><a href="#workinprocess">Work in process</a></li>
+      <li><a href="#contacts">Contacts</a></li>      
     </ul>
   </nav>
 
   <div style="flex: 1; padding: 10px;">
-
-    ## Home
-    This is the home section.
-
-    ## Publications
-    This is the publications section.
-
-    ## Curriculum Vitae
-    This is the CV section.
 
   </div>
 
