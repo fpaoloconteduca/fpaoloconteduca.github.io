@@ -9,6 +9,7 @@
       <li><a href="#policy-papers" style="color: white; font-weight: bold;">Policy papers</a></li>
       <li><a href="#work-in-process" style="color: white; font-weight: bold;">Work in process</a></li>
       <li><a href="#contacts" style="color: white; font-weight: bold;">Contacts</a></li> 
+      <li><a href="https://github.com/fpaoloconteduca/fpaoloconteduca.github.io/blob/main/CV.pdf" style = "color: white; font-weight: bold;">CV</a></li>
     </ul>
   </nav>
 </div>
@@ -17,7 +18,6 @@ I am a senior economist at the Bank of Italy (World Trade and Emerging Market Ec
 
 My research interests focus on international trade, particularly the determinants of multinational production. I also worked on the relationship between Covid-19 and economic activity. 
 
-Click [here](https://github.com/fpaoloconteduca/fpaoloconteduca.github.io/blob/main/CV.pdf) to view my CV.
 
 ## Publications
 
