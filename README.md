@@ -4,12 +4,12 @@
 
   <nav style="flex: 0 0 300px; background-color: #3fa8db; padding: 10px;">
     <ul style="list-style-type: none; padding: 0;">
+            <li><a href="https://rawcdn.githack.com/fpaoloconteduca/fpaoloconteduca.github.io/7c464d1e69584baae3cac6e2ee38291533ce77f6/CV.pdf" style="color: white; font-weight: bold;" target="_blank">CV</a></li>
       <li><a href="#publications" style="color: white; font-weight: bold;">Publications</a></li>
       <li><a href="#working-papers" style="color: white; font-weight: bold;">Working papers</a></li>
       <li><a href="#policy-papers" style="color: white; font-weight: bold;">Policy papers</a></li>
       <li><a href="#work-in-process" style="color: white; font-weight: bold;">Work in process</a></li>
       <li><a href="#contacts" style="color: white; font-weight: bold;">Contacts</a></li> 
-      <li><a href="https://rawcdn.githack.com/fpaoloconteduca/fpaoloconteduca.github.io/7c464d1e69584baae3cac6e2ee38291533ce77f6/CV.pdf" style="color: white; font-weight: bold;" target="_blank">CV</a></li>
     </ul>
   </nav>
 </div>
@@ -70,7 +70,7 @@ My research interests focus on international trade, particularly the determinant
 ## Contacts
 
 [![Contact Me](https://img.shields.io/badge/Contact%20Me-Email-blue?style=for-the-badge)](mailto:francescopaolo.conteduca@bancaditalia.it)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white](https://www.linkedin.com/in/francesco-paolo-conteduca-87146130)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/francesco-paolo-conteduca-87146130)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white
 )](https://scholar.google.com/citations?user=k3X8TYYAAAAJ)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Francesco-Conteduca-2)
