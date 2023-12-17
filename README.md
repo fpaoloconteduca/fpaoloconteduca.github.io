@@ -79,6 +79,8 @@ My research interests focus on international trade, particularly the determinant
 -->
 <br />
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Francesco-Conteduca-2)
+<br />
+[![Last.fm](https://img.shields.io/badge/Last.fm-D51007.svg?style=for-the-badge&logo=lastdotfm&logoColor=white)](https://www.last.fm/user/houccisoparanoia)
  
 <a href="https://www.revolvermaps.com/?target=enlarge&amp;i=0zc0mexk33u"><img src="//ra.revolvermaps.com/h/m/a/0/ff0000/128/0/0zc0mexk33u.png" width="1" height="1" alt="Map" style="border:0;"></a>
 
