@@ -9,7 +9,7 @@
       <li><a href="#policy-papers" style="color: white; font-weight: bold;">Policy papers</a></li>
       <li><a href="#work-in-process" style="color: white; font-weight: bold;">Work in process</a></li>
       <li><a href="#contacts" style="color: white; font-weight: bold;">Contacts</a></li> 
-      <li><a href="[https://raw.githack.com/fpaoloconteduca/fpaoloconteduca.github.io/main/CV.pdf](https://rawcdn.githack.com/fpaoloconteduca/fpaoloconteduca.github.io/7c464d1e69584baae3cac6e2ee38291533ce77f6/CV.pdf)" style = "color: white; font-weight: bold;" target="_blank">CV</a></li>
+      <li><a href="https://rawcdn.githack.com/fpaoloconteduca/fpaoloconteduca.github.io/7c464d1e69584baae3cac6e2ee38291533ce77f6/CV.pdf" style="color: white; font-weight: bold;" target="_blank">CV</a></li>
     </ul>
   </nav>
 </div>
