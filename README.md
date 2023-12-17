@@ -69,8 +69,8 @@ My research interests focus on international trade, particularly the determinant
   
 ## Contacts
 
-<a href="mailto:francescopaolo.conteduca@bancaditalia.it">francescopaolo.conteduca@bancaditalia.it</a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/francesco-paolo-conteduca-87146130)
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-Email-blue?style=for-the-badge)](mailto:francescopaolo.conteduca@bancaditalia.it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white](https://www.linkedin.com/in/francesco-paolo-conteduca-87146130)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white
 )](https://scholar.google.com/citations?user=k3X8TYYAAAAJ)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Francesco-Conteduca-2)
