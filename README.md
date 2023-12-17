@@ -9,7 +9,7 @@
       <li><a href="#working-papers" style="color: white; font-weight: bold;">Working papers</a></li>
       <li><a href="#policy-papers" style="color: white; font-weight: bold;">Policy papers</a></li>
       <li><a href="#work-in-process" style="color: white; font-weight: bold;">Work in process</a></li>
-      <li><a href="#contacts" style="color: white; font-weight: bold;">Contacts</a></li> 
+      <li><a href="#contacts" style="color: white; font-weight: bold;">Contacts</a></li>
     </ul>
   </nav>
 </div>
