@@ -10,7 +10,7 @@
         <li style="margin-left: 60px;"><a href="#working-papers" style="color: white; font-weight: bold;">Working papers</a></li>
         <li style="margin-left: 120px;"><a href="#policy-papers" style="color: white; font-weight: bold;">Policy papers</a></li>
         <li style="margin-left: 160px;"><a href="#work-in-process" style="color: white; font-weight: bold;">Work in process</a></li>
-        <li style="margin-left: 245px;"><a href="#contacts" style="color: white; font-weight: bold;">Contacts</a></li> 
+        <li style="margin-left: 251px;"><a href="#contacts" style="color: white; font-weight: bold;">Contacts</a></li> 
     </ul>
 </nav>
 
