@@ -6,8 +6,8 @@
 <nav style="flex: 0 0 336px; background-color: #3fa8db; padding: 10px;">
     <ul style="list-style-type: none; padding: 0; margin: 0; font-size: 18px;">
         <li style="margin-left: 0;"><a href="https://rawcdn.githack.com/fpaoloconteduca/fpaoloconteduca.github.io/7c464d1e69584baae3cac6e2ee38291533ce77f6/CV.pdf" style="color: white; font-weight: bold;" target="_blank">CV</a></li>
-        <li style="margin-left: 40px;"><a href="#publications" style="color: white; font-weight: bold;">Publications</a></li>
-        <li style="margin-left: 80px;"><a href="#working-papers" style="color: white; font-weight: bold;">Working papers</a></li>
+        <li style="margin-left: 20px;"><a href="#publications" style="color: white; font-weight: bold;">Publications</a></li>
+        <li style="margin-left: 60px;"><a href="#working-papers" style="color: white; font-weight: bold;">Working papers</a></li>
         <li style="margin-left: 120px;"><a href="#policy-papers" style="color: white; font-weight: bold;">Policy papers</a></li>
         <li style="margin-left: 160px;"><a href="#work-in-process" style="color: white; font-weight: bold;">Work in process</a></li>
         <li style="margin-left: 250px;"><a href="#contacts" style="color: white; font-weight: bold;">Contacts</a></li> 
