@@ -15,7 +15,7 @@
 <br />
 I am a senior economist at the Bank of Italy (World Trade and Emerging Market Economies Unit).
 
-My current research interests focus on international trade, particularly the determinants of multinational production. I also worked on the relationship between Covid-19 and economic activity. 
+My research interests focus on international trade, particularly the determinants of multinational production. I also worked on the relationship between Covid-19 and economic activity. 
 
 Click [here](https://github.com/fpaoloconteduca/fpaoloconteduca.github.io/blob/main/CV.pdf) to view my CV.
 
