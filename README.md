@@ -36,7 +36,7 @@ My research interests focus on international trade, particularly the determinant
 
 ## Working papers
 
-- [It's a Match! Linking Foreign Counterparts in Italian Customs Data to Their Balance Sheets](https://www.bancaditalia.it/pubblicazioni/qef/2023-0823/QEF_823_23.pdf) (joint with [Marta Crispino](https://sites.google.com/site/crispinostat/)) (R&R *International Economics*)
+- [It's a Match! Linking Foreign Counterparts in Italian Customs Data to Their Balance Sheets](https://www.bancaditalia.it/pubblicazioni/qef/2023-0823/QEF_823_23.pdf) (joint with [Marta Crispino](https://sites.google.com/site/crispinostat/))<br>(R&R *International Economics*)
 
 - [The Structure of Multinational Firms under Demand Risk](https://drive.google.com/file/d/12a7-yrnwIpMa19hrOaZMtwdSoxmmFGnP/view) (joint with [Ekaterina Kazakova](https://ekaterinakazakova.com))
 
