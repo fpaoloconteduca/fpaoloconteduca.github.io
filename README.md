@@ -26,7 +26,7 @@ My research interests focus on international trade, particularly the determinant
 - [The real-time impact of the war on Russian imports: a synthetic control method approach](https://doi.org/10.1017/S1474745623000484) (joint with [Michele Mancini](http://www.tradeconomics.com/mancini) and [Alessandro Borin](http://www.tradeconomics.com/borin)). *The World Trade Review* (forthcoming).
 
 - [Trade Decoupling from Russia](https://doi.org/10.1016/j.inteco.2023.05.001) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), Enrica Di Stefano, [Vanessa Gunnella](https://sites.google.com/site/vanessagunnella/), [Michele Mancini](http://www.tradeconomics.com/mancini), and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home)). *International Economics, 175, pp. 25 - 44 (2023)* <br> 
-(Previously circulated as "Quantitative Assessment of the Economic Impact of the Trade Disruptions Following the Russian Invasion of Ukraine")
+(Previously circulated as [Quantitative Assessment of the Economic Impact of the Trade Disruptions Following the Russian Invasion of Ukraine](https://www.bancaditalia.it/pubblicazioni/qef/2022-0700/index.html?com.dotmarketing.htmlpage.language=1))
 
 - [Reasoning on Company Takeovers: From Tactic to Strategy](https://www.sciencedirect.com/science/article/abs/pii/S0169023X22000672) (joint with Luigi Bellomarini, Lorenzo Bencivelli, Claudia Biancotti, Livia Blasi, Andrea Gentili, Rosario Laurendi, Davide Magnanimi, Michele Savini Zangrandi, Flavia Tonelli, Stefano Ceri, Davide Benedetto, Markus Nissl, and Emanuel Sallinger). *Data & Knowledge Engineering, 141, 102073 (2022)*
 
