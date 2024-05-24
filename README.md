@@ -23,7 +23,7 @@ My research interests focus on international trade, particularly the determinant
 
 ## Publications
 
-- [It's a Match! Linking Foreign Counterparts in Italian Customs Data to Their Balance Sheets](https://www.bancaditalia.it/pubblicazioni/qef/2023-0823/QEF_823_23.pdf) (joint with [Marta Crispino](https://sites.google.com/site/crispinostat/))<br>(Accepted for publication in *International Economics*)
+- [It's a Match! Linking Foreign Counterparts in Italian Customs Data to Their Balance Sheets](https://doi.org/10.1016/j.inteco.2024.100511) (joint with [Marta Crispino](https://sites.google.com/site/crispinostat/)).<br>(Accepted for publication in *International Economics*)
 
 - [The real-time impact of the war on Russian imports: a synthetic control method approach](https://doi.org/10.1017/S1474745623000484) (joint with [Michele Mancini](http://www.tradeconomics.com/mancini) and [Alessandro Borin](http://www.tradeconomics.com/borin)). *The World Trade Review* (forthcoming).
 
