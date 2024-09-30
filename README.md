@@ -48,6 +48,7 @@ My research interests focus on international trade, particularly the determinant
 
 - Fragmentation and the future of GVCs (joint with [Michele Mancini](http://www.tradeconomics.com/mancini), [Simona Giglioli](https://sites.google.com/carloalberto.org/simona-giglioli/home), [Giacomo Romanini](https://giacomoromanini.com/), [Alessandro Borin](http://www.tradeconomics.com/borin), Enrica Di Stefano, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier)
 
+- [Natural disasters and markups](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4971406) (joint with [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home))
 
 
 ## Policy papers
@@ -73,7 +74,6 @@ My research interests focus on international trade, particularly the determinant
  
 - FDI Policy and Firm Performance: Evidence from India (joint with [Ekaterina Kazakova](https://www.ekaterinakazakova.com))
 
-- Natural disasters and markups (joint with [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home))
 
   
 ## Contacts
