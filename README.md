@@ -43,7 +43,7 @@ My research interests focus on international trade, particularly the determinant
 
 - [Serving Abroad: Export, M&A, and Greenfield Investment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4606966) (joint with [Ekaterina Kazakova](https://ekaterinakazakova.com))
 
-- [Trade fragmentation unveiled: Five Facts on the Reconfiguration of Global, US and EU Trade](https://www.bancaditalia.it/pubblicazioni/qef/2024-0881/QEF_881_24.pdf?language_id=1) (joint with [Simona Giglioli](https://sites.google.com/carloalberto.org/simona-giglioli/home), Claire Giordano, [Michele Mancini](http://www.tradeconomics.com/mancini), and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home)). *Bank of Italy, QEF 664 (2021)*,  R&R *Journal of Industrial Business and Economics*
+- [Trade fragmentation unveiled: Five Facts on the Reconfiguration of Global, US and EU Trade](https://www.bancaditalia.it/pubblicazioni/qef/2024-0881/QEF_881_24.pdf?language_id=1) (joint with [Simona Giglioli](https://sites.google.com/carloalberto.org/simona-giglioli/home), Claire Giordano, [Michele Mancini](http://www.tradeconomics.com/mancini), and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home)). *Bank of Italy, QEF 881 (2024)*,  R&R *Journal of Industrial Business and Economics*
 
 - Fragmentation and the future of GVCs (joint with [Michele Mancini](http://www.tradeconomics.com/mancini), [Simona Giglioli](https://sites.google.com/carloalberto.org/simona-giglioli/home), [Giacomo Romanini](https://giacomoromanini.com/), [Alessandro Borin](http://www.tradeconomics.com/borin), Enrica Di Stefano, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier)
 
@@ -52,7 +52,7 @@ My research interests focus on international trade, particularly the determinant
 
 ## Policy papers
  
-- [Forecasting Italian GDP growth with epidemiological data](https://www.bancaditalia.it/pubblicazioni/qef/2021-0664/index.html?com.dotmarketing.htmlpage.language=1) (joint with Valentina Aprigliano, [Alessandro Borin](http://www.tradeconomics.com/borin), Simone Emiliozzi, [Marco Flaccadoro](https://sites.google.com/view/marcoflaccadoro/home), Sabina Marchetti, and [Stefania Villa](https://sites.google.com/site/stefaniavilla3)). *Bank of Italy, QEF 881 (2024)*
+- [Forecasting Italian GDP growth with epidemiological data](https://www.bancaditalia.it/pubblicazioni/qef/2021-0664/index.html?com.dotmarketing.htmlpage.language=1) (joint with Valentina Aprigliano, [Alessandro Borin](http://www.tradeconomics.com/borin), Simone Emiliozzi, [Marco Flaccadoro](https://sites.google.com/view/marcoflaccadoro/home), Sabina Marchetti, and [Stefania Villa](https://sites.google.com/site/stefaniavilla3)). *Bank of Italy, QEF 664 (2021)*
  
  - [Mobility and Consumption Choices during the COVID-19 Pandemic](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3873765) (joint with [Ines Buono](https://sites.google.com/site/inesbuono/home))<br>
 (Previous version circulated as Banca d'Italia [Covid-19 Note](https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Nota_Covid_Mobility_Before_Gvt_Restrictions_09112020.pdf))
