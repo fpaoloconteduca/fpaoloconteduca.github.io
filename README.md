@@ -1,3 +1,33 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "name": "Francesco Paolo Conteduca",
+  "jobTitle": "Senior Economist",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Bank of Italy",
+    "url": "https://www.bancaditalia.it"
+  },
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Bank of Italy",
+    "url": "https://www.bancaditalia.it"
+  },
+  "sameAs": [
+    "https://github.com/fpaoloconteduca",
+    "https://scholar.google.com/citations?user=k3X8TYYAAAAJ",
+    "https://www.linkedin.com/in/francesco-paolo-conteduca-87146130",
+    "https://www.researchgate.net/profile/Francesco-Conteduca-2"
+  ],
+  "email": "mailto:francescopaolo.conteduca@bancaditalia.it",
+  "alumniOf": {
+    "@type": "EducationalOrganization",
+    "name": "Your University Name"
+  }
+}
+</script>
+
 # Welcome to my webpage
 
 <div style="display: flex;">
