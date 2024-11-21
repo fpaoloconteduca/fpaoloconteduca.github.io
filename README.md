@@ -73,7 +73,7 @@ My research interests focus on international trade, particularly the determinant
 
 - [Serving Abroad: Export, M&A, and Greenfield Investment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4606966) (joint with [Ekaterina Kazakova](https://ekaterinakazakova.com))
 
-- [Trade fragmentation unveiled: Five Facts on the Reconfiguration of Global, US and EU Trade](https://www.bancaditalia.it/pubblicazioni/qef/2024-0881/QEF_881_24.pdf?language_id=1) (joint with [Simona Giglioli](https://sites.google.com/carloalberto.org/simona-giglioli/home), Claire Giordano, [Michele Mancini](http://www.tradeconomics.com/mancini), and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home)). *Bank of Italy, QEF 881 (2024)*,  R&R *Journal of Industrial Business and Economics*
+- [Trade fragmentation unveiled: Five Facts on the Reconfiguration of Global, US and EU Trade](https://mpra.ub.uni-muenchen.de/122657/1/MPRA_paper_122657.pdf) (joint with [Simona Giglioli](https://sites.google.com/carloalberto.org/simona-giglioli/home), Claire Giordano, [Michele Mancini](http://www.tradeconomics.com/mancini), and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home)). *Bank of Italy, QEF 881 (2024)*,  R&R *Journal of Industrial Business and Economics*
 
 - Fragmentation and the future of GVCs (joint with [Michele Mancini](http://www.tradeconomics.com/mancini), [Simona Giglioli](https://sites.google.com/carloalberto.org/simona-giglioli/home), [Giacomo Romanini](https://giacomoromanini.com/), [Alessandro Borin](http://www.tradeconomics.com/borin), Enrica Di Stefano, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier)
 
@@ -89,13 +89,13 @@ My research interests focus on international trade, particularly the determinant
  
 - [Measuring COVID-19 Restrictions in Italy During the Second Wave](https://www.bancaditalia.it/pubblicazioni/note-covid-19/2021/mobility_restrictions_italy_second_wave.pdf) 
 
-- [Fighting COVID-19: measuring the restrictiveness of government policies](https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Nota_Lockdown_circolazione.pdf) (joint with [Michele Mancini](http://www.tradeconomics.com/mancini), Luca Rossi, and Flavia Tonelli)
+- [Fighting COVID-19: measuring the restrictiveness of government policies](https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Nota_Lockdown_circolazione.pdf) (joint with [Michele Mancini](http://www.tradeconomics.com/mancini), [Luca Rossi](https://sites.google.com/view/luca-rossi), and Flavia Tonelli)
 
-- [Aggiornamento sull'evoluzione della pandemia COVID-19](https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Aggiornamento_evoluzione_pandemia_Covid_19-2020.07.20.pdf) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), Giuseppe Ilardi, [Michele Mancini](http://www.tradeconomics.com/mancini), and Luca Rossi)
+- [Aggiornamento sull'evoluzione della pandemia COVID-19](https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Aggiornamento_evoluzione_pandemia_Covid_19-2020.07.20.pdf) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), Giuseppe Ilardi, [Michele Mancini](http://www.tradeconomics.com/mancini), and [Luca Rossi](https://sites.google.com/view/luca-rossi))
 
 - [The impact of the war on Russian imports: A counterfactual analysis](https://cepr.org/voxeu/columns/impact-war-russian-imports-counterfactual-analysis) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin) and [Michele Mancini](http://www.tradeconomics.com/mancini)). *VoxEU* column, November 9, 2022.
 
-- [The impact of EU sanctions on Russian imports](https://cepr.org/voxeu/columns/impact-eu-sanctions-russian-imports) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), Gabriele Cappadona, Benjamin Hilgenstock, [Oleg Itskhoki](https://itskhoki.com/), [Michele Mancini](http://www.tradeconomics.com/mancini), [Maxim Mironov](http://mironov.xyz/), Elina Ribakova). *VoxEU* column, May 29, 2023.
+- [The impact of EU sanctions on Russian imports](https://cepr.org/voxeu/columns/impact-eu-sanctions-russian-imports) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), Gabriele Cappadona, Benjamin Hilgenstock, [Oleg Itskhoki](https://itskhoki.com/), [Michele Mancini](http://www.tradeconomics.com/mancini), [Maxim Mironov](http://mironov.xyz/), [Elina Ribakova](http://elinaribakova.com/)). *VoxEU* column, May 29, 2023.
 
 ## Work in process
 
