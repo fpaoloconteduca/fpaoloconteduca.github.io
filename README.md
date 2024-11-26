@@ -119,7 +119,7 @@ My research interests focus on international trade, particularly the determinant
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Francesco-Conteduca-2)
 <br />
 [![Last.fm](https://img.shields.io/badge/Last.fm-D51007.svg?style=for-the-badge&logo=lastdotfm&logoColor=white)](https://www.last.fm/user/houccisoparanoia)
- 
+[![BlueSky](https://img.shields.io/badge/-Bluesky-3686f7?style=flat&logo=icloud&logoColor=white)](https://bsky.app/profile/fpconteduca.bsky.social) 
 
 <div style="width: 0; height: 0; overflow: hidden;">
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=rfmAR2R5i6QNdJczijgozrYGDvDOa4qCSISn-1qw89E"></script>
