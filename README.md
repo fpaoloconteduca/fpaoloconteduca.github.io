@@ -97,6 +97,7 @@ My research interests focus on international trade, particularly the determinant
 
 - [The impact of EU sanctions on Russian imports](https://cepr.org/voxeu/columns/impact-eu-sanctions-russian-imports) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), Gabriele Cappadona, Benjamin Hilgenstock, [Oleg Itskhoki](https://itskhoki.com/), [Michele Mancini](http://www.tradeconomics.com/mancini), [Maxim Mironov](http://mironov.xyz/), [Elina Ribakova](http://elinaribakova.com/)). *VoxEU* column, May 29, 2023.
 
+
 ## Work in process
 
 - Natural Disasters and Global Sourcing: New Evidence from Firm-to-Firm Transactions (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), [Andrea Linarello](https://sites.google.com/site/andrealinarello/home), [Michele Mancini](http://www.tradeconomics.com/mancini), [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home), and [Sebastian Stumpner](https://sites.google.com/site/sebastianstumpner/))
@@ -104,6 +105,7 @@ My research interests focus on international trade, particularly the determinant
 - FDI Policy and Firm Performance: Evidence from India (joint with [Ekaterina Kazakova](https://www.ekaterinakazakova.com))
 
 
+- Trade Fragmentation Unveiled (joint with [Simona Giglioli](https://sites.google.com/carloalberto.org/simona-giglioli/home), Claire Giordano, [Michele Mancini](http://www.tradeconomics.com/mancini), and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home))
   
 ## Contacts
 
