@@ -73,7 +73,7 @@ My research interests focus on international trade, particularly the determinant
 
 - [Serving Abroad: Export, M&A, and Greenfield Investment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4606966) (joint with [Ekaterina Kazakova](https://ekaterinakazakova.com))
 
-- [Trade fragmentation unveiled: Five Facts on the Reconfiguration of Global, US and EU Trade](https://mpra.ub.uni-muenchen.de/122657/1/MPRA_paper_122657.pdf) (joint with [Simona Giglioli](https://sites.google.com/carloalberto.org/simona-giglioli/home), Claire Giordano, [Michele Mancini](http://www.tradeconomics.com/mancini), and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home)). *Bank of Italy, QEF 881 (2024)*,  R&R *Journal of Industrial Business and Economics*
+- [Trade fragmentation unveiled: Five Facts on the Reconfiguration of Global, US and EU Trade](https://mpra.ub.uni-muenchen.de/122657/1/MPRA_paper_122657.pdf) (joint with [Simona Giglioli](https://sites.google.com/carloalberto.org/simona-giglioli/home), Claire Giordano, [Michele Mancini](http://www.tradeconomics.com/mancini), and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home)). *Bank of Italy, QEF 881 (2024)*,  Conditionally accepted for publication at *Journal of Industrial Business and Economics*
 
 - Fragmentation and the future of GVCs (joint with [Michele Mancini](http://www.tradeconomics.com/mancini), [Simona Giglioli](https://sites.google.com/carloalberto.org/simona-giglioli/home), [Giacomo Romanini](https://giacomoromanini.com/), [Alessandro Borin](http://www.tradeconomics.com/borin), Enrica Di Stefano, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier)
 
