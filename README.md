@@ -28,6 +28,14 @@
 }
 </script>
 
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about-me.html">About Me</a>
+        <a href="research.html">Research</a>
+        <a href="activities.html">Activities</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+
 # Welcome to my webpage
 
 <div style="display: flex;">
