@@ -75,7 +75,7 @@ My research interests focus on international trade, particularly the determinant
 
 - [Trade fragmentation unveiled: Five Facts on the Reconfiguration of Global, US and EU Trade](https://mpra.ub.uni-muenchen.de/122657/1/MPRA_paper_122657.pdf) (joint with [Simona Giglioli](https://sites.google.com/carloalberto.org/simona-giglioli/home), Claire Giordano, [Michele Mancini](http://www.tradeconomics.com/mancini), and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home)). *Bank of Italy, QEF 881 (2024)*,  R&R *Journal of Industrial Business and Economics*
 
-- Fragmentation and the future of GVCs (joint with [Michele Mancini](http://www.tradeconomics.com/mancini), [Simona Giglioli](https://sites.google.com/carloalberto.org/simona-giglioli/home), [Giacomo Romanini](https://giacomoromanini.com/), [Alessandro Borin](http://www.tradeconomics.com/borin), Enrica Di Stefano, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier)
+- Fragmentation and the future of GVCs (joint with [Michele Mancini](http://www.tradeconomics.com/mancini), [Simona Giglioli](https://sites.google.com/carloalberto.org/simona-giglioli/home), [Giacomo Romanini](https://giacomoromanini.com/), [Alessandro Borin](http://www.tradeconomics.com/borin), Enrica Di Stefano, [Maria Grazia Attinasi](https://www.ecb.europa.eu/pub/research/authors/profiles/maria-grazia-attinasi.en.html), [Lukas Boeckelmann](https://www.ecb.europa.eu/pub/research/authors/profiles/lukas-boeckelmann.it.html), and [Baptiste Meunier](https://www.ecb.europa.eu/pub/research/authors/profiles/baptiste-meunier.en.html))
 
 - [Natural disasters and markups](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4971406) (joint with [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home))
 
@@ -103,7 +103,7 @@ My research interests focus on international trade, particularly the determinant
  
 - FDI Policy and Firm Performance: Evidence from India (joint with [Ekaterina Kazakova](https://www.ekaterinakazakova.com))
 
-
+- Climate Change and Fragmentation (joint with [Maria Grazia Attinasi](https://www.ecb.europa.eu/pub/research/authors/profiles/maria-grazia-attinasi.en.html), [Lukas Boeckelmann](https://www.ecb.europa.eu/pub/research/authors/profiles/lukas-boeckelmann.it.html), Bernardo de Castro Martins, [Baptiste Meunier](https://www.ecb.europa.eu/pub/research/authors/profiles/baptiste-meunier.en.html), [Alessandro Borin](http://www.tradeconomics.com/borin), and [Michele Mancini](http://www.tradeconomics.com/mancini))
   
 ## Contacts
 
