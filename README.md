@@ -53,6 +53,9 @@ My research interests focus on international trade, particularly the determinant
 
 ## Publications
 
+- [Trade fragmentation unveiled: Five Facts on the Reconfiguration of Global, US and EU Trade](https://link.springer.com/article/10.1007/s40812-024-00337-w) (joint with [Simona Giglioli](https://sites.google.com/carloalberto.org/simona-giglioli/home), Claire Giordano, [Michele Mancini](http://www.tradeconomics.com/mancini), and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home)). *Journal of Industrial Business and Economics (forthcoming)*<br>
+(Previous version [Bank of Italy, QEF 881 (2024)](https://www.bancaditalia.it/pubblicazioni/qef/2024-0881/QEF_881_24.pdf?language_id=1))
+
 - [The real-time impact of the war on Russian imports: a synthetic control method approach](https://doi.org/10.1017/S1474745623000484) (joint with [Michele Mancini](http://www.tradeconomics.com/mancini) and [Alessandro Borin](http://www.tradeconomics.com/borin)). *The World Trade Review, vol. 23(4), pp. 433-447 (2024)* 
 
 - [It's a Match! Linking Foreign Counterparts in Italian Customs Data to Their Balance Sheets](https://doi.org/10.1016/j.inteco.2024.100511) (joint with [Marta Crispino](https://sites.google.com/site/crispinostat/)). *International Economics, 179, 100511 (2024)*
@@ -72,8 +75,6 @@ My research interests focus on international trade, particularly the determinant
 - [The Structure of Multinational Firms under Demand Risk](https://drive.google.com/file/d/12a7-yrnwIpMa19hrOaZMtwdSoxmmFGnP/view) (joint with [Ekaterina Kazakova](https://ekaterinakazakova.com))
 
 - [Serving Abroad: Export, M&A, and Greenfield Investment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4606966) (joint with [Ekaterina Kazakova](https://ekaterinakazakova.com))
-
-- [Trade fragmentation unveiled: Five Facts on the Reconfiguration of Global, US and EU Trade](https://mpra.ub.uni-muenchen.de/122657/1/MPRA_paper_122657.pdf) (joint with [Simona Giglioli](https://sites.google.com/carloalberto.org/simona-giglioli/home), Claire Giordano, [Michele Mancini](http://www.tradeconomics.com/mancini), and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home)). *Bank of Italy, QEF 881 (2024)*,  R&R *Journal of Industrial Business and Economics*
 
 - Fragmentation and the future of GVCs (joint with [Michele Mancini](http://www.tradeconomics.com/mancini), [Simona Giglioli](https://sites.google.com/carloalberto.org/simona-giglioli/home), [Giacomo Romanini](https://giacomoromanini.com/), [Alessandro Borin](http://www.tradeconomics.com/borin), Enrica Di Stefano, [Maria Grazia Attinasi](https://www.ecb.europa.eu/pub/research/authors/profiles/maria-grazia-attinasi.en.html), [Lukas Boeckelmann](https://www.ecb.europa.eu/pub/research/authors/profiles/lukas-boeckelmann.it.html), and [Baptiste Meunier](https://www.ecb.europa.eu/pub/research/authors/profiles/baptiste-meunier.en.html))
 
