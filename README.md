@@ -104,7 +104,7 @@ My research interests focus on international trade, particularly the determinant
  
 - FDI Policy and Firm Performance: Evidence from India (joint with [Ekaterina Kazakova](https://www.ekaterinakazakova.com))
 
-- Climate Change and Fragmentation (joint with [Maria Grazia Attinasi](https://www.ecb.europa.eu/pub/research/authors/profiles/maria-grazia-attinasi.en.html), [Lukas Boeckelmann](https://www.ecb.europa.eu/pub/research/authors/profiles/lukas-boeckelmann.it.html), Bernardo de Castro Martins, [Baptiste Meunier](https://www.ecb.europa.eu/pub/research/authors/profiles/baptiste-meunier.en.html), [Alessandro Borin](http://www.tradeconomics.com/borin), and [Michele Mancini](http://www.tradeconomics.com/mancini))
+- Climate Change and Fragmentation (joint with [Maria Grazia Attinasi](https://www.ecb.europa.eu/pub/research/authors/profiles/maria-grazia-attinasi.en.html), [Lukas Boeckelmann](https://www.ecb.europa.eu/pub/research/authors/profiles/lukas-boeckelmann.it.html), Bernardo de Castro Martins, [Baptiste Meunier](https://www.ecb.europa.eu/pub/research/authors/profiles/baptiste-meunier.en.html), [Alessandro Borin](http://www.tradeconomics.com/borin), and [Michele Mancini](http://www.tradeconomics.com/mancini)) (R&R *Energy Economics)
   
 ## Contacts
 
