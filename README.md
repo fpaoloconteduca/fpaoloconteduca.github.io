@@ -98,7 +98,7 @@ My research interests focus on international trade, particularly the determinant
 
 - [The impact of EU sanctions on Russian imports](https://cepr.org/voxeu/columns/impact-eu-sanctions-russian-imports) (joint with [Alessandro Borin](http://www.tradeconomics.com/borin), Gabriele Cappadona, Benjamin Hilgenstock, [Oleg Itskhoki](https://itskhoki.com/), [Michele Mancini](http://www.tradeconomics.com/mancini), [Maxim Mironov](http://mironov.xyz/), [Elina Ribakova](http://elinaribakova.com/)). *VoxEU* column, May 29, 2023.
 
-- [Roaring tariffs: The global impact of the 2025 US trade war](https://cepr.org/voxeu/columns/roaring-tariffs-global-impact-2025-us-trade-war) (joint with [Michele Mancini](http://www.tradeconomics.com/mancini) and  [Alessandro Borin](http://www.tradeconomics.com/borin)). *VoxEU column, May 6, 2025.
+- [Roaring tariffs: The global impact of the 2025 US trade war](https://cepr.org/voxeu/columns/roaring-tariffs-global-impact-2025-us-trade-war) (joint with [Michele Mancini](http://www.tradeconomics.com/mancini) and  [Alessandro Borin](http://www.tradeconomics.com/borin)). *VoxEU* column, May 6, 2025.
 
 ## Work in process
 
