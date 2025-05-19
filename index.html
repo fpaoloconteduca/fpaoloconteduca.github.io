@@ -1,138 +1,73 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Francesco Paolo Conteduca</title>
-  <link rel="icon" href="fpcfavicon.ico" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet" />
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
 
-  <style>
-    body {
-      font-family: 'Inter', sans-serif;
-      background-color: white;
-      color: black;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-      text-align: center;
-      flex-direction: column;
-      line-height: 1.6;
-      transition: background-color 0.3s ease, color 0.3s ease;
-    }
-
-    body.dark-mode {
-      background-color: #121212;
-      color: #f0f0f0;
-    }
-
-    a {
-      color: #0066cc;
-      text-decoration: none;
-      margin: 0 0.5em;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    .dark-toggle {
-      position: fixed;
-      top: 1em;
-      right: 1em;
-      background-color: white;
-      color: black;
-      border: 1px solid currentColor;
-      padding: 0.4em 0.6em;
-      cursor: pointer;
-      font-size: 0.9em;
-      border-radius: 5px;
-    }
-
-    body.dark-mode .dark-toggle {
-      background-color: #333;
-      color: white;
-    }
-  </style>
-
-  <script type="application/ld+json">
-  {
-    "@context": "http://schema.org",
-    "@type": "Person",
-    "name": "Francesco Paolo Conteduca",
-    "jobTitle": "Senior Economist",
-    "affiliation": {
-      "@type": "Organization",
-      "name": "Bank of Italy",
-      "url": "https://www.bancaditalia.it"
-    },
-    "worksFor": {
-      "@type": "Organization",
-      "name": "Bank of Italy",
-      "url": "https://www.bancaditalia.it"
-    },
-    "sameAs": [
-      "https://github.com/fpaoloconteduca",
-      "https://scholar.google.com/citations?user=k3X8TYYAAAAJ",
-      "https://www.linkedin.com/in/francesco-paolo-conteduca-87146130",
-      "https://www.researchgate.net/profile/Francesco-Conteduca-2"
-    ],
-    "email": "mailto:francescopaolo.conteduca@bancaditalia.it",
-    "alumniOf": {
-      "@type": "EducationalOrganization",
-      "name": "University of Mannheim",
-      "url": "https://www.uni-mannheim.de/en/"
-    }
+  body {
+    font-family: 'Inter', sans-serif;
+    background-color: white;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 0;
+    padding: 2em 1em;
+    text-align: center;
+    line-height: 1.6;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    font-size: 16px;
   }
-  </script>
-</head>
 
-<body>
-  <!-- Dark mode toggle button -->
-  <button class="dark-toggle" onclick="toggleDarkMode()">🌓 Dark Mode</button>
+  body.dark-mode {
+    background-color: #121212;
+    color: #f0f0f0;
+  }
 
-  <h1>Francesco Paolo Conteduca</h1>
-  <p>
-    Senior Economist<br>
-    Bank of Italy<br>
-    Directorate General for Economics, Statistics and Research<br>
-    International Relations and Economics Directorate
-  </p>
+  h1 {
+    font-size: 2.2rem;
+    font-weight: 700;
+    margin-bottom: 0.5em;
+  }
 
-<nav>
-  <a href="publications.html">Publications</a>
-  <a href="working-papers.html">Working papers</a>
-  <a href="policy-papers.html">Policy papers and notes</a>
-  <a href="https://scholar.google.com/citations?user=k3X8TYYAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
-  <a href="https://www.linkedin.com/in/francesco-paolo-conteduca-87146130" target="_blank" rel="noopener">LinkedIn</a>
-  <a href="mailto:francescopaolo.conteduca@bancaditalia.it">Email</a>
-  <a href="cv_fpconteduca.pdf" target = "_blank">CV</a>
-</nav>
+  p {
+    font-size: 1.1rem;
+    margin: 0 0 1.5em;
+    max-width: 700px;
+  }
 
+  nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.7em;
+    margin-bottom: 2em;
+  }
 
-  
-  <!-- Hidden ClustrMaps tracker -->
-  <div style="display: none;">
-    <a href="https://clustrmaps.com/site/1c2dt" title="ClustrMaps">
-      <img src="//www.clustrmaps.com/map_v2.png?d=rfmAR2R5i6QNdJczijgozrYGDvDOa4qCSISn-1qw89E&cl=ffffff" alt="ClustrMaps visitor map">
-    </a>
-  </div>
+  a {
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 1rem;
+  }
 
-  <script>
-    function toggleDarkMode() {
-      document.body.classList.toggle('dark-mode');
-      localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
-    }
+  a:hover {
+    text-decoration: underline;
+  }
 
-    window.onload = function () {
-      if (localStorage.getItem('darkMode') === 'true') {
-        document.body.classList.add('dark-mode');
-      }
-    }
-  </script>
-</body>
-</html>
+  .dark-toggle {
+    position: fixed;
+    top: 1em;
+    right: 1em;
+    background-color: white;
+    color: black;
+    border: 1px solid currentColor;
+    padding: 0.4em 0.6em;
+    cursor: pointer;
+    font-size: 0.9em;
+    border-radius: 5px;
+  }
+
+  body.dark-mode .dark-toggle {
+    background-color: #333;
+    color: white;
+  }
+</style>
