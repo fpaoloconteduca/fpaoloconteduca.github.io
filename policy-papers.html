@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Policy papers and notes</title>
+  <title>Policy Papers and Notes</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
     :root {
@@ -41,6 +41,25 @@
       color: #666;
     }
 
+    /* Navigation bar styling */
+    nav {
+      margin-bottom: 2em;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 0.5em;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #333;
+      margin-right: 1.5em;
+      font-weight: 600;
+      font-size: 1.1em;
+    }
+
+    nav a:hover {
+      color: #0077cc;
+    }
+
     /* Dark mode styles */
     body.dark-mode {
       background-color: #121212;
@@ -54,6 +73,18 @@
 
     body.dark-mode .paper-meta {
       color: #aaa;
+    }
+
+    body.dark-mode nav {
+      border-color: #444;
+    }
+
+    body.dark-mode nav a {
+      color: #e0e0e0;
+    }
+
+    body.dark-mode nav a:hover {
+      color: #66aaff;
     }
 
     /* Updated Dark mode toggle button to match publications page */
@@ -91,159 +122,81 @@
 <body>
   <button id="dark-mode-toggle">🌓 Dark Mode</button>
 
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="publications.html">Publications</a>
+    <a href="working-papers.html">Working Papers</a>
+    <a href="policy-papers.html" aria-current="page">Policy Papers</a>
+    <a href="cv.html">CV</a>
+  </nav>
+
   <h1>Policy Papers and Notes</h1>
 
   <h2>ESCB Occasional Papers</h2>
   <ul>
-        <li>
-      <strong>       
-        <a href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0932/index.html" target="_blank">
+    <li>
+      <strong>
+        <a href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0932/index.html" target="_blank" rel="noopener">
           Fragmentation and the future of GVCs
         </a>
       </strong><br />
-       <div class="paper-meta">with <a href="https://tradeconomics.com/mancini/" target = "_blank">Michele Mancini</a>, <a href= "https://giacomoromanini.com/" target ="_blank">Giacomo Romanini</a>, <a href="https://sites.google.com/carloalberto.org/simona-giglioli/home" target = "_blank">Simona Giglioli</a>, <a href="https://tradeconomics.com/borin/" target = "_blank">Alessandro Borin</a>, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier, <em>Bank of Italy Occasional Papers</em>, 2025.</div>
+      <div class="paper-meta">with <a href="https://tradeconomics.com/mancini/" target="_blank" rel="noopener">Michele Mancini</a>, <a href="https://giacomoromanini.com/" target="_blank" rel="noopener">Giacomo Romanini</a>, <a href="https://sites.google.com/carloalberto.org/simona-giglioli/home" target="_blank" rel="noopener">Simona Giglioli</a>, <a href="https://tradeconomics.com/borin/" target="_blank" rel="noopener">Alessandro Borin</a>, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier, <em>Bank of Italy Occasional Papers</em>, 2025.</div>
     </li>
     <li>
-      <strong>       
-        <a href="https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op365~362d801aee.en.pdf" target="_blank">
+      <strong>
+        <a href="https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op365~362d801aee.en.pdf" target="_blank" rel="noopener">
           Navigating a fragmenting global trading system: insights for central banks
         </a>
       </strong><br />
-       <div class="paper-meta">with Maria Grazia Attinasi and <a href="https://tradeconomics.com/mancini/" target = "_blank">Michele Mancini</a> (editors), <em>European Central Bank Occasional Papers</em>, 2024.</div>
+      <div class="paper-meta">with Maria Grazia Attinasi and <a href="https://tradeconomics.com/mancini/" target="_blank" rel="noopener">Michele Mancini</a> (editors), <em>European Central Bank Occasional Papers</em>, 2024.</div>
     </li>
-     <li>
+    <li>
       <strong>
-        <a href="https://www.bancaditalia.it/pubblicazioni/qef/2024-0881/index.html" target="_blank">
-         Trade fragmentation unveiled: five facts on the reconfiguration of global, US and EU trade
+        <a href="https://www.bancaditalia.it/pubblicazioni/qef/2024-0881/index.html" target="_blank" rel="noopener">
+          Trade fragmentation unveiled: five facts on the reconfiguration of global, US and EU trade
         </a>
       </strong><br />
-       <div class="paper-meta">with <a href="https://sites.google.com/carloalberto.org/simona-giglioli/home" target = "_blank">Simona Giglioli</a>, Claire Giordano, <a href="https://tradeconomics.com/mancini/">Michele Mancini</a>, and <a href="https://sites.google.com/site/ludovicpanon/home" target ="_blank">Ludovic Panon</a>, <em>Bank of Italy Occasional Papers</em>, 2024.</div>
-    </li>  
-          <li>
+      <div class="paper-meta">with <a href="https://sites.google.com/carloalberto.org/simona-giglioli/home" target="_blank" rel="noopener">Simona Giglioli</a>, Claire Giordano, <a href="https://tradeconomics.com/mancini/">Michele Mancini</a>, and <a href="https://sites.google.com/site/ludovicpanon/home" target="_blank" rel="noopener">Ludovic Panon</a>, <em>Bank of Italy Occasional Papers</em>, 2024.</div>
+    </li>
+    <li>
       <strong>
-        <a href="https://www.bancaditalia.it/pubblicazioni/qef/2023-0823/index.html" target="_blank">
-         It's a match! Linking foreign counterparts in Italian customs data to their balance sheets 
+        <a href="https://www.bancaditalia.it/pubblicazioni/qef/2023-0823/index.html" target="_blank" rel="noopener">
+          It's a match! Linking foreign counterparts in Italian customs data to their balance sheets 
         </a>
       </strong><br />
-       <div class="paper-meta">with <a href="https://sites.google.com/site/crispinostat/" target = "_blank">Marta Crispino</a>, <em>Bank of Italy Occasional Papers</em>, 2023.</div>
-    </li>  
-      <li>
+      <div class="paper-meta">with <a href="https://sites.google.com/site/crispinostat/" target="_blank" rel="noopener">Marta Crispino</a>, <em>Bank of Italy Occasional Papers</em>, 2023.</div>
+    </li>
+    <li>
       <strong>
-        <a href="https://www.bancaditalia.it/pubblicazioni/qef/2022-0700/index.html" target="_blank">
+        <a href="https://www.bancaditalia.it/pubblicazioni/qef/2022-0700/index.html" target="_blank" rel="noopener">
           Quantitative assessment of the economic impact of the trade disruptions following the Russian invasion of Ukraine
         </a>
       </strong><br />
-       <div class="paper-meta">with <a href="https://tradeconomics.com/borin/" target = "_blank">Alessandro Borin</a>, Enrica Di Stefano, Vanessa Gunnella, <a href="https://tradeconomics.com/mancini/">Michele Mancini</a>, and <a href="https://sites.google.com/site/ludovicpanon/home" target ="_blank">Ludovic Panon</a>, <em>Bank of Italy Occasional Papers</em>, 2022.</div>
-    </li>  
-      <li>
+      <div class="paper-meta">with <a href="https://tradeconomics.com/borin/" target="_blank" rel="noopener">Alessandro Borin</a>, Enrica Di Stefano, Vanessa Gunnella, <a href="https://tradeconomics.com/mancini/">Michele Mancini</a>, and <a href="https://sites.google.com/site/ludovicpanon/home" target="_blank" rel="noopener">Ludovic Panon</a>, <em>Bank of Italy Occasional Papers</em>, 2022.</div>
+    </li>
+    <li>
       <strong>
-        <a href="https://www.bancaditalia.it/pubblicazioni/qef/2022-0681/index.html" target="_blank">
+        <a href="https://www.bancaditalia.it/pubblicazioni/qef/2022-0681/index.html" target="_blank" rel="noopener">
           An epidemic model for SARS-CoV-2 with self-adaptive containment measures
         </a>
       </strong><br />
-       <div class="paper-meta">with Sabina Marchetti, <a href="https://tradeconomics.com/borin/" target = "_blank">Alessandro Borin</a>, Giuseppe Ilardi, Giorgio Guzzetta, Piero Poletti, Patrizio Pezzotti, Antonino Bella, Paola Stefanelli, Flavia Riccardo, Stefano Merler, Andrea Brandolini, Silvio Brusaferro, <em>Bank of Italy Occasional Papers</em>, 2022.</div>
-    </li>   
-      <li>
+      <div class="paper-meta">with Sabina Marchetti, <a href="https://tradeconomics.com/borin/" target="_blank" rel="noopener">Alessandro Borin</a>, Giuseppe Ilardi, Giorgio Guzzetta, Piero Poletti, Patrizio Pezzotti, Antonino Bella, Paola Stefanelli, Flavia Riccardo, Stefano Merler, Andrea Brandolini, Silvio Brusaferro, <em>Bank of Italy Occasional Papers</em>, 2022.</div>
+    </li>
+    <li>
       <strong>
-        <a href="https://www.bancaditalia.it/pubblicazioni/qef/2021-0664/index.html" target="_blank">
+        <a href="https://www.bancaditalia.it/pubblicazioni/qef/2021-0664/index.html" target="_blank" rel="noopener">
           Forecasting Italian GDP Growth with Epidemiological Data
         </a>
       </strong><br />
-       <div class="paper-meta">with Valentina Aprigliano, <a href="https://tradeconomics.com/borin/" target = "_blank">Alessandro Borin</a>, Simone Emiliozzi, <a href="https://sites.google.com/view/marcoflaccadoro/home" target = "_blank">Marco Flaccadoro</a>, Sabina Marchetti, and <a href="https://sites.google.com/site/stefaniavilla3" target="_blank">Stefania Villa</a>, <em>Bank of Italy Occasional Papers</em>, 2022.</div>
+      <div class="paper-meta">with Valentina Aprigliano, <a href="https://tradeconomics.com/borin/" target="_blank" rel="noopener">Alessandro Borin</a>, Simone Emiliozzi, <a href="https://sites.google.com/view/marcoflaccadoro/home" target="_blank" rel="noopener">Marco Flaccadoro</a>, Sabina Marchetti, and <a href="https://sites.google.com/site/stefaniavilla3" target="_blank" rel="noopener">Stefania Villa</a>, <em>Bank of Italy Occasional Papers</em>, 2022.</div>
     </li>
-
   </ul>
 
   <h2>VoxEU Columns</h2>
   <ul>
     <li>
       <div class="paper-title">
-        <a href="https://cepr.org/voxeu/columns/roaring-tariffs-global-impact-2025-us-trade-war" target="_blank">
+        <a href="https://cepr.org/voxeu/columns/roaring-tariffs-global-impact-2025-us-trade-war" target="_blank" rel="noopener">
           Roaring tariffs: The global impact of the 2025 US trade war
         </a>
-      </div>
-      <div class="paper-meta">with <a href="https://tradeconomics.com/mancini/" target = "_blank">Michele Mancini</a> and <a href="https://tradeconomics.com/borin/" target = "_blank">Alessandro Borin</a>, May 2025</div>
-    </li>
-    <li>
-      <div class="paper-title">
-        <a href="https://cepr.org/voxeu/columns/impact-eu-sanctions-russian-imports" target="_blank">
-          The impact of EU sanctions on Russian imports
-        </a>
-      </div>
-     <div class="paper-meta">
-       with <a href="https://tradeconomics.com/borin/" target = "_blank">Alessandro Borin</a>, Gabriele Cappadona, Benjamin Hilgenstock, <a href="https://itskhoki.com/" target = "_blank">Oleg Itskhoki</a>,  <a href="https://tradeconomics.com/mancini/" target = "_blank">Michele Mancini</a>, Maxim Mironov, and <a href ="https://elinaribakova.com/" target = "_blank">Elina Ribakova</a>, May 2025</div>
-    </li>
-        <li>
-      <div class="paper-title">
-        <a href="https://cepr.org/voxeu/columns/impact-war-russian-imports-counterfactual-analysis" target="_blank">
-          The impact of the war on Russian imports: A counterfactual analysis
-        </a>
-      </div>
-      <div class="paper-meta">with <a href="https://tradeconomics.com/mancini/" target = "_blank">Michele Mancini</a> and <a href="https://tradeconomics.com/borin/" target = "_blank">Alessandro Borin</a>, November 2022</div>
-    </li>
-  </ul>
-  
-  <h2>Covid-19 Notes</h2>
-  <ul>
-    <li>
-      <div class="paper-title">
-        <a href="https://www.bancaditalia.it/pubblicazioni/note-covid-19/2021/mobility_restrictions_italy_second_wave.pdf" target="_blank">
-          Measuring Covid-19 restrictions in Italy during the second wave
-          </a>        
-      </div>
-      <div class="paper-meta">March 2021</div>
-      </li>
-      <li>
-      <div class="paper-title">
-        <a href="https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Nota_Covid_Mobility_Before_Gvt_Restrictions_09112020.pdf" target="_blank">
-          Mobility before government restrictions in the wake of Covid-19
-        </a>
-      </div>
-      <div class="paper-meta">with <a href="https://sites.google.com/site/inesbuono/home" target = "_blank">Ines Buono</a>, November 2020</div>   
-      </li>
-    <li>
-        <div class="paper-title">
-        <a href="https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Nota_RECENTI_SVILUPPI_DELLA_PANDEMIA_COVID-19_NEL_MONDO.pdf" target="_blank">
-          Recenti sviluppi della pandemia Covid-19 nel mondo
-        </a>
-      </div>
-       <div class="paper-meta">with <a href="https://tradeconomics.com/borin/" target = "_blank">Alessandro Borin</a>, <a href="https://tradeconomics.com/mancini/" target = "_blank">Michele Mancini</a>, and <a href="https://sites.google.com/view/luca-rossi" target = "_blank">Luca Rossi</a>, October 2020</div>
-    </li>
-        <li>
-        <div class="paper-title">
-        <a href="https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Nota_Lockdown_circolazione.pdf" target="_blank">
-          Fighting Covid-19: measuring the restrictiveness of government policies
-        </a>
-      </div>
-       <div class="paper-meta">with <a href="https://tradeconomics.com/mancini/" target = "_blank">Michele Mancini</a>, <a href="https://sites.google.com/view/luca-rossi" target = "_blank">Luca Rossi</a>, and Flavia Tonelli, October 2020</div>
-    </li>
-  </ul>
-  <p><a href="index.html">← Back to home</a></p>
-   <footer style="font-size: 0.9em; color: #666; text-align: center; margin-top: 3em;">
-    <p>
-      The views expressed are those of the author and do not necessarily reflect those of the Bank of Italy.
-    </p>
-    <div style="display: none;">
-      <a href="https://clustrmaps.com/site/1c2dt" title="ClustrMaps">
-        <img src="//www.clustrmaps.com/map_v2.png?d=rfmAR2R5i6QNdJczijgozrYGDvDOa4qCSISn-1qw89E&cl=ffffff" alt="ClustrMaps visitor map">
-      </a>
-    </div>
-  </footer>
-
-
-  <script>
-    const toggleButton = document.getElementById('dark-mode-toggle');
-
-    // Load preference from localStorage
-    if (localStorage.getItem('dark-mode') === 'true') {
-      document.body.classList.add('dark-mode');
-    }
-
-    toggleButton.addEventListener('click', () => {
-      document.body.classList.toggle('dark-mode');
-      const isDark = document.body.classList.contains('dark-mode');
-      localStorage.setItem('dark-mode', isDark);
-    });
-  </script>
-</body>
-</html>
+     
