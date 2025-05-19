@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
   <meta charset="UTF-8" />
   <title>Publications – Francesco Paolo Conteduca</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;500&display=swap" rel="stylesheet" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet" />
   <style>
     body {
       font-family: 'Inter', sans-serif;
@@ -16,28 +16,55 @@
       background-color: white;
       transition: background-color 0.3s, color 0.3s;
     }
+
     a {
       color: #0066cc;
       text-decoration: none;
     }
+
     a:hover {
       text-decoration: underline;
     }
+
     h1 {
       font-weight: 500;
     }
-    /* Dark mode styles */
-    body.dark-mode {
-      background-color: #121212;
-      color: #e0e0e0;
+
+    h2 {
+      font-weight: 400;
+      margin-top: 2em;
     }
-    body.dark-mode a {
-      color: #80aaff;
+
+    ul {
+      list-style: none;
+      padding-left: 0;
     }
-    body.dark-mode a:hover {
+
+    li {
+      margin-bottom: 1.5em;
+    }
+
+    .paper-meta {
+      font-size: 0.9em;
+      color: #666;
+    }
+
+    nav {
+      margin-bottom: 2em;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 0.5em;
+    }
+
+    nav a {
+      margin-right: 1em;
+      text-decoration: none;
+      color: #0077cc;
+    }
+
+    nav a:hover {
       text-decoration: underline;
     }
-    /* Dark mode toggle button */
+
     #dark-mode-toggle {
       position: fixed;
       top: 1em;
@@ -52,50 +79,81 @@
       background-color: transparent;
       z-index: 1000;
     }
+
     #dark-mode-toggle:hover {
       background-color: rgba(0, 0, 0, 0.1);
     }
+
+    body.dark-mode {
+      background-color: #121212;
+      color: #e0e0e0;
+    }
+
+    body.dark-mode a {
+      color: #80aaff;
+    }
+
+    body.dark-mode a:hover {
+      text-decoration: underline;
+    }
+
     body.dark-mode #dark-mode-toggle:hover {
       background-color: rgba(255, 255, 255, 0.1);
+    }
+
+    body.dark-mode .paper-meta {
+      color: #aaa;
+    }
+
+    footer {
+      font-size: 0.9em;
+      color: #666;
+      text-align: center;
+      margin-top: 3em;
     }
   </style>
 </head>
 <body>
   <button id="dark-mode-toggle">🌓 Dark Mode</button>
-  <h1>Working papers</h1>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="cv.html">CV</a>
+    <a href="publications.html"><strong>Publications</strong></a>
+    <a href="policy.html">Policy</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <h1>Publications</h1>
+
+  <h2>Working Papers</h2>
   <ul>
-       <li>
+    <li>
       <strong>
         <a href="https://mpra.ub.uni-muenchen.de/123008/1/MPRA_paper_123008.pdf" target="_blank">
           Natural Disasters and Markups
         </a>
       </strong><br />
-       <div class="paper-meta">with <a href="https://sites.google.com/site/ludovicpanon/home">Ludovic Panon</a></div>
+      <div class="paper-meta">
+        with <a href="https://sites.google.com/site/ludovicpanon/home">Ludovic Panon</a>
+      </div>
     </li>
   </ul>
 
   <p><a href="index.html">← Back to home</a></p>
 
-   <footer style="font-size: 0.9em; color: #666; text-align: center; margin-top: 3em;">
-    <p>
-      The views expressed are those of the author and do not necessarily reflect those of the Bank of Italy.
-    </p>
+  <footer>
+    <p>The views expressed are those of the author and do not necessarily reflect those of the Bank of Italy.</p>
     <div style="display: none;">
       <a href="https://clustrmaps.com/site/1c2dt" title="ClustrMaps">
-        <img src="//www.clustrmaps.com/map_v2.png?d=rfmAR2R5i6QNdJczijgozrYGDvDOa4qCSISn-1qw89E&cl=ffffff" alt="ClustrMaps visitor map">
+        <img src="//www.clustrmaps.com/map_v2.png?d=rfmAR2R5i6QNdJczijgozrYGDvDOa4qCSISn-1qw89E&cl=ffffff" alt="ClustrMaps visitor map" />
       </a>
     </div>
   </footer>
-  <div style="display: none;">
-    <a href="https://clustrmaps.com/site/1c2dt" title="ClustrMaps">
-      <img src="//www.clustrmaps.com/map_v2.png?d=rfmAR2R5i6QNdJczijgozrYGDvDOa4qCSISn-1qw89E&cl=ffffff" alt="ClustrMaps visitor map" />
-    </a>
-  </div>
 
   <script>
     const toggleButton = document.getElementById('dark-mode-toggle');
 
-    // On page load, check localStorage and apply dark mode if set
     if (localStorage.getItem('dark-mode') === 'true') {
       document.body.classList.add('dark-mode');
     }
