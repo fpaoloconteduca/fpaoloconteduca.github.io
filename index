@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Francesco Paolo Conteduca</title>
+
+  <!-- Structured Data for SEO -->
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Francesco Paolo Conteduca",
+    "jobTitle": "Senior Economist",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Bank of Italy",
+      "url": "https://www.bancaditalia.it"
+    },
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Bank of Italy",
+      "url": "https://www.bancaditalia.it"
+    },
+    "sameAs": [
+      "https://github.com/fpaoloconteduca",
+      "https://scholar.google.com/citations?user=k3X8TYYAAAAJ",
+      "https://www.linkedin.com/in/francesco-paolo-conteduca-87146130",
+      "https://www.researchgate.net/profile/Francesco-Conteduca-2"
+    ],
+    "email": "mailto:francescopaolo.conteduca@bancaditalia.it",
+    "alumniOf": {
+      "@type": "EducationalOrganization",
+      "name": "University of Mannheim"
+    }
+  }
+  </script>
+
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      background: #0f0f0f;
+      color: #f5f5f5;
+      font-family: monospace;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    main {
+      text-align: center;
+    }
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+    }
+    p {
+      margin: 0.5rem 0;
+    }
+    a {
+      color: #00bfff;
+      text-decoration: none;
+      margin: 0 0.5rem;
+      transition: color 0.2s;
+    }
+    a:hover {
+      color: #ffffff;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Francesco Paolo Conteduca</h1>
+    <p>Senior Economist, Bank of Italy</p>
+    <p>
+      <a href="mailto:francescopaolo.conteduca@bancaditalia.it">email</a> ·
+      <a href="https://github.com/fpaoloconteduca">github</a>
