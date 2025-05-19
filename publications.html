@@ -52,6 +52,36 @@
       z-index: 1000;
     }
 
+    /* Navigation bar styles */
+    .navbar {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 1.2em;
+      padding: 1em 0;
+      margin-bottom: 2em;
+      border-bottom: 1px solid #ddd;
+      font-weight: 500;
+      background-color: white;
+      position: sticky;
+      top: 0;
+      z-index: 999;
+    }
+
+    .navbar a {
+      color: #333;
+      text-decoration: none;
+    }
+
+    .navbar a:hover {
+      text-decoration: underline;
+    }
+
+    .navbar a.active {
+      color: #0066cc;
+    }
+
+    /* Dark mode styles */
     body.dark-mode {
       background-color: #121212;
       color: #f0f0f0;
@@ -69,11 +99,34 @@
       background-color: #333;
       color: white;
     }
+
+    body.dark-mode .navbar {
+      background-color: #1e1e1e;
+      border-bottom: 1px solid #444;
+    }
+
+    body.dark-mode .navbar a {
+      color: #ddd;
+    }
+
+    body.dark-mode .navbar a.active {
+      color: #66aaff;
+    }
   </style>
 </head>
 
 <body>
-  <button class="dark-toggle" onclick="toggleDarkMode()">🌓 Dark Mode</button>
+  <button class="dark-toggle" onclick="toggleDarkMode()" aria-label="Toggle dark mode">🌓 Dark Mode</button>
+
+  <!-- Navigation bar -->
+  <nav class="navbar">
+    <a href="index.html">Home</a>
+    <a href="publications.html" class="active">Publications</a>
+    <a href="working-papers.html">Working Papers</a>
+    <a href="policy-papers.html">Policy Papers</a>
+    <a href="cv.html">CV</a>
+    <a href="contact.html">Contact</a>
+  </nav>
 
   <h1>Publications</h1>
   <ul>
@@ -140,7 +193,7 @@
       <div class="paper-meta">
         with Sabina Marchetti, <a href="https://www.tradeconomics.com/borin/" target="_blank">Alessandro Borin</a>,
         Giuseppe Ilardi, Giorgio Guzzetta, Piero Poletti, Patrizio Pezzotti, Antonino Bella, Paola Stefanelli,
-        Flavia Riccardo, Stefano Merler, Andrea Brandolini, Silvio Brusaferro<em>PLOS One</em>, 2022.
+        Flavia Riccardo, Stefano Merler, Andrea Brandolini, Silvio Brusaferro, <em>PLOS One</em>, 2022.
       </div>
     </li>
 
