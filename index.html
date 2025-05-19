@@ -103,16 +103,42 @@
     International Relations and Economics Directorate
   </p>
 
-  <p>
-    <a href="publications.html">Publications</a>
-    <a href="working-papers.html">Working papers</a>
-    <a href="policy-papers.html">Policy papers and notes</a>
-    <a href="https://scholar.google.com/citations?user=k3X8TYYAAAAJ">Google Scholar</a>
-    <a href="https://www.linkedin.com/in/francesco-paolo-conteduca-87146130">LinkedIn</a>
-    <a href="mailto:francescopaolo.conteduca@bancaditalia.it">Email</a>
-    <a href="cv_fpconteduca.pdf" download>CV</a>
-  </p>
+<nav>
+  <a href="publications.html">Publications</a>
+  <a href="working-papers.html">Working papers</a>
+  <a href="policy-papers.html">Policy papers and notes</a>
+  <a href="https://scholar.google.com/citations?user=k3X8TYYAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+  <a href="https://www.linkedin.com/in/francesco-paolo-conteduca-87146130" target="_blank" rel="noopener">LinkedIn</a>
+  <a href="mailto:francescopaolo.conteduca@bancaditalia.it">Email</a>
+  <a href="cv_fpconteduca.pdf" download>CV</a>
+</nav>
 
+nav {
+  position: sticky;
+  top: 0;
+  background: white;
+  border-bottom: 1px solid #ddd;
+  padding: 0.8em 1em;
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+  z-index: 1000;
+}
+
+nav a {
+  color: #0066cc;
+  font-weight: 600;
+  text-decoration: none;
+  padding: 0.3em 0.5em;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+}
+
+nav a:hover {
+  background-color: #e0eaff;
+  text-decoration: underline;
+}
+  
   <!-- Hidden ClustrMaps tracker -->
   <div style="display: none;">
     <a href="https://clustrmaps.com/site/1c2dt" title="ClustrMaps">
