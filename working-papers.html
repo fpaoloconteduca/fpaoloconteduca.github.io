@@ -72,7 +72,6 @@
       </strong><br />
        <div class="paper-meta">with <a href="https://sites.google.com/site/ludovicpanon/home">Ludovic Panon</a></div>
     </li>
-    
   </ul>
 
   <p><a href="index.html">← Back to home</a></p>
@@ -80,12 +79,25 @@
   <p>
     The views expressed are those of the author and do not necessarily reflect those of the Bank of Italy.
   </p>
-<div style="display: none;">
-  <a href="https://clustrmaps.com/site/1c2dt" title="ClustrMaps">
-    <img src="//www.clustrmaps.com/map_v2.png?d=rfmAR2R5i6QNdJczijgozrYGDvDOa4qCSISn-1qw89E&cl=ffffff" alt="ClustrMaps visitor map">
-  </a>
-</div>
-  
-  
+  <div style="display: none;">
+    <a href="https://clustrmaps.com/site/1c2dt" title="ClustrMaps">
+      <img src="//www.clustrmaps.com/map_v2.png?d=rfmAR2R5i6QNdJczijgozrYGDvDOa4qCSISn-1qw89E&cl=ffffff" alt="ClustrMaps visitor map" />
+    </a>
+  </div>
+
+  <script>
+    const toggleButton = document.getElementById('dark-mode-toggle');
+
+    // On page load, check localStorage and apply dark mode if set
+    if (localStorage.getItem('dark-mode') === 'true') {
+      document.body.classList.add('dark-mode');
+    }
+
+    toggleButton.addEventListener('click', () => {
+      document.body.classList.toggle('dark-mode');
+      const isDark = document.body.classList.contains('dark-mode');
+      localStorage.setItem('dark-mode', isDark);
+    });
+  </script>
 </body>
 </html>
