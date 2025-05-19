@@ -1,43 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Francesco Paolo Conteduca</title>
+  <link rel="icon" href="fpcfavicon.ico" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;500&display=swap" rel="stylesheet" />
-  <link rel="icon" href="fpcfavicon.ico" />
-  <style>
-  body {
-    background-color: white;
-    color: black;
-    transition: background-color 0.3s ease, color 0.3s ease;
-  }
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet" />
 
-  body.dark-mode {
-    background-color: #121212;
-    color: #f0f0f0;
-  }
-
-  .dark-toggle {
-    position: fixed;
-    top: 1em;
-    right: 1em;
-    background: none;
-    border: 1px solid currentColor;
-    padding: 0.4em 0.6em;
-    cursor: pointer;
-    font-size: 0.9em;
-    border-radius: 5px;
-  }
-</style>
   <style>
     body {
-      font-family: 'Inter', sans-serif;      
-      background-color: #ffffff;
-      color: #111;
+      font-family: 'Inter', sans-serif;
+      background-color: white;
+      color: black;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -46,17 +22,37 @@
       text-align: center;
       flex-direction: column;
       line-height: 1.6;
+      transition: background-color 0.3s ease, color 0.3s ease;
     }
+
+    body.dark-mode {
+      background-color: #121212;
+      color: #f0f0f0;
+    }
+
     a {
       color: #0066cc;
       text-decoration: none;
       margin: 0 0.5em;
     }
+
     a:hover {
       text-decoration: underline;
     }
-    <button class="dark-toggle" onclick="toggleDarkMode()">🌓 Dark Mode</button>
+
+    .dark-toggle {
+      position: fixed;
+      top: 1em;
+      right: 1em;
+      background: none;
+      border: 1px solid currentColor;
+      padding: 0.4em 0.6em;
+      cursor: pointer;
+      font-size: 0.9em;
+      border-radius: 5px;
+    }
   </style>
+
   <script type="application/ld+json">
   {
     "@context": "http://schema.org",
@@ -83,41 +79,47 @@
     "alumniOf": {
       "@type": "EducationalOrganization",
       "name": "University of Mannheim",
-      "url": "https://www.uni-mannheim.de/en/"      
+      "url": "https://www.uni-mannheim.de/en/"
     }
   }
   </script>
 </head>
+
 <body>
+  <!-- Dark mode button -->
+  <button class="dark-toggle" onclick="toggleDarkMode()">🌓 Dark Mode</button>
+
   <h1>Francesco Paolo Conteduca</h1>
   <p>Senior Economist<br>Bank of Italy<br>Directorate General for Economics, Statistics and Research<br>International Relations and Economics Directorate</p>
+
   <p>
     <a href="publications.html">Publications</a>
     <a href="working-papers.html">Working papers</a>
-    <a href="policy-papers.html">Policy papers and notes</a>  
+    <a href="policy-papers.html">Policy papers and notes</a>
     <a href="https://scholar.google.com/citations?user=k3X8TYYAAAAJ">Google Scholar</a>
     <a href="https://www.linkedin.com/in/francesco-paolo-conteduca-87146130">LinkedIn</a>
     <a href="mailto:francescopaolo.conteduca@bancaditalia.it">Email</a>
     <a href="cv_fpconteduca.pdf" download>CV</a>
   </p>
-<div style="display: none;">
-  <a href="https://clustrmaps.com/site/1c2dt" title="ClustrMaps">
-    <img src="//www.clustrmaps.com/map_v2.png?d=rfmAR2R5i6QNdJczijgozrYGDvDOa4qCSISn-1qw89E&cl=ffffff" alt="ClustrMaps visitor map">
-  </a>
-</div>
-<script>
-  function toggleDarkMode() {
-    document.body.classList.toggle('dark-mode');
-    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
-  }
 
-  // On page load, apply saved mode
-  window.onload = function () {
-    if (localStorage.getItem('darkMode') === 'true') {
-      document.body.classList.add('dark-mode');
+  <!-- Hidden ClustrMaps -->
+  <div style="display: none;">
+    <a href="https://clustrmaps.com/site/1c2dt" title="ClustrMaps">
+      <img src="//www.clustrmaps.com/map_v2.png?d=rfmAR2R5i6QNdJczijgozrYGDvDOa4qCSISn-1qw89E&cl=ffffff" alt="ClustrMaps visitor map">
+    </a>
+  </div>
+
+  <script>
+    function toggleDarkMode() {
+      document.body.classList.toggle('dark-mode');
+      localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
     }
-  }
-</script>
-  
+
+    window.onload = function () {
+      if (localStorage.getItem('darkMode') === 'true') {
+        document.body.classList.add('dark-mode');
+      }
+    }
+  </script>
 </body>
 </html>
