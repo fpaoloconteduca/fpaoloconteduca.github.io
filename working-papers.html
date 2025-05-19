@@ -13,6 +13,8 @@
       padding: 0 1em;
       color: #111;
       line-height: 1.6;
+      background-color: white;
+      transition: background-color 0.3s, color 0.3s;
     }
     a {
       color: #0066cc;
@@ -24,9 +26,44 @@
     h1 {
       font-weight: 500;
     }
+    /* Dark mode styles */
+    body.dark-mode {
+      background-color: #121212;
+      color: #e0e0e0;
+    }
+    body.dark-mode a {
+      color: #80aaff;
+    }
+    body.dark-mode a:hover {
+      text-decoration: underline;
+    }
+    /* Dark mode toggle button */
+    #dark-mode-toggle {
+      position: fixed;
+      top: 1em;
+      right: 1em;
+      background: none;
+      border: 1px solid #999;
+      padding: 0.5em;
+      cursor: pointer;
+      border-radius: 5px;
+      font-size: 0.9em;
+      color: inherit;
+      background-color: transparent;
+      z-index: 1000;
+    }
+    #dark-mode-toggle:hover {
+      background-color: rgba(0, 0, 0, 0.1);
+    }
+    body.dark-mode #dark-mode-toggle:hover {
+      background-color: rgba(255, 255, 255, 0.1);
+    }
   </style>
 </head>
 <body>
+  <button id="dark-mode-toggle">Toggle dark mode</button>
+<body>
+  <button id="dark-mode-toggle">🌓 Dark Mode</button>
   <h1>Working papers</h1>
   <ul>
        <li>
