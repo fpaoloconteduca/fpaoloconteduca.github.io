@@ -32,6 +32,7 @@
     "alumniOf": {
       "@type": "EducationalOrganization",
       "name": "University of Mannheim"
+      "url": "https://www.uni-mannheim.de/en/"
     }
   }
   </script>
