@@ -40,19 +40,24 @@
       text-decoration: underline;
     }
 
-    .dark-toggle {
-      position: fixed;
-      top: 1em;
-      right: 1em;
-      background: none;
-      border: 1px solid currentColor;
-      padding: 0.4em 0.6em;
-      cursor: pointer;
-      font-size: 0.9em;
-      border-radius: 5px;
-    }
-  </style>
+   .dark-toggle {
+  position: fixed;
+  top: 1em;
+  right: 1em;
+  background: none;
+  border: 1px solid currentColor;
+  padding: 0.4em 0.6em;
+  cursor: pointer;
+  font-size: 0.9em;
+  border-radius: 5px;
+  color: black;
+  background-color: white;
+}
 
+body.dark-mode .dark-toggle {
+  color: white;
+  background-color: #333;
+}
   <script type="application/ld+json">
   {
     "@context": "http://schema.org",
