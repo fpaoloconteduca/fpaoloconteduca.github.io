@@ -40,24 +40,25 @@
       text-decoration: underline;
     }
 
-   .dark-toggle {
-  position: fixed;
-  top: 1em;
-  right: 1em;
-  background: none;
-  border: 1px solid currentColor;
-  padding: 0.4em 0.6em;
-  cursor: pointer;
-  font-size: 0.9em;
-  border-radius: 5px;
-  color: black;
-  background-color: white;
-}
+    .dark-toggle {
+      position: fixed;
+      top: 1em;
+      right: 1em;
+      background-color: white;
+      color: black;
+      border: 1px solid currentColor;
+      padding: 0.4em 0.6em;
+      cursor: pointer;
+      font-size: 0.9em;
+      border-radius: 5px;
+    }
 
-body.dark-mode .dark-toggle {
-  color: white;
-  background-color: #333;
-}
+    body.dark-mode .dark-toggle {
+      background-color: #333;
+      color: white;
+    }
+  </style>
+
   <script type="application/ld+json">
   {
     "@context": "http://schema.org",
@@ -91,11 +92,16 @@ body.dark-mode .dark-toggle {
 </head>
 
 <body>
-  <!-- Dark mode button -->
+  <!-- Dark mode toggle button -->
   <button class="dark-toggle" onclick="toggleDarkMode()">🌓 Dark Mode</button>
 
   <h1>Francesco Paolo Conteduca</h1>
-  <p>Senior Economist<br>Bank of Italy<br>Directorate General for Economics, Statistics and Research<br>International Relations and Economics Directorate</p>
+  <p>
+    Senior Economist<br>
+    Bank of Italy<br>
+    Directorate General for Economics, Statistics and Research<br>
+    International Relations and Economics Directorate
+  </p>
 
   <p>
     <a href="publications.html">Publications</a>
@@ -107,7 +113,7 @@ body.dark-mode .dark-toggle {
     <a href="cv_fpconteduca.pdf" download>CV</a>
   </p>
 
-  <!-- Hidden ClustrMaps -->
+  <!-- Hidden ClustrMaps tracker -->
   <div style="display: none;">
     <a href="https://clustrmaps.com/site/1c2dt" title="ClustrMaps">
       <img src="//www.clustrmaps.com/map_v2.png?d=rfmAR2R5i6QNdJczijgozrYGDvDOa4qCSISn-1qw89E&cl=ffffff" alt="ClustrMaps visitor map">
