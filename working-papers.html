@@ -188,5 +188,15 @@
       }
     };
   </script>
+
+      <script>
+    function adjustBodyPadding() {
+      const header = document.querySelector('header');
+      document.body.style.paddingTop = `${header.offsetHeight}px`;
+    }
+
+    window.addEventListener('load', adjustBodyPadding);
+    window.addEventListener('resize', adjustBodyPadding);
+  </script>
 </body>
 </html>
