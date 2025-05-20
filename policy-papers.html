@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <title>Policy Papers and Notes – Francesco Paolo Conteduca</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <style>
@@ -11,7 +11,7 @@
       font-family: 'Inter', sans-serif;
       max-width: 700px;
       margin: 2em auto;
-      padding: 0 1em;
+      padding: 12em 1em 0; /* Add padding to the top to prevent content from being hidden behind the fixed elements */
       color: #111;
       background-color: #fff;
       line-height: 1.6;
@@ -39,17 +39,6 @@
       max-width: 700px;
     }
 
-        header {
-  text-align: center;
-  width: 100%;
-  margin-bottom: 1em;
-  position: fixed;
-  top: 0;
-  left: 0;
-  padding: 1em 0;
-  z-index: 1000;
-}
-    
     h2 {
       font-weight: 500;
     }
@@ -68,6 +57,40 @@
       color: #666;
     }
 
+    footer {
+      font-size: 0.9em;
+      color: #666;
+      text-align: center;
+      margin-top: 3em;
+    }
+
+    .dark-toggle {
+      position: fixed;
+      top: 1em;
+      right: 1em;
+      background-color: white;
+      color: black;
+      border: 1px solid currentColor;
+      padding: 0.4em 0.6em;
+      cursor: pointer;
+      font-size: 0.9em;
+      border-radius: 5px;
+      z-index: 1002; /* Ensure it stays above the fixed elements */
+    }
+
+    /* Header styles */
+    header {
+      text-align: center;
+      width: 100%;
+      position: fixed;
+      top: 0;
+      left: 0;
+      background-color: white;
+      padding: 1em 0;
+      z-index: 1001;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
     /* Navigation bar styles */
     .navbar {
       display: flex;
@@ -75,13 +98,10 @@
       justify-content: center;
       gap: 1.2em;
       padding: 1em 0;
-      margin-bottom: 2em;
       border-bottom: 1px solid #ddd;
       font-weight: 500;
       background-color: white;
-      position: sticky;
-      top: 0;
-      z-index: 999;
+      z-index: 1000;
     }
 
     .navbar a {
@@ -111,6 +131,15 @@
       color: #aaa;
     }
 
+    body.dark-mode .dark-toggle {
+      background-color: #333;
+      color: white;
+    }
+
+    body.dark-mode header {
+      background-color: #1e1e1e;
+    }
+
     body.dark-mode .navbar {
       background-color: #1e1e1e;
       border-bottom: 1px solid #444;
@@ -123,58 +152,22 @@
     body.dark-mode .navbar a.active {
       color: #66aaff;
     }
-
-    .dark-toggle {
-      position: fixed;
-      top: 1em;
-      right: 1em;
-      background-color: white;
-      color: black;
-      border: 1px solid currentColor;
-      padding: 0.4em 0.6em;
-      cursor: pointer;
-      font-size: 0.9em;
-      border-radius: 5px;
-      z-index: 1000;
-    }
-
-    body.dark-mode .dark-toggle {
-      background-color: #333;
-      color: white;
-    }
-
-    footer {
-      font-size: 0.9em;
-      color: #666;
-      text-align: center;
-      margin-top: 3em;
-    }
-
-    body.dark-mode footer {
-      color: #aaa;
-    }
-
-    header {
-      text-align: center;
-      width: 100%;
-      margin-bottom: 1em;
-    }
   </style>
 </head>
 
 <body>
   <button class="dark-toggle" onclick="toggleDarkMode()" aria-label="Toggle dark mode">🌓 Dark Mode</button>
 
-    <header>
+  <header>
     <h1>Francesco Paolo Conteduca</h1>
+    <!-- Navigation bar -->
+    <nav class="navbar">
+      <a href="index.html">Home</a>
+      <a href="publications.html">Publications</a>
+      <a href="working-papers.html">Working Papers</a>
+      <a href="policy-papers.html" class="active">Policy Papers</a>
+    </nav>
   </header>
-  
-  <nav class="navbar">
-    <a href="index.html">Home</a>
-    <a href="publications.html">Publications</a>
-    <a href="working-papers.html">Working Papers</a>
-    <a href="policy-papers.html" class="active">Policy Papers</a>
-  </nav>
 
   <h1>Policy Papers and Notes</h1>
 
@@ -248,7 +241,7 @@
       </div>
       <div class="paper-meta">with <a href="https://tradeconomics.com/mancini/">Michele Mancini</a> and <a href="https://tradeconomics.com/borin/">Alessandro Borin</a>, May 2025</div>
     </li>
-        <li>
+    <li>
       <div class="paper-title">
         <a href="https://cepr.org/voxeu/columns/impact-eu-sanctions-russian-imports" target="_blank">
           The impact of EU sanctions on Russian imports
@@ -256,7 +249,7 @@
       </div>
       <div class="paper-meta">with <a href="https://tradeconomics.com/borin/">Alessandro Borin</a>, Gabriele Cappadona, Benjamin Hilgenstock, <a href="https://itskhoki.com/">Oleg Itskhoki</a>, <a href="https://tradeconomics.com/mancini/">Michele Mancini</a>, Maxim Mironov, and <a href="https://elinaribakova.com/">Elina Ribakova</a>, May 2023</div>
     </li>
-        <li>
+    <li>
       <div class="paper-title">
         <a href="https://cepr.org/voxeu/columns/impact-war-russian-imports-counterfactual-analysis" target="_blank">
           The impact of the war on Russian imports: A counterfactual analysis
@@ -264,7 +257,6 @@
       </div>
       <div class="paper-meta">with <a href="https://tradeconomics.com/borin/">Alessandro Borin</a> and <a href="https://tradeconomics.com/mancini/">Michele Mancini</a>, November 2022</div>
     </li>
-    
   </ul>
 
   <h2>Covid-19 Notes</h2>
@@ -277,7 +269,7 @@
       </div>
       <div class="paper-meta">March 2021</div>
     </li>
-        <li>
+    <li>
       <div class="paper-title">
         <a href="https://www.bancaditalia.it/pubblicazioni/note-covid-19/2020/Nota_Covid_Mobility_Before_Gvt_Restrictions_09112020.pdf" target="_blank">
           Mobility before government restrictions in the wake of Covid-19
@@ -291,7 +283,6 @@
     <p>
       The views expressed are those of the author and do not necessarily reflect those of the Bank of Italy.
     </p>
-    <p><a href="index.html">← Back to home</a></p>
     <div style="display: none;">
       <a href="https://clustrmaps.com/site/1c2dt" title="ClustrMaps">
         <img src="//www.clustrmaps.com/map_v2.png?d=rfmAR2R5i6QNdJczijgozrYGDvDOa4qCSISn-1qw89E&cl=ffffff" alt="ClustrMaps visitor map">
