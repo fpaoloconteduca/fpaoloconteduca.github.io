@@ -17,7 +17,7 @@
       align-items: center;
       justify-content: flex-start;
       margin: 0;
-      padding: 2em 1em;
+      padding: 12em 1em 0; /* Add padding to the top to prevent content from being hidden behind the fixed elements */
       text-align: center;
       line-height: 1.6;
       transition: background-color 0.3s ease, color 0.3s ease;
@@ -41,25 +41,6 @@
       max-width: 700px;
     }
 
-    nav {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 0.7em;
-      margin-bottom: 2em;
-    }
-
-    a {
-      color: #0066cc;
-      text-decoration: none;
-      font-weight: 500;
-      font-size: 1rem;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
     .dark-toggle {
       position: fixed;
       top: 1em;
@@ -71,6 +52,7 @@
       cursor: pointer;
       font-size: 0.9em;
       border-radius: 5px;
+      z-index: 1002; /* Ensure it stays above the fixed elements */
     }
 
     body.dark-mode .dark-toggle {
@@ -96,25 +78,84 @@
       margin: 1em 0;
       font-size: 1rem;
     }
+
+    /* Header styles */
+    header {
+      text-align: center;
+      width: 100%;
+      position: fixed;
+      top: 0;
+      left: 0;
+      background-color: white;
+      padding: 1em 0;
+      z-index: 1001;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Navigation bar styles */
+    .navbar {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 1.2em;
+      padding: 1em 0;
+      border-bottom: 1px solid #ddd;
+      font-weight: 500;
+      background-color: white;
+      z-index: 1000;
+    }
+
+    .navbar a {
+      color: #333;
+      text-decoration: none;
+    }
+
+    .navbar a:hover {
+      text-decoration: underline;
+    }
+
+    .navbar a.active {
+      color: #0066cc;
+    }
+
+    /* Dark mode styles */
+    body.dark-mode header {
+      background-color: #1e1e1e;
+    }
+
+    body.dark-mode .navbar {
+      background-color: #1e1e1e;
+      border-bottom: 1px solid #444;
+    }
+
+    body.dark-mode .navbar a {
+      color: #ddd;
+    }
+
+    body.dark-mode .navbar a.active {
+      color: #66aaff;
+    }
   </style>
 </head>
 
 <body>
   <button class="dark-toggle" onclick="toggleDarkMode()" aria-label="Toggle dark mode">🌓 Dark Mode</button>
 
-  <h1>Francesco Paolo Conteduca</h1>
+  <header>
+    <h1>Francesco Paolo Conteduca</h1>
+    <!-- Navigation bar -->
+    <nav class="navbar">
+      <a href="index.html" class="active">Home</a>
+      <a href="publications.html">Publications</a>
+      <a href="working-papers.html">Working Papers</a>
+      <a href="policy-papers.html">Policy Papers</a>
+    </nav>
+  </header>
 
   <!-- Personal Description -->
   <div class="personal-description">
     <p>Welcome to my personal website. I am a senior economist at the Directorate General for Economics, Statistics and Research, International relations and economics directorate of the Bank of Italy. Here you can find my <a href="cv_fpconteduca.pdf">CV</a> with my contact information.</p>
   </div>
-
-  <nav>
-    <a href="index.html" class = "active">Home</a>
-    <a href="publications.html">Publications</a>
-    <a href="working-papers.html">Working Papers</a>
-    <a href="policy-papers.html">Policy Papers</a>
-  </nav>
 
   <footer>
     <div style="display: none;">
