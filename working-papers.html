@@ -1,483 +1,523 @@
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
- <meta charset="UTF-8" />
- <title>Working Papers – Francesco Paolo Conteduca</title>
- <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet" />
- <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta name="description" content="Working papers by Francesco Paolo Conteduca on international trade, firm behavior, global value chains, trade wars and economic shocks.">
- <link rel="canonical" href="https://fpconteduca.com/working-papers.html">
+  <meta charset="UTF-8" />
+  <title>Working Papers – Francesco Paolo Conteduca</title>
 
+  <meta
+    name="description"
+    content="Working papers by Francesco Paolo Conteduca on international trade, firm behavior, global value chains, trade wars and economic shocks."
+  />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+  <link
+    rel="canonical"
+    href="https://fpconteduca.com/working-papers.html"
+  />
 
- <style>
- body {
- font-family: 'Inter', sans-serif;
- max-width: 850px;
- margin: 0 auto;
- padding: 0 1em 2em;
- color: #111;
- background-color: #fff;
- line-height: 1.6;
- transition: background-color 0.3s, color 0.3s;
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap"
+    rel="stylesheet"
+  />
+
+  <link rel="icon" href="fpcfavicon.ico" />
+
+  <style>
+    :root {
+      --nav-bg: #eaf1f8;
+      --nav-border: #cfdbe8;
+      --nav-text: #223247;
+      --nav-active: #004f9e;
+      --hero-ink: #0b1b32;
+      --page-bg: #ffffff;
+      --card-bg: #ffffff;
+      --card-border: #e6edf3;
+      --text-color: #111111;
+      --meta-color: #555555;
+      --link-color: #0066cc;
     }
 
-
- a {
- color: #0066cc;
- text-decoration: none;
+    * {
+      box-sizing: border-box;
     }
 
-
- a:hover {
- text-decoration: underline;
+    html {
+      scroll-behavior: smooth;
     }
 
-
- h1 {
- font-size: 2.2rem;
- font-weight: 700;
- margin-bottom: 0.5em;
+    body {
+      font-family: "Inter", sans-serif;
+      max-width: 850px;
+      margin: 0 auto;
+      padding: 0 1em 2em;
+      color: var(--text-color);
+      background-color: var(--page-bg);
+      line-height: 1.6;
+      transition:
+        background-color 0.3s,
+        color 0.3s;
     }
 
-
- p {
- font-size: 1.1rem;
- margin: 0 0 1.5em;
- max-width: 700px;
+    a {
+      color: var(--link-color);
+      text-decoration: none;
     }
 
-
- footer {
- font-size: 0.9em;
- color: #666;
- text-align: center;
- margin-top: 3em;
- padding: 1em 0;
- border-top: 1px solid #ddd;
+    a:hover {
+      text-decoration: underline;
     }
 
+    h1 {
+      font-size: 2.2rem;
+      font-weight: 700;
+      margin: 0;
+    }
 
+    p {
+      font-size: 1.1rem;
+      margin: 0 0 1.5em;
+      max-width: 700px;
+    }
+
+    /* Dark mode toggle */
     .dark-toggle {
- position: fixed;
- top: 1em;
- right: 1em;
- background-color: white;
- color: black;
- border: 1px solid currentColor;
- padding: 0.4em 0.6em;
- cursor: pointer;
- font-size: 0.9em;
- border-radius: 5px;
- z-index: 1002; /* Ensure it stays above the fixed elements */
+      position: fixed;
+      top: 0.85rem;
+      right: 1rem;
+      background-color: white;
+      color: black;
+      border: 1px solid rgba(34, 50, 71, 0.25);
+      padding: 0.4em 0.65em;
+      cursor: pointer;
+      font-size: 0.9em;
+      border-radius: 999px;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+      z-index: 1002;
     }
 
-
- /* Header styles */
- header {
- text-align: center;
- width: 100%;
- position: static;
- background-color: transparent;
- padding: 2.4em 0 0.4em;
- z-index: 1;
+    .dark-toggle:hover {
+      opacity: 0.9;
     }
 
+    /* Header */
+    header {
+      width: 100vw;
+      margin-left: calc(50% - 50vw);
+      margin-right: calc(50% - 50vw);
+      margin-bottom: 2.4rem;
+      padding: 0;
+      background: var(--nav-bg);
+      border-bottom: 1px solid var(--nav-border);
+    }
 
- /* Navigation bar styles */
+    header h1 {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 2.8rem 1rem 1.1rem;
+      color: var(--hero-ink);
+      letter-spacing: -0.025em;
+      text-align: center;
+    }
+
+    /* Navigation */
     .navbar {
- display: flex;
- flex-wrap: wrap;
- justify-content: center;
- gap: 1.2em;
- padding: 0.85em 1em;
- border-top: 1px solid #dde5ef;
- border-bottom: 1px solid #dde5ef;
- margin-top: 0.8em;
- font-weight: 500;
- background-color: #f3f6fa;
- z-index: 1000;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 0.95rem 1rem 1rem;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 1.4rem;
+      background: transparent;
+      border: 0;
+      font-weight: 500;
     }
-
 
     .navbar a {
- color: #333;
- text-decoration: none;
- padding: 0.15em 0.05em;
- border-bottom: 2px solid transparent;
+      color: var(--nav-text);
+      text-decoration: none;
+      padding: 0.15em 0.05em 0.2rem;
+      border-bottom: 2px solid transparent;
     }
-
 
     .navbar a:hover {
- text-decoration: none;
- border-bottom-color: currentColor;
+      text-decoration: none;
+      border-bottom-color: currentColor;
     }
-
 
     .navbar a.active {
- color: #0066cc;
- font-weight: 600;
- border-bottom-color: currentColor;
+      color: var(--nav-active);
+      font-weight: 600;
+      border-bottom-color: currentColor;
     }
 
-
- /* Dark mode styles */
- body.dark-mode {
- background-color: #121212;
- color: #f0f0f0;
+    /* Paper list */
+    .paper-list {
+      list-style: none;
+      padding-left: 0;
+      margin: 2em 0 0;
     }
 
-
- body.dark-mode a {
- color: #66aaff;
+    .paper-list li {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 12px;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.03);
+      padding: 1.1em 1.2em;
+      margin-bottom: 1.2em;
+      text-align: left;
     }
 
-
- body.dark-mode footer {
- color: #aaa;
- border-top: 1px solid #444;
+    .paper-title {
+      font-weight: 600;
     }
 
-
- body.dark-mode .dark-toggle {
- background-color: #333;
- color: white;
+    .paper-title a {
+      color: inherit;
     }
 
-
- body.dark-mode header {
- background-color: transparent;
+    .paper-title a:hover {
+      color: var(--link-color);
     }
 
-
- body.dark-mode .navbar {
- background-color: #1a1f26;
- border-top: 1px solid #303846;
- border-bottom: 1px solid #303846;
+    .paper-meta {
+      font-size: 0.95em;
+      color: var(--meta-color);
+      margin-top: 0.25em;
     }
 
-
- body.dark-mode .navbar a {
- color: #ddd;
+    .paper-status {
+      margin-top: 0.35em;
     }
 
-
- body.dark-mode .navbar a.active {
- color: #66aaff;
+    /* Footer */
+    footer {
+      width: 100%;
+      max-width: 900px;
+      margin-top: 3em;
+      padding: 1em 0;
+      border-top: 1px solid #ddd;
+      text-align: center;
+      font-size: 0.9em;
+      color: #666;
     }
 
-
- ul {
- list-style: none;
- padding-left: 0;
+    footer p {
+      max-width: none;
+      font-size: inherit;
+      margin: 0;
     }
 
- li {
- background: #fafafa;
- border: 1px solid #e9e9e9;
- border-radius: 12px;
- box-shadow: 0 1px 2px rgba(0, 0, 0, 0.03);
- padding: 1.1em 1.2em;
- margin-bottom: 1.2em;
- text-align: left;
+    /* Dark mode */
+    body.dark-mode {
+      --nav-bg: #151c26;
+      --nav-border: #2b3442;
+      --nav-text: #dce6f2;
+      --nav-active: #8abfff;
+      --hero-ink: #f3f7fb;
+      --page-bg: #121212;
+      --card-bg: #1b1b1b;
+      --card-border: #333;
+      --text-color: #f0f0f0;
+      --meta-color: #aaa;
+      --link-color: #66aaff;
+
+      background-color: var(--page-bg);
+      color: var(--text-color);
     }
 
- .paper-meta {
- font-size: 0.95em;
- color: #555;
- margin-top: 0.25em;
+    body.dark-mode a {
+      color: var(--link-color);
     }
 
- .paper-title, li strong {
- font-weight: 600;
+    body.dark-mode .dark-toggle {
+      background-color: #333;
+      color: white;
+      border-color: #555;
     }
 
- body.dark-mode li {
- background: #1b1b1b;
- border-color: #333;
- box-shadow: none;
+    body.dark-mode header {
+      background: var(--nav-bg);
+      border-bottom-color: var(--nav-border);
     }
 
- body.dark-mode .paper-meta {
- color: #aaa;
+    body.dark-mode .navbar {
+      background: transparent;
     }
 
+    body.dark-mode .navbar a {
+      color: var(--nav-text);
+    }
 
- .paper-list {
- margin-top: 2em;
- }
+    body.dark-mode .navbar a.active {
+      color: var(--nav-active);
+    }
 
+    body.dark-mode .paper-list li {
+      background: var(--card-bg);
+      border-color: var(--card-border);
+      box-shadow: none;
+    }
 
+    body.dark-mode footer {
+      color: #aaa;
+      border-top-color: #444;
+    }
 
-/* --- Layout v4: integrated navbar + subtle abstract trade hero --- */
-:root {
-  --nav-bg: #eaf1f8;
-  --nav-border: #cfdbe8;
-  --nav-text: #223247;
-  --nav-active: #004f9e;
-  --hero-ink: #0b1b32;
-  --page-bg: #ffffff;
-  --card-bg: #ffffff;
-  --card-border: #e6edf3;
-}
+    /* Mobile */
+    @media (max-width: 640px) {
+      header h1 {
+        font-size: 1.85rem;
+        padding-top: 3.1rem;
+      }
 
-body {
-  background: var(--page-bg);
-}
+      .navbar {
+        gap: 0.8rem;
+        font-size: 0.95rem;
+      }
 
-.dark-toggle {
-  top: 0.85rem;
-  right: 1rem;
-  border-radius: 999px;
-  border: 1px solid rgba(34, 50, 71, 0.25);
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
-}
+      .paper-list li {
+        padding: 1em;
+      }
 
-header {
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
-  margin-bottom: 2.4rem;
-  padding: 0;
-  background: var(--nav-bg);
-  border-bottom: 1px solid var(--nav-border);
-}
+      .dark-toggle {
+        right: 0.75rem;
+      }
+    }
 
-header h1 {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 2.8rem 1rem 1.1rem;
-  color: var(--hero-ink);
-  letter-spacing: -0.025em;
-}
+    @media (prefers-reduced-motion: reduce) {
+      html {
+        scroll-behavior: auto;
+      }
 
-.navbar {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 0.95rem 1rem 1rem;
-  background: transparent;
-  border: 0;
-  gap: 1.4rem;
-}
+      body {
+        transition: none;
+      }
+    }
+  </style>
 
-.navbar a {
-  color: var(--nav-text);
-  padding-bottom: 0.2rem;
-}
-
-.navbar a.active {
-  color: var(--nav-active);
-}
-
-body.home header h1 {
-  max-width: none;
-  min-height: 150px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 4.4rem 1rem 3.4rem;
-  margin: 0;
-  color: #0a1a31;
-  background:
-    linear-gradient(90deg, rgba(246, 249, 252, 0.96) 0%, rgba(246, 249, 252, 0.78) 43%, rgba(246, 249, 252, 0.93) 100%),
-    radial-gradient(circle at 16% 60%, rgba(0, 79, 158, 0.28) 0 2px, transparent 3px),
-    radial-gradient(circle at 31% 35%, rgba(0, 79, 158, 0.18) 0 2px, transparent 3px),
-    radial-gradient(circle at 51% 52%, rgba(0, 79, 158, 0.20) 0 2px, transparent 3px),
-    radial-gradient(circle at 69% 32%, rgba(0, 79, 158, 0.18) 0 2px, transparent 3px),
-    radial-gradient(circle at 84% 58%, rgba(0, 79, 158, 0.25) 0 2px, transparent 3px),
-    linear-gradient(18deg, transparent 0 36%, rgba(0, 79, 158, 0.12) 36.2% 36.9%, transparent 37.1% 100%),
-    linear-gradient(154deg, transparent 0 42%, rgba(0, 79, 158, 0.11) 42.2% 42.8%, transparent 43% 100%),
-    linear-gradient(8deg, transparent 0 58%, rgba(0, 79, 158, 0.10) 58.2% 58.8%, transparent 59% 100%),
-    radial-gradient(ellipse at 20% 40%, rgba(0, 79, 158, 0.10), transparent 45%),
-    radial-gradient(ellipse at 75% 50%, rgba(0, 79, 158, 0.14), transparent 48%),
-    #f6f9fc;
-  border-bottom: 1px solid var(--nav-border);
-}
-
-.personal-description {
-  margin-top: 0.5rem;
-}
-
-li,
-.paper-card {
-  background: var(--card-bg);
-  border-color: var(--card-border);
-}
-
-footer {
-  width: 100%;
-  max-width: 900px;
-}
-
-body.dark-mode {
-  --nav-bg: #151c26;
-  --nav-border: #2b3442;
-  --nav-text: #dce6f2;
-  --nav-active: #8abfff;
-  --hero-ink: #f3f7fb;
-  --page-bg: #121212;
-  --card-bg: #1b1b1b;
-  --card-border: #333;
-}
-
-body.dark-mode header {
-  background: var(--nav-bg);
-  border-bottom-color: var(--nav-border);
-}
-
-body.dark-mode header h1 {
-  color: var(--hero-ink);
-}
-
-body.dark-mode .navbar {
-  background: transparent;
-  border: 0;
-}
-
-body.dark-mode .navbar a {
-  color: var(--nav-text);
-}
-
-body.dark-mode .navbar a.active {
-  color: var(--nav-active);
-}
-
-body.dark-mode.home header h1 {
-  background:
-    linear-gradient(90deg, rgba(21, 28, 38, 0.97) 0%, rgba(21, 28, 38, 0.78) 45%, rgba(21, 28, 38, 0.94) 100%),
-    radial-gradient(circle at 16% 60%, rgba(138, 191, 255, 0.28) 0 2px, transparent 3px),
-    radial-gradient(circle at 31% 35%, rgba(138, 191, 255, 0.18) 0 2px, transparent 3px),
-    radial-gradient(circle at 51% 52%, rgba(138, 191, 255, 0.20) 0 2px, transparent 3px),
-    radial-gradient(circle at 69% 32%, rgba(138, 191, 255, 0.18) 0 2px, transparent 3px),
-    radial-gradient(circle at 84% 58%, rgba(138, 191, 255, 0.25) 0 2px, transparent 3px),
-    linear-gradient(18deg, transparent 0 36%, rgba(138, 191, 255, 0.13) 36.2% 36.9%, transparent 37.1% 100%),
-    linear-gradient(154deg, transparent 0 42%, rgba(138, 191, 255, 0.12) 42.2% 42.8%, transparent 43% 100%),
-    linear-gradient(8deg, transparent 0 58%, rgba(138, 191, 255, 0.10) 58.2% 58.8%, transparent 59% 100%),
-    radial-gradient(ellipse at 20% 40%, rgba(138, 191, 255, 0.10), transparent 45%),
-    radial-gradient(ellipse at 75% 50%, rgba(138, 191, 255, 0.14), transparent 48%),
-    #151c26;
-  border-bottom-color: var(--nav-border);
-}
-
-@media (max-width: 640px) {
-  header h1 {
-    font-size: 1.85rem;
-    padding-top: 3.1rem;
-  }
-
-  body.home header h1 {
-    min-height: 120px;
-    padding: 3.8rem 1rem 2.6rem;
-  }
-
-  .navbar {
-    gap: 0.8rem;
-    font-size: 0.95rem;
-  }
-}
-/* --- End layout v4 --- */
-</style>
- <link rel="icon" href="fpcfavicon.ico" /> 
-
-
- <!-- Cloudflare Web Analytics -->
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "3f242d4b7242447b8b099789274e7e83"}'></script>
-<!-- End Cloudflare Web Analytics -->
+  <!-- Cloudflare Web Analytics -->
+  <script
+    defer
+    src="https://static.cloudflareinsights.com/beacon.min.js"
+    data-cf-beacon='{"token": "3f242d4b7242447b8b099789274e7e83"}'
+  ></script>
+  <!-- End Cloudflare Web Analytics -->
 </head>
 
-
 <body>
- <button class="dark-toggle" onclick="toggleDarkMode()" aria-label="Toggle dark mode">🌓 Dark Mode</button>
+  <button
+    class="dark-toggle"
+    type="button"
+    onclick="toggleDarkMode()"
+    aria-label="Toggle dark mode"
+  >
+    🌓 Dark Mode
+  </button>
 
+  <header>
+    <h1>Francesco Paolo Conteduca</h1>
 
- <header>
- <h1>Francesco Paolo Conteduca</h1>
- <!-- Navigation bar -->
- <nav class="navbar">
- <a href="index.html">Home</a>
- <a href="publications.html">Publications</a>
- <a href="working-papers.html" class="active">Working Papers</a>
- <a href="policy-papers.html">Policy Papers</a>
- </nav>
- </header>
+    <nav class="navbar" aria-label="Main navigation">
+      <a href="index.html">Home</a>
+      <a href="publications.html">Publications</a>
+      <a href="working-papers.html" class="active" aria-current="page">
+        Working Papers
+      </a>
+      <a href="policy-papers.html">Policy Papers</a>
+    </nav>
+  </header>
 
+  <main>
+    <ul class="paper-list">
 
- <ul class="paper-list">
- <li>
- <strong>
- <a href="https://drive.google.com/file/d/1E0EZxQP5NTaquNHp1RUiV1kGETA3FQYz/view" target="_blank">
-          Natural Disasters and Markups
- </a>
- </strong><br />
- <div class="paper-meta">
-        with <a href="https://sites.google.com/site/ludovicpanon/home">Ludovic Panon</a>.
- </div>
-     Revise and resubmit, <em>American Economic Journal: Macroeconomics</em>
- </li>
- </ul>
+      <!-- Natural Disasters and Markups -->
+      <li>
+        <div class="paper-title">
+          <a
+            href="https://drive.google.com/file/d/1E0EZxQP5NTaquNHp1RUiV1kGETA3FQYz/view"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Natural Disasters and Markups
+          </a>
+        </div>
 
+        <div class="paper-meta">
+          with
+          <a
+            href="https://sites.google.com/site/ludovicpanon/home"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Ludovic Panon
+          </a>.
+        </div>
 
+        <div class="paper-meta paper-status">
+          Revise and resubmit,
+          <em>American Economic Journal: Macroeconomics</em>
+        </div>
+      </li>
 
+      <!-- How global are local value chains? -->
+      <li>
+        <div class="paper-title">
+          <a
+            href="https://www.ifo.de/en/cesifo/publications/2025/working-paper/how-global-are-local-value-chains"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            How Global Are Local Value Chains?
+          </a>
+        </div>
 
- <ul>
- <li>
- <strong>
- <a href="https://www.ifo.de/en/cesifo/publications/2025/working-paper/how-global-are-local-value-chains" target = "_blank">
-            How global are local value chains? 
- </a>
- </strong><br />
- <div class="paper-meta">
-        with <a href = "https://www.tradeconomics.com/borin">Alessandro Borin</a>, <a href = "https://fabrizioleone.github.io/">Fabrizio Leone</a>, <a href="https://www.tradeconomics.com/mancini/">Michele Mancini</a>, and Patrick Zoi.<br>
- </div>
-      Revise and resubmit, <em>Journal of Economic Geography</em>
- </li>
- </ul>
+        <div class="paper-meta">
+          with
+          <a
+            href="https://www.tradeconomics.com/borin/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Alessandro Borin
+          </a>,
+          <a
+            href="https://fabrizioleone.github.io/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Fabrizio Leone
+          </a>,
+          <a
+            href="https://www.tradeconomics.com/mancini/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Michele Mancini
+          </a>,
+          and Patrick Zoi.
+        </div>
 
+        <div class="paper-meta paper-status">
+          Revise and resubmit, <em>Journal of Economic Geography</em>
+        </div>
+      </li>
 
- <ul>
- <li>
- <strong>
- <a href="https://fabrizioleone.github.io/files/CELPR.pdf" target = "_blank">
+      <!-- The Impact of Trade Wars on Firms in Third Countries -->
+      <li>
+        <div class="paper-title">
+          <a
+            href="https://fabrizioleone.github.io/files/CELPR.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             The Impact of Trade Wars on Firms in Third Countries
- </a>
- </strong><br />
- <div class="paper-meta">
-        with <a href = "https://fabrizioleone.github.io/">Fabrizio Leone</a>, <a href="https://www.marcoerrico.net/">Marco Errico</a>, <a href="https://sites.google.com/site/ludovicpanon/home">Ludovic Panon</a>, <a href="https://giacomo-romanini.github.io/">Giacomo Romanini</a>.<br>
- </div>
- </li>
- </ul>
+          </a>
+        </div>
 
+        <div class="paper-meta">
+          with
+          <a
+            href="https://fabrizioleone.github.io/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Fabrizio Leone
+          </a>,
+          <a
+            href="https://www.marcoerrico.net/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Marco Errico
+          </a>,
+          <a
+            href="https://sites.google.com/site/ludovicpanon/home"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Ludovic Panon
+          </a>,
+          <a
+            href="https://giacomoromanini.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Giacomo Romanini
+          </a>.
+        </div>
+      </li>
 
- <ul>
- <li>
- <strong>
- <a href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0932/index.html" target="_blank" rel="noopener">
-          Fragmentation and the future of GVCs
- </a>
- </strong><br />
- <div class="paper-meta">with <a href="https://tradeconomics.com/mancini/" target="_blank" rel="noopener">Michele Mancini</a>, <a href="https://giacomoromanini.com/" target="_blank" rel="noopener">Giacomo Romanini</a>, <a href="https://sites.google.com/carloalberto.org/simona-giglioli/home" target="_blank" rel="noopener">Simona Giglioli</a>, <a href="https://tradeconomics.com/borin/" target="_blank" rel="noopener">Alessandro Borin</a>, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier.<br>
- </div>
-        Revise and resubmit, <em>The World Economy</em>
- </li>
- </ul>
- 
+      <!-- US tariffs and Italian firms -->
+      <li>
+        <div class="paper-title">
+          <a
+            href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0993/index.html"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            US Tariffs and Italian Firms: Mapping Network Exposure and Early
+            Impact from Survey Data
+          </a>
+        </div>
 
+        <div class="paper-meta">
+          with Andrea Benecchi,
+          <a
+            href="https://tradeconomics.com/borin/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Alessandro Borin
+          </a>,
+          <a
+            href="https://fabrizioleone.github.io/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Fabrizio Leone
+          </a>,
+          <a
+            href="https://tradeconomics.com/mancini/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Michele Mancini
+          </a>,
+          Lucia Modugno, Matteo Mongardini, Giulio Papini, and Patrick Zoi.
+        </div>
 
- <footer>
-  <p>© Francesco Paolo Conteduca · Last updated: June 2026</p>
- </footer>
+        <div class="paper-meta paper-status">
+          Revise and resubmit, <em>Economia Politica</em>
+        </div>
+      </li>
 
- <script>
- function toggleDarkMode() {
- document.body.classList.toggle('dark-mode');
- localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
- }
+    </ul>
+  </main>
 
+  <footer>
+    <p>© Francesco Paolo Conteduca · Last updated: September 2026</p>
+  </footer>
 
- window.onload = function () {
- if (localStorage.getItem('darkMode') === 'true') {
- document.body.classList.add('dark-mode');
- }
- };
- </script>
+  <script>
+    function toggleDarkMode() {
+      document.body.classList.toggle("dark-mode");
+
+      localStorage.setItem(
+        "darkMode",
+        document.body.classList.contains("dark-mode")
+      );
+    }
+
+    window.addEventListener("DOMContentLoaded", function () {
+      if (localStorage.getItem("darkMode") === "true") {
+        document.body.classList.add("dark-mode");
+      }
+    });
+  </script>
 </body>
 </html>
+```
